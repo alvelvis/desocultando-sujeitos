@@ -10,7 +10,7 @@ else:
 	pasta = sys.argv[1]
 
 for arquivo_id in os.listdir(pasta):
-	if any(x in arquivo_id for x in ['-test', '-train', '-dev']) and ".txt" in arquivo_id:
+	if any(arquivo_id.endswith(x + ".txt") for x in ['-test', '-train', '-dev']):
 		arquivo_ids = pasta + '/' + arquivo_id
 		diretorio = arquivo_ids.rsplit('/', 1)[0] + '/'
 		arquivo_conllu = arquivo_ids.split('.txt')[0] + '.conllu'

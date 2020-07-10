@@ -10,7 +10,7 @@ Para reproduzir o experimento, disponibilizamos neste repositório grande parte 
 
 1) Por se tratar de corpora muito grandes, não disponibilizamos inteiros, mas relatamos o que fizemos para obtê-los a seguir:
 
-O DHBB e o OBras foram obtidos do site da [Linguateca](http://linguateca.pt) no dia 26 de junho de 2020. Convertemos seu conteúdo, anotado no formato AC/DC, para texto cru utilizando o notebook (disponível no repositório) `convert-acdc-raw.ipynb`.
+O DHBB e o OBras foram obtidos do site da [Linguateca](http://linguateca.pt) no dia 26 de junho de 2020, respectivamente em suas versões 6.1 e 9.0. Convertemos seu conteúdo, anotado no formato AC/DC, para texto cru utilizando o notebook (disponível no repositório) `convert-acdc-raw.ipynb`.
 
 O resultado dessa conversão consta neste repositório:
 
@@ -59,8 +59,8 @@ $ ./udpipe-1.2.0 --train --tagger --parser bosque-ud-2.6-desocultado.udpipe bosq
 ```
 $ python3 tokenizar_conllu.py bosque-ud-2.6-test.conllu bosque-ud-2.6-test-tokenizado.txt
 $ python3 tokenizar_conllu.py bosque-ud-2.6-desocultado-test.conllu bosque-ud-2.6-desocultado-test-tokenizado.txt
-$ python3 udpipe_vertical.py bosque-ud-2.6.udpipe bosque-ud-2.6-test-tokenizado.txt > bosque-ud-2.6-test-anotado.conllu
-$ python3 udpipe_vertical.py bosque-ud-2.6-desocultado.udpipe bosque-ud-2.6-desocultado-test-tokenizado.txt > bosque-ud-2.6-desocultado-test-anotado.txt
+$ python3 udpipe_vertical.py bosque-ud-2.6.udpipe bosque-ud-2.6-test-tokenizado.txt bosque-ud-2.6-test-anotado.conllu
+$ python3 udpipe_vertical.py bosque-ud-2.6-desocultado.udpipe bosque-ud-2.6-desocultado-test-tokenizado.txt bosque-ud-2.6-desocultado-test-anotado.conllu
 ```
 
 8) Comparamos a qualidade da anotação com os seguintes comandos:
