@@ -1,0 +1,1 @@
+uso: udpipe_vertical.py modelo.udpipe tokenizado.conllu resultado.conllu
