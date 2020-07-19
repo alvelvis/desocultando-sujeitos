@@ -1,14 +1,14 @@
-# text = É por isso que , ele explica , SUJ_DESOCULTADO não tem pena de Hillary Clinton .
+# text = É por isso que , <SUBJ> explica , <SUBJ> não tem pena de Hillary Clinton .
 # sent_id = CP981-1
 É	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
 isso	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 explica	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 não	_	_	_	_	_	_	_	_	_
 tem	_	_	_	_	_	_	_	_	_
 pena	_	_	_	_	_	_	_	_	_
@@ -17,7 +17,7 @@ Hillary	_	_	_	_	_	_	_	_	_
 Clinton	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « Eles [ Hillary e Bill Clinton ] podem ter alguma espécie de acordo e quem somos nós para SUJ_DESOCULTADO dizer se ele é bom ou mau ?
+# text = « Eles [ Hillary e Bill Clinton ] podem ter alguma espécie de acordo e quem somos nós para <SUBJ> dizer se <SUBJ> é bom ou mau ?
 # sent_id = CP981-2
 «	_	_	_	_	_	_	_	_	_
 Eles	_	_	_	_	_	_	_	_	_
@@ -38,17 +38,17 @@ quem	_	_	_	_	_	_	_	_	_
 somos	_	_	_	_	_	_	_	_	_
 nós	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 dizer	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
 bom	_	_	_	_	_	_	_	_	_
 ou	_	_	_	_	_	_	_	_	_
 mau	_	_	_	_	_	_	_	_	_
 ?	_	_	_	_	_	_	_	_	_
 
-# text = Eu acho que eles têm mais maturidade em relação a o sexo , como em relação a as drogas , de o SUJ_DESOCULTADO que podem mostrar » .
+# text = Eu acho que eles têm mais maturidade em relação a o sexo , como em relação a as drogas , de o <SUBJ> que podem mostrar » .
 # sent_id = CP981-3
 Eu	_	_	_	_	_	_	_	_	_
 acho	_	_	_	_	_	_	_	_	_
@@ -75,21 +75,21 @@ drogas	_	_	_	_	_	_	_	_	_
 21-22-=do	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 podem	_	_	_	_	_	_	_	_	_
 mostrar	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Talvez o Presidente , quando ele liga a televisão de manhã e descobre que apesar de Hillary continuar a o seu lado o país insiste em discutir se ele deve ou não abandonar o cargo porque SUJ_DESOCULTADO teve uma relação extraconjugal com Monica Lewinsky , pense , como uma de as personagens de « Happiness » :
+# text = Talvez o Presidente , quando <SUBJ> liga a televisão de manhã e descobre que apesar de Hillary continuar a o seu lado o país insiste em discutir se ele deve ou não abandonar o cargo porque <SUBJ> teve uma relação extraconjugal com Monica Lewinsky , pense , como uma de as personagens de « Happiness » :
 # sent_id = CP981-4
 Talvez	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 Presidente	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 quando	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 liga	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 televisão	_	_	_	_	_	_	_	_	_
@@ -121,7 +121,7 @@ abandonar	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 cargo	_	_	_	_	_	_	_	_	_
 porque	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 teve	_	_	_	_	_	_	_	_	_
 uma	_	_	_	_	_	_	_	_	_
 relação	_	_	_	_	_	_	_	_	_
@@ -144,10 +144,10 @@ Happiness	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 :	_	_	_	_	_	_	_	_	_
 
-# text = « ele Vivo em um Estado de Ironia » .
+# text = « <SUBJ> Vivo em um Estado de Ironia » .
 # sent_id = CP981-5
 «	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 Vivo	_	_	_	_	_	_	_	_	_
 4-5-=num	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
@@ -191,7 +191,7 @@ solidariedades	_	_	_	_	_	_	_	_	_
 antigas	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A decisão de Guterres foi tomada depois de segunda-feira SUJ_DESOCULTADO ter reunido o núcleo duro de os seus conselheiros políticos , SUJ_DESOCULTADO tendo mantido outros contactos durante todo o dia .
+# text = A decisão de Guterres foi tomada depois de segunda-feira <SUBJ> ter reunido o núcleo duro de os seus conselheiros políticos , <SUBJ> tendo mantido outros contactos durante todo o dia .
 # sent_id = CP982-2
 A	_	_	_	_	_	_	_	_	_
 decisão	_	_	_	_	_	_	_	_	_
@@ -202,7 +202,7 @@ tomada	_	_	_	_	_	_	_	_	_
 depois	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 segunda-feira	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 ter	_	_	_	_	_	_	_	_	_
 reunido	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
@@ -215,7 +215,7 @@ seus	_	_	_	_	_	_	_	_	_
 conselheiros	_	_	_	_	_	_	_	_	_
 políticos	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 tendo	_	_	_	_	_	_	_	_	_
 mantido	_	_	_	_	_	_	_	_	_
 outros	_	_	_	_	_	_	_	_	_
@@ -226,7 +226,7 @@ o	_	_	_	_	_	_	_	_	_
 dia	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Esta precipitação de os acontecimentos vem de encontro a algumas de as críticas feitas a a actuação de a Comissão Permanente , criticada por SUJ_DESOCULTADO ter « deixado arrastar » durante semanas o contencioso com o eurodeputado , em vez de desde logo , como muitos defenderam , SUJ_DESOCULTADO chamar Campos para este prestar esclarecimentos e colocar uma pedra sobre o assunto .
+# text = Esta precipitação de os acontecimentos vem de encontro a algumas de as críticas feitas a a actuação de a Comissão Permanente , criticada por <SUBJ> ter « deixado arrastar » durante semanas o contencioso com o eurodeputado , em vez de desde logo , como muitos defenderam , <SUBJ> chamar Campos para este prestar esclarecimentos e colocar uma pedra sobre o assunto .
 # sent_id = CP982-3
 Esta	_	_	_	_	_	_	_	_	_
 precipitação	_	_	_	_	_	_	_	_	_
@@ -256,7 +256,7 @@ Permanente	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 criticada	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 ter	_	_	_	_	_	_	_	_	_
 «	_	_	_	_	_	_	_	_	_
 deixado	_	_	_	_	_	_	_	_	_
@@ -280,7 +280,7 @@ como	_	_	_	_	_	_	_	_	_
 muitos	_	_	_	_	_	_	_	_	_
 defenderam	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 chamar	_	_	_	_	_	_	_	_	_
 Campos	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
@@ -359,9 +359,9 @@ de	_	_	_	_	_	_	_	_	_
 heroína	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO apesar de haver suspeitas de o indivíduo estar relacionado com o tráfico de drogas duras em as Galinheiras e também em a zona de Odivelas , onde SUJ_DESOCULTADO possui outra casa , nenhuma quantidade significativa foi encontrada .
+# text = <SUBJ> apesar de haver suspeitas de o indivíduo estar relacionado com o tráfico de drogas duras em as Galinheiras e também em a zona de Odivelas , onde <SUBJ> possui outra casa , nenhuma quantidade significativa foi encontrada .
 # sent_id = CP983-2
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 apesar	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 haver	_	_	_	_	_	_	_	_	_
@@ -391,7 +391,7 @@ de	_	_	_	_	_	_	_	_	_
 Odivelas	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 onde	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 possui	_	_	_	_	_	_	_	_	_
 outra	_	_	_	_	_	_	_	_	_
 casa	_	_	_	_	_	_	_	_	_
@@ -403,7 +403,7 @@ foi	_	_	_	_	_	_	_	_	_
 encontrada	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Eu elogiei a escolha de o meu anfitrião , SUJ_DESOCULTADO enquanto discorria , a despropósito , acerca de o papel de o « consejero de créacion » , que tinha talvez inventado aquela espécie de centro de mesa , com batatas acabadas de fritar ( sim , batatas fritas ) , certamente em fatias espantosamente finas e em azeite a ferver , tratadas a modos de « soufflé » .
+# text = Eu elogiei a escolha de o meu anfitrião , <SUBJ> enquanto discorria , a despropósito , acerca de o papel de o « consejero de créacion » , que tinha talvez inventado aquela espécie de centro de mesa , com batatas acabadas de fritar ( sim , batatas fritas ) , certamente em fatias espantosamente finas e em azeite a ferver , tratadas a modos de « soufflé » .
 # sent_id = CP984-1
 Eu	_	_	_	_	_	_	_	_	_
 elogiei	_	_	_	_	_	_	_	_	_
@@ -415,7 +415,7 @@ o	_	_	_	_	_	_	_	_	_
 meu	_	_	_	_	_	_	_	_	_
 anfitrião	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 enquanto	_	_	_	_	_	_	_	_	_
 discorria	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
@@ -689,13 +689,13 @@ Prémio	_	_	_	_	_	_	_	_	_
 Camões	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele é de crer SUJ_DESOCULTADO que estivesse a ser sincero .
+# text = <SUBJ> é de crer <SUBJ> que estivesse a ser sincero .
 # sent_id = CP985-3
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 crer	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 estivesse	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -703,7 +703,7 @@ ser	_	_	_	_	_	_	_	_	_
 sincero	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Eduardo Lourenço tem , de facto , esse dom , tão contraditório com a sua proverbial modéstia , de dar a tudo quanto ele escreve um tom definitivo .
+# text = Eduardo Lourenço tem , de facto , esse dom , tão contraditório com a sua proverbial modéstia , de dar a tudo quanto <SUBJ> escreve um tom definitivo .
 # sent_id = CP985-4
 Eduardo	_	_	_	_	_	_	_	_	_
 Lourenço	_	_	_	_	_	_	_	_	_
@@ -728,16 +728,16 @@ dar	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 tudo	_	_	_	_	_	_	_	_	_
 quanto	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 escreve	_	_	_	_	_	_	_	_	_
 um	_	_	_	_	_	_	_	_	_
 tom	_	_	_	_	_	_	_	_	_
 definitivo	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele provoca em quem o ouve a sensação de que aquilo SUJ_DESOCULTADO que diz , o diz de a forma mais justa , se não de a única forma justa .
+# text = <SUBJ> provoca em quem o ouve a sensação de que aquilo <SUBJ> que diz , o diz de a forma mais justa , se não de a única forma justa .
 # sent_id = CP985-5
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 provoca	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
 quem	_	_	_	_	_	_	_	_	_
@@ -748,7 +748,7 @@ sensação	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 aquilo	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 diz	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
@@ -890,11 +890,11 @@ o	_	_	_	_	_	_	_	_	_
 país	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Concebidos para eles funcionarem como instrumentos privilegiados de os gestores de sistemas de informação , estes Compaq Proliant viram reforçados os seus dispositivos de segurança e prevenção de quebras em o sistema -- reforço esse em uma perspectiva de centralização física de este tipo de equipamentos , sustentadores de redes cada vez mais complexas resultantes de as evoluções de « downsizing » e « rightsizing » a que muitos sistemas de informação SUJ_DESOCULTADO estiveram ou virão a estar sujeitos .
+# text = Concebidos para <SUBJ> funcionarem como instrumentos privilegiados de os gestores de sistemas de informação , estes Compaq Proliant viram reforçados os seus dispositivos de segurança e prevenção de quebras em o sistema -- reforço esse em uma perspectiva de centralização física de este tipo de equipamentos , sustentadores de redes cada vez mais complexas resultantes de as evoluções de « downsizing » e « rightsizing » a que muitos sistemas de informação <SUBJ> estiveram ou virão a estar sujeitos .
 # sent_id = CP987-1
 Concebidos	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 funcionarem	_	_	_	_	_	_	_	_	_
 como	_	_	_	_	_	_	_	_	_
 instrumentos	_	_	_	_	_	_	_	_	_
@@ -969,7 +969,7 @@ muitos	_	_	_	_	_	_	_	_	_
 sistemas	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 informação	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 estiveram	_	_	_	_	_	_	_	_	_
 ou	_	_	_	_	_	_	_	_	_
 virão	_	_	_	_	_	_	_	_	_
@@ -1187,7 +1187,7 @@ de	_	_	_	_	_	_	_	_	_
 Ouro	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Um industrial de o Porto , Manuel Magalhães , de 48 anos , abate a tiro dois sócios , quatro disparos em um , seis em outro , por SUJ_DESOCULTADO terem passado cheques em seu nome .
+# text = Um industrial de o Porto , Manuel Magalhães , de 48 anos , abate a tiro dois sócios , quatro disparos em um , seis em outro , por <SUBJ> terem passado cheques em seu nome .
 # sent_id = CP989-1
 Um	_	_	_	_	_	_	_	_	_
 industrial	_	_	_	_	_	_	_	_	_
@@ -1221,7 +1221,7 @@ em	_	_	_	_	_	_	_	_	_
 outro	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 terem	_	_	_	_	_	_	_	_	_
 passado	_	_	_	_	_	_	_	_	_
 cheques	_	_	_	_	_	_	_	_	_
@@ -1355,10 +1355,10 @@ situação	_	_	_	_	_	_	_	_	_
 irreversível	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = E eles não se invoquem os prejuízos imediatos de tal decisão , SUJ_DESOCULTADO pois corresponderão , certamente , a uma parcela diminuta de os encargos com essa obra faraónica e desajustada que é a Expo'98 » .
+# text = E <SUBJ> não se invoquem os prejuízos imediatos de tal decisão , <SUBJ> pois corresponderão , certamente , a uma parcela diminuta de os encargos com essa obra faraónica e desajustada que é a Expo'98 » .
 # sent_id = CP990-3
 E	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 não	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 invoquem	_	_	_	_	_	_	_	_	_
@@ -1369,7 +1369,7 @@ de	_	_	_	_	_	_	_	_	_
 tal	_	_	_	_	_	_	_	_	_
 decisão	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 pois	_	_	_	_	_	_	_	_	_
 corresponderão	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
@@ -1396,9 +1396,9 @@ Expo'98	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO são afirmações de o reitor de o Universidade de o Porto , Alberto Amaral , em o editorial de o nº 25 de o Boletim de aquela Universidade , inteiramente dedicado a o tratamento de a « grave situação de o património histórico-cultural de o vale de o rio Côa » , como igualmente refere o autor .
+# text = <SUBJ> são afirmações de o reitor de o Universidade de o Porto , Alberto Amaral , em o editorial de o nº 25 de o Boletim de aquela Universidade , inteiramente dedicado a o tratamento de a « grave situação de o património histórico-cultural de o vale de o rio Côa » , como igualmente refere o autor .
 # sent_id = CP990-4
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 são	_	_	_	_	_	_	_	_	_
 afirmações	_	_	_	_	_	_	_	_	_
 4-5-=do	_	_	_	_	_	_	_	_	_
@@ -1589,7 +1589,7 @@ as	_	_	_	_	_	_	_	_	_
 16h	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Cumpridos 16 dias de uma greve de 45 , a paralisação em a Rádio Televisão de a Guiné-Bissau ( RTGB ) foi suspensa ontem até a o próximo dia 25 , devido a uma cedência de os trabalhadores que têm ouvido forte e feio de a população fora de Bissau que não tem acesso a as emissões de a RTPi -- especialmente por causa de os jogos de a selecção portuguesa , acompanhados SUJ_DESOCULTADO como se fosse a selecção guineense .
+# text = Cumpridos 16 dias de uma greve de 45 , a paralisação em a Rádio Televisão de a Guiné-Bissau ( RTGB ) foi suspensa ontem até a o próximo dia 25 , devido a uma cedência de os trabalhadores que têm ouvido forte e feio de a população fora de Bissau que não tem acesso a as emissões de a RTPi -- especialmente por causa de os jogos de a selecção portuguesa , acompanhados <SUBJ> como se fosse a selecção guineense .
 # sent_id = CP992-1
 Cumpridos	_	_	_	_	_	_	_	_	_
 16	_	_	_	_	_	_	_	_	_
@@ -1673,7 +1673,7 @@ selecção	_	_	_	_	_	_	_	_	_
 portuguesa	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 acompanhados	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 como	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 fosse	_	_	_	_	_	_	_	_	_
@@ -1682,7 +1682,7 @@ selecção	_	_	_	_	_	_	_	_	_
 guineense	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = E foi assim que ontem -- precisamente por causa de o Portugal - Turquia -- a televisão guineense reabriu ... a a hora necessária para SUJ_DESOCULTADO transmitir o Portugal - Turquia , o que motivou grandes ajuntamentos em locais públicos que dispunham de televisores , tanto em Bissau como em o interior de o país .
+# text = E foi assim que ontem -- precisamente por causa de o Portugal - Turquia -- a televisão guineense reabriu ... a a hora necessária para <SUBJ> transmitir o Portugal - Turquia , o que motivou grandes ajuntamentos em locais públicos que dispunham de televisores , tanto em Bissau como em o interior de o país .
 # sent_id = CP992-2
 E	_	_	_	_	_	_	_	_	_
 foi	_	_	_	_	_	_	_	_	_
@@ -1711,7 +1711,7 @@ a	_	_	_	_	_	_	_	_	_
 hora	_	_	_	_	_	_	_	_	_
 necessária	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 transmitir	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 Portugal	_	_	_	_	_	_	_	_	_
@@ -1955,7 +1955,7 @@ ano	_	_	_	_	_	_	_	_	_
 anterior	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = De o ponto de vista concorrencial , o agravamento de as perdas de a empresa explica se , em parte , devido a a « entrada em o mercado de novos estaleiros situados em países de muito baixo custo de mão-de-obra ( países de o ex-bloco de Leste ) , e a aumentos de a capacidade de docagem em áreas bem localizadas relativamente a os grandes fluxos de tráfego marítimo , eles além de também disporem de mão-de-obra barata ( países de o Médio e Extremo Oriente ) .
+# text = De o ponto de vista concorrencial , o agravamento de as perdas de a empresa explica se , em parte , devido a a « entrada em o mercado de novos estaleiros situados em países de muito baixo custo de mão-de-obra ( países de o ex-bloco de Leste ) , e a aumentos de a capacidade de docagem em áreas bem localizadas relativamente a os grandes fluxos de tráfego marítimo , <SUBJ> além de também disporem de mão-de-obra barata ( países de o Médio e Extremo Oriente ) .
 # sent_id = CP993-7
 1-2-=Do	_	_	_	_	_	_	_	_	_
 De	_	_	_	_	_	_	_	_	_
@@ -2037,7 +2037,7 @@ de	_	_	_	_	_	_	_	_	_
 tráfego	_	_	_	_	_	_	_	_	_
 marítimo	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 além	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 também	_	_	_	_	_	_	_	_	_
@@ -2316,10 +2316,10 @@ em	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 Camboja	_	_	_	_	_	_	_	_	_
 
-# text = « SUJ_DESOCULTADO Apanhado » por a ronda de o PÚBLICO quando SUJ_DESOCULTADO chegava a aquela praia SUJ_DESOCULTADO acompanhado por a mulher e por o filho , em a tarde de quinta-feira passada , o ministro de os Negócios Estrangeiros português escusou se a ser fotografado , com o argumento de « estar em férias » , acelerando o passo ( mais tarde , quando abandonava a praia , já depois de as 20 horas , acabaria por ser « apanhado » por a objectiva ) .
+# text = « <SUBJ> Apanhado » por a ronda de o PÚBLICO quando <SUBJ> chegava a aquela praia <SUBJ> acompanhado por a mulher e por o filho , em a tarde de quinta-feira passada , o ministro de os Negócios Estrangeiros português escusou se a ser fotografado , com o argumento de « estar em férias » , acelerando o passo ( mais tarde , quando abandonava a praia , já depois de as 20 horas , acabaria por ser « apanhado » por a objectiva ) .
 # sent_id = CP995-1
 «	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 Apanhado	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 5-6-=pela	_	_	_	_	_	_	_	_	_
@@ -2331,13 +2331,13 @@ de	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 PÚBLICO	_	_	_	_	_	_	_	_	_
 quando	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 chegava	_	_	_	_	_	_	_	_	_
 14-15-=àquela	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 aquela	_	_	_	_	_	_	_	_	_
 praia	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 acompanhado	_	_	_	_	_	_	_	_	_
 19-20-=pela	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
@@ -2415,9 +2415,9 @@ objectiva	_	_	_	_	_	_	_	_	_
 )	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO conhecido por os vizinhos banhistas , SUJ_DESOCULTADO lá foi acenando até se instalar mesmo junto a a água .
+# text = <SUBJ> conhecido por os vizinhos banhistas , <SUBJ> lá foi acenando até se instalar mesmo junto a a água .
 # sent_id = CP995-2
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 conhecido	_	_	_	_	_	_	_	_	_
 3-4-=pelos	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
@@ -2425,7 +2425,7 @@ os	_	_	_	_	_	_	_	_	_
 vizinhos	_	_	_	_	_	_	_	_	_
 banhistas	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 lá	_	_	_	_	_	_	_	_	_
 foi	_	_	_	_	_	_	_	_	_
 acenando	_	_	_	_	_	_	_	_	_
@@ -2440,7 +2440,7 @@ a	_	_	_	_	_	_	_	_	_
 água	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Não longe de Guilherme Oliveira Martins , o assessor político de Mário Soares , que deixará Belém em Setembro para SUJ_DESOCULTADO assumir por inteiro a sua condição de futuro deputado por o Partido Socialista .
+# text = Não longe de Guilherme Oliveira Martins , o assessor político de Mário Soares , que deixará Belém em Setembro para <SUBJ> assumir por inteiro a sua condição de futuro deputado por o Partido Socialista .
 # sent_id = CP995-3
 Não	_	_	_	_	_	_	_	_	_
 longe	_	_	_	_	_	_	_	_	_
@@ -2462,7 +2462,7 @@ Belém	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
 Setembro	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 assumir	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
 inteiro	_	_	_	_	_	_	_	_	_
@@ -2520,7 +2520,7 @@ Verão	_	_	_	_	_	_	_	_	_
 algarvio	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Mas quinta-feira era , decididamente , um dia mau para SUJ_DESOCULTADO apanhar a classe política em calções de banho :
+# text = Mas quinta-feira era , decididamente , um dia mau para <SUBJ> apanhar a classe política em calções de banho :
 # sent_id = CP995-5
 Mas	_	_	_	_	_	_	_	_	_
 quinta-feira	_	_	_	_	_	_	_	_	_
@@ -2532,7 +2532,7 @@ um	_	_	_	_	_	_	_	_	_
 dia	_	_	_	_	_	_	_	_	_
 mau	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 apanhar	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 classe	_	_	_	_	_	_	_	_	_
@@ -2627,7 +2627,7 @@ desfeita	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 Doohan	_	_	_	_	_	_	_	_	_
 
-# text = O australiano Michael Doohan ( Honda ) fez ontem a desfeita a os adeptos italianos , a o SUJ_DESOCULTADO vencer o Grande Prémio de Itália de motociclismo em 500cc , quarta prova de o Mundial de a modalidade , disputada em o circuito de Mugello , onde os espectadores puxavam fervorosamente por Max Biaggi ( Honda ) , que não foi além de o segundo posto .
+# text = O australiano Michael Doohan ( Honda ) fez ontem a desfeita a os adeptos italianos , a o <SUBJ> vencer o Grande Prémio de Itália de motociclismo em 500cc , quarta prova de o Mundial de a modalidade , disputada em o circuito de Mugello , onde os espectadores puxavam fervorosamente por Max Biaggi ( Honda ) , que não foi além de o segundo posto .
 # sent_id = CP996-3
 O	_	_	_	_	_	_	_	_	_
 australiano	_	_	_	_	_	_	_	_	_
@@ -2649,7 +2649,7 @@ italianos	_	_	_	_	_	_	_	_	_
 17-18-=ao	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 vencer	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 Grande	_	_	_	_	_	_	_	_	_
@@ -2759,7 +2759,7 @@ inteiramente	_	_	_	_	_	_	_	_	_
 restaurada	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Quatro quartos , simples por 850000 e duplos por 980000 ; eles servem refeições SUJ_DESOCULTADO quando solicitado e admitem animais .
+# text = Quatro quartos , simples por 850000 e duplos por 980000 ; <SUBJ> servem refeições <SUBJ> quando solicitado e admitem animais .
 # sent_id = CP997-3
 Quatro	_	_	_	_	_	_	_	_	_
 quartos	_	_	_	_	_	_	_	_	_
@@ -2772,10 +2772,10 @@ duplos	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
 980000	_	_	_	_	_	_	_	_	_
 ;	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 servem	_	_	_	_	_	_	_	_	_
 refeições	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 quando	_	_	_	_	_	_	_	_	_
 solicitado	_	_	_	_	_	_	_	_	_
 e	_	_	_	_	_	_	_	_	_
@@ -2810,9 +2810,9 @@ precioso	_	_	_	_	_	_	_	_	_
 auxiliar	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO enriquecido com proteínas e pró-vitamina B5 , SUJ_DESOCULTADO é aplicado com uma escova especialmente criada SUJ_DESOCULTADO para evitar o esborratamento de o rímel .
+# text = <SUBJ> enriquecido com proteínas e pró-vitamina B5 , <SUBJ> é aplicado com uma escova especialmente criada <SUBJ> para evitar o esborratamento de o rímel .
 # sent_id = CP998-2
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 enriquecido	_	_	_	_	_	_	_	_	_
 com	_	_	_	_	_	_	_	_	_
 proteínas	_	_	_	_	_	_	_	_	_
@@ -2820,7 +2820,7 @@ e	_	_	_	_	_	_	_	_	_
 pró-vitamina	_	_	_	_	_	_	_	_	_
 B5	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
 aplicado	_	_	_	_	_	_	_	_	_
 com	_	_	_	_	_	_	_	_	_
@@ -2828,7 +2828,7 @@ uma	_	_	_	_	_	_	_	_	_
 escova	_	_	_	_	_	_	_	_	_
 especialmente	_	_	_	_	_	_	_	_	_
 criada	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 evitar	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
@@ -3290,7 +3290,7 @@ Américo	_	_	_	_	_	_	_	_	_
 Ramalho	_	_	_	_	_	_	_	_	_
 :	_	_	_	_	_	_	_	_	_
 
-# text = « Os principais clientes de o serviço Alfa e Intercidades são pessoas de a classe média e média-alta que optam por estas composições por serem meios de transporte mais rápidos , SUJ_DESOCULTADO não vendo em os comboios inter-regionais uma alternativa . »
+# text = « Os principais clientes de o serviço Alfa e Intercidades são pessoas de a classe média e média-alta que optam por estas composições por serem meios de transporte mais rápidos , <SUBJ> não vendo em os comboios inter-regionais uma alternativa . »
 # sent_id = CP1002-2
 «	_	_	_	_	_	_	_	_	_
 Os	_	_	_	_	_	_	_	_	_
@@ -3325,7 +3325,7 @@ transporte	_	_	_	_	_	_	_	_	_
 mais	_	_	_	_	_	_	_	_	_
 rápidos	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 não	_	_	_	_	_	_	_	_	_
 vendo	_	_	_	_	_	_	_	_	_
 35-36-=nos	_	_	_	_	_	_	_	_	_
@@ -3357,14 +3357,14 @@ esta	_	_	_	_	_	_	_	_	_
 greve	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Em o entanto , ele garante que os gastos com os autocarros fretados por a CP em Agosto SUJ_DESOCULTADO para efectuar o transporte alternativo de os passageiros ( principalmente emigrantes ) de os comboios internacionais « chegavam eles para resolver os seus problemas » .
+# text = Em o entanto , <SUBJ> garante que os gastos com os autocarros fretados por a CP em Agosto <SUBJ> para efectuar o transporte alternativo de os passageiros ( principalmente emigrantes ) de os comboios internacionais « chegavam <SUBJ> para resolver os seus problemas » .
 # sent_id = CP1002-4
 1-2-=No	_	_	_	_	_	_	_	_	_
 Em	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 entanto	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 garante	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 os	_	_	_	_	_	_	_	_	_
@@ -3379,7 +3379,7 @@ a	_	_	_	_	_	_	_	_	_
 CP	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
 Agosto	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 efectuar	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
@@ -3400,7 +3400,7 @@ comboios	_	_	_	_	_	_	_	_	_
 internacionais	_	_	_	_	_	_	_	_	_
 «	_	_	_	_	_	_	_	_	_
 chegavam	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 resolver	_	_	_	_	_	_	_	_	_
 os	_	_	_	_	_	_	_	_	_
@@ -3544,7 +3544,7 @@ os	_	_	_	_	_	_	_	_	_
 lagos	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = José Pedro Croft fez uma enorme caixa oca de pedra , ele dentro de a qual dispôs bolas de o mesmo material .
+# text = José Pedro Croft fez uma enorme caixa oca de pedra , <SUBJ> dentro de a qual dispôs bolas de o mesmo material .
 # sent_id = CP1003-4
 José	_	_	_	_	_	_	_	_	_
 Pedro	_	_	_	_	_	_	_	_	_
@@ -3557,7 +3557,7 @@ oca	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 pedra	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 dentro	_	_	_	_	_	_	_	_	_
 14-15-=da	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
@@ -3572,9 +3572,9 @@ mesmo	_	_	_	_	_	_	_	_	_
 material	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO é a única peça que exige algum esforço a o visitante , que é levado a debruçar se e espreitar para o interior de a caixa .
+# text = <SUBJ> é a única peça que exige algum esforço a o visitante , que é levado a debruçar se e espreitar para o interior de a caixa .
 # sent_id = CP1003-5
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 única	_	_	_	_	_	_	_	_	_
@@ -3606,9 +3606,9 @@ a	_	_	_	_	_	_	_	_	_
 caixa	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele poderá assim tomar consciência de o contraste entre o volume sugerido e a massa de as bolas , e associar a caixa a outras formas semelhantes , feitas em o mesmo material , que já ele tenha visto : túmulos , sarcófagos ...
+# text = <SUBJ> poderá assim tomar consciência de o contraste entre o volume sugerido e a massa de as bolas , e associar a caixa a outras formas semelhantes , feitas em o mesmo material , que já <SUBJ> tenha visto : túmulos , sarcófagos ...
 # sent_id = CP1003-6
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 poderá	_	_	_	_	_	_	_	_	_
 assim	_	_	_	_	_	_	_	_	_
 tomar	_	_	_	_	_	_	_	_	_
@@ -3647,7 +3647,7 @@ material	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 já	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 tenha	_	_	_	_	_	_	_	_	_
 visto	_	_	_	_	_	_	_	_	_
 :	_	_	_	_	_	_	_	_	_
@@ -3722,7 +3722,7 @@ tudo	_	_	_	_	_	_	_	_	_
 suporta	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = O segundo , com algum humor , intitulou a sua peça « O meu corpo » ; e , em o meio de uma estrutura de mármore , colocou dois vasos com água a diferentes níveis , que se foi sujando -- e SUJ_DESOCULTADO enchendo de moedas -- com o passar de os dias .
+# text = O segundo , com algum humor , intitulou a sua peça « O meu corpo » ; e , em o meio de uma estrutura de mármore , colocou dois vasos com água a diferentes níveis , que se foi sujando -- e <SUBJ> enchendo de moedas -- com o passar de os dias .
 # sent_id = CP1003-10
 O	_	_	_	_	_	_	_	_	_
 segundo	_	_	_	_	_	_	_	_	_
@@ -3768,7 +3768,7 @@ foi	_	_	_	_	_	_	_	_	_
 sujando	_	_	_	_	_	_	_	_	_
 --	_	_	_	_	_	_	_	_	_
 e	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 enchendo	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 moedas	_	_	_	_	_	_	_	_	_
@@ -3782,7 +3782,7 @@ os	_	_	_	_	_	_	_	_	_
 dias	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A certa altura , este « corpo » , que é o corpo de a escultura , foi mesmo quebrado , SUJ_DESOCULTADO levando a a sua substituição .
+# text = A certa altura , este « corpo » , que é o corpo de a escultura , foi mesmo quebrado , <SUBJ> levando a a sua substituição .
 # sent_id = CP1003-12
 A	_	_	_	_	_	_	_	_	_
 certa	_	_	_	_	_	_	_	_	_
@@ -3806,7 +3806,7 @@ foi	_	_	_	_	_	_	_	_	_
 mesmo	_	_	_	_	_	_	_	_	_
 quebrado	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 levando	_	_	_	_	_	_	_	_	_
 24-25-=à	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -3853,11 +3853,11 @@ este	_	_	_	_	_	_	_	_	_
 corpo	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « Se SUJ_DESOCULTADO for uma greve só por grevismo , de ele aí prejudica a quem é favorável a isso .
+# text = « Se <SUBJ> for uma greve só por grevismo , de <SUBJ> aí prejudica a quem é favorável a isso .
 # sent_id = CF952-1
 «	_	_	_	_	_	_	_	_	_
 Se	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 for	_	_	_	_	_	_	_	_	_
 uma	_	_	_	_	_	_	_	_	_
 greve	_	_	_	_	_	_	_	_	_
@@ -3867,7 +3867,7 @@ grevismo	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 11-12-=daí	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 aí	_	_	_	_	_	_	_	_	_
 prejudica	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -3896,7 +3896,7 @@ disse	_	_	_	_	_	_	_	_	_
 FHC	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = O candidato tucano a presidente deu essa declaração ontem a a tarde , SUJ_DESOCULTADO depois de discursar para cerca de 550 empresários em a hora de o almoço ( leia texto em esta página ) .
+# text = O candidato tucano a presidente deu essa declaração ontem a a tarde , <SUBJ> depois de discursar para cerca de 550 empresários em a hora de o almoço ( leia texto em esta página ) .
 # sent_id = CF952-3
 O	_	_	_	_	_	_	_	_	_
 candidato	_	_	_	_	_	_	_	_	_
@@ -3912,7 +3912,7 @@ a	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 tarde	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 depois	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 discursar	_	_	_	_	_	_	_	_	_
@@ -3981,9 +3981,9 @@ dois	_	_	_	_	_	_	_	_	_
 pólos	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Eles têm fases de depressão e de euforia ( mania ) .
+# text = <SUBJ> têm fases de depressão e de euforia ( mania ) .
 # sent_id = CF953-5
-Eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 têm	_	_	_	_	_	_	_	_	_
 fases	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
@@ -4116,7 +4116,7 @@ militarista	_	_	_	_	_	_	_	_	_
 reinante	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Os EUA entram em a vida japonesa em meados de o século 19 , eles quando obrigam o « shogun » a assinar um tratado de comércio .
+# text = Os EUA entram em a vida japonesa em meados de o século 19 , <SUBJ> quando obrigam o « shogun » a assinar um tratado de comércio .
 # sent_id = CF956-2
 Os	_	_	_	_	_	_	_	_	_
 EUA	_	_	_	_	_	_	_	_	_
@@ -4134,7 +4134,7 @@ o	_	_	_	_	_	_	_	_	_
 século	_	_	_	_	_	_	_	_	_
 19	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 quando	_	_	_	_	_	_	_	_	_
 obrigam	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
@@ -4186,7 +4186,7 @@ ser	_	_	_	_	_	_	_	_	_
 Tóquio	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A hidroginástica é uma alternativa para quem ele não tem acompanhante .
+# text = A hidroginástica é uma alternativa para quem <SUBJ> não tem acompanhante .
 # sent_id = CF957-1
 A	_	_	_	_	_	_	_	_	_
 hidroginástica	_	_	_	_	_	_	_	_	_
@@ -4195,7 +4195,7 @@ uma	_	_	_	_	_	_	_	_	_
 alternativa	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 quem	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 não	_	_	_	_	_	_	_	_	_
 tem	_	_	_	_	_	_	_	_	_
 acompanhante	_	_	_	_	_	_	_	_	_
@@ -4225,7 +4225,7 @@ a	_	_	_	_	_	_	_	_	_
 corrida	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « O importante é levantar bem o joelho , manter o ritmo e encostar o calcanhar em o chão a cada movimento » , ele diz .
+# text = « O importante é levantar bem o joelho , manter o ritmo e encostar o calcanhar em o chão a cada movimento » , <SUBJ> diz .
 # sent_id = CF957-3
 «	_	_	_	_	_	_	_	_	_
 O	_	_	_	_	_	_	_	_	_
@@ -4252,7 +4252,7 @@ cada	_	_	_	_	_	_	_	_	_
 movimento	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 diz	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
@@ -4270,10 +4270,10 @@ a	_	_	_	_	_	_	_	_	_
 Unicamp	_	_	_	_	_	_	_	_	_
 :	_	_	_	_	_	_	_	_	_
 
-# text = « SUJ_DESOCULTADO Primeiro foi uma oportunidade de esclarecer muitos pontos que eu não conhecia antes .
+# text = « <SUBJ> Primeiro foi uma oportunidade de esclarecer muitos pontos que eu não conhecia antes .
 # sent_id = CF958-2
 «	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 Primeiro	_	_	_	_	_	_	_	_	_
 foi	_	_	_	_	_	_	_	_	_
 uma	_	_	_	_	_	_	_	_	_
@@ -4289,10 +4289,10 @@ conhecia	_	_	_	_	_	_	_	_	_
 antes	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Mesmo SUJ_DESOCULTADO entendendo suas explicações sobre o programa de governo , eu entendo que ele tinha que ter um programa de governo , que vai dar um meio de cobrar depois .
+# text = Mesmo <SUBJ> entendendo suas explicações sobre o programa de governo , eu entendo que ele tinha que ter um programa de governo , que vai dar um meio de cobrar depois .
 # sent_id = CF958-3
 Mesmo	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 entendendo	_	_	_	_	_	_	_	_	_
 suas	_	_	_	_	_	_	_	_	_
 explicações	_	_	_	_	_	_	_	_	_
@@ -4401,9 +4401,9 @@ a	_	_	_	_	_	_	_	_	_
 religião	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO mesmo criticado , ele defende sua posição claramente em favor de os evangélicos e de seu ponto de vista religioso .
+# text = <SUBJ> mesmo criticado , ele defende sua posição claramente em favor de os evangélicos e de seu ponto de vista religioso .
 # sent_id = CF958-9
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 mesmo	_	_	_	_	_	_	_	_	_
 criticado	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
@@ -4457,12 +4457,12 @@ o	_	_	_	_	_	_	_	_	_
 Estado	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele fala que ele tem idéias e não um programa , mas muitas vezes , quando SUJ_DESOCULTADO perguntado ele mostra que SUJ_DESOCULTADO também não tem nem idéia . »
+# text = Ele fala que <SUBJ> tem idéias e não um programa , mas muitas vezes , quando <SUBJ> perguntado ele mostra que <SUBJ> também não tem nem idéia . »
 # sent_id = CF958-12
 Ele	_	_	_	_	_	_	_	_	_
 fala	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 tem	_	_	_	_	_	_	_	_	_
 idéias	_	_	_	_	_	_	_	_	_
 e	_	_	_	_	_	_	_	_	_
@@ -4475,12 +4475,12 @@ muitas	_	_	_	_	_	_	_	_	_
 vezes	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 quando	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 perguntado	_	_	_	_	_	_	_	_	_
 ele	_	_	_	_	_	_	_	_	_
 mostra	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 também	_	_	_	_	_	_	_	_	_
 não	_	_	_	_	_	_	_	_	_
 tem	_	_	_	_	_	_	_	_	_
@@ -4617,7 +4617,7 @@ a	_	_	_	_	_	_	_	_	_
 feira	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = O congresso é dividido em três temas , com o objetivo de atender de profissionais de informática a executivos e empresários interessados em novas tecnologias , SUJ_DESOCULTADO pasando por o usuário final .
+# text = O congresso é dividido em três temas , com o objetivo de atender de profissionais de informática a executivos e empresários interessados em novas tecnologias , <SUBJ> pasando por o usuário final .
 # sent_id = CF959-5
 O	_	_	_	_	_	_	_	_	_
 congresso	_	_	_	_	_	_	_	_	_
@@ -4645,7 +4645,7 @@ em	_	_	_	_	_	_	_	_	_
 novas	_	_	_	_	_	_	_	_	_
 tecnologias	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 pasando	_	_	_	_	_	_	_	_	_
 29-30-=pelo	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
@@ -4681,12 +4681,12 @@ a	_	_	_	_	_	_	_	_	_
 Irlanda	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele afirmou que ele pretende reforçar seu meio-campo , mas não adiantou a escalação de a equipe .
+# text = Ele afirmou que <SUBJ> pretende reforçar seu meio-campo , mas não adiantou a escalação de a equipe .
 # sent_id = CF960-2
 Ele	_	_	_	_	_	_	_	_	_
 afirmou	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 pretende	_	_	_	_	_	_	_	_	_
 reforçar	_	_	_	_	_	_	_	_	_
 seu	_	_	_	_	_	_	_	_	_
@@ -4770,19 +4770,19 @@ outros	_	_	_	_	_	_	_	_	_
 indiciados	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Me eles indiciaram precipitadamente , açodadamente .
+# text = Me <SUBJ> indiciaram precipitadamente , açodadamente .
 # sent_id = CF961-5
 Me	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 indiciaram	_	_	_	_	_	_	_	_	_
 precipitadamente	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 açodadamente	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO é coisa orquestrada , dirigida .
+# text = <SUBJ> é coisa orquestrada , dirigida .
 # sent_id = CF961-6
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
 coisa	_	_	_	_	_	_	_	_	_
 orquestrada	_	_	_	_	_	_	_	_	_
@@ -4805,7 +4805,7 @@ minutos	_	_	_	_	_	_	_	_	_
 # sent_id = CF962-2
 Charuto	_	_	_	_	_	_	_	_	_
 
-# text = Os candidatos de a Bahia estão encontrando certa dificuldade em contratar cantores para SUJ_DESOCULTADO animar suas campanhas .
+# text = Os candidatos de a Bahia estão encontrando certa dificuldade em contratar cantores para <SUBJ> animar suas campanhas .
 # sent_id = CF962-3
 Os	_	_	_	_	_	_	_	_	_
 candidatos	_	_	_	_	_	_	_	_	_
@@ -4821,7 +4821,7 @@ em	_	_	_	_	_	_	_	_	_
 contratar	_	_	_	_	_	_	_	_	_
 cantores	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 animar	_	_	_	_	_	_	_	_	_
 suas	_	_	_	_	_	_	_	_	_
 campanhas	_	_	_	_	_	_	_	_	_
@@ -4905,7 +4905,7 @@ registrou	_	_	_	_	_	_	_	_	_
 139.369	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A intenção de Fleury é vender as ações para SUJ_DESOCULTADO equilibrar as finanças e começar a pagar a dívida de o Estado , estimada em R$ 31 bilhões .
+# text = A intenção de Fleury é vender as ações para <SUBJ> equilibrar as finanças e começar a pagar a dívida de o Estado , estimada em R$ 31 bilhões .
 # sent_id = CF964-1
 A	_	_	_	_	_	_	_	_	_
 intenção	_	_	_	_	_	_	_	_	_
@@ -4916,7 +4916,7 @@ vender	_	_	_	_	_	_	_	_	_
 as	_	_	_	_	_	_	_	_	_
 ações	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 equilibrar	_	_	_	_	_	_	_	_	_
 as	_	_	_	_	_	_	_	_	_
 finanças	_	_	_	_	_	_	_	_	_
@@ -4942,7 +4942,7 @@ bilhões	_	_	_	_	_	_	_	_	_
 # sent_id = CF964-2
 Preço	_	_	_	_	_	_	_	_	_
 
-# text = Segundo a assessoria de imprensa de o governador , Fleury já pediu um levantamento de preço de as ações , junto a consultores especializados , para SUJ_DESOCULTADO estabelecer o valor mínimo de as ações , que vão ser levadas a leilão .
+# text = Segundo a assessoria de imprensa de o governador , Fleury já pediu um levantamento de preço de as ações , junto a consultores especializados , para <SUBJ> estabelecer o valor mínimo de as ações , que vão ser levadas a leilão .
 # sent_id = CF964-3
 Segundo	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -4972,7 +4972,7 @@ consultores	_	_	_	_	_	_	_	_	_
 especializados	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 estabelecer	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 valor	_	_	_	_	_	_	_	_	_
@@ -5074,7 +5074,7 @@ moeda	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « Normalmente nós utilizamos dados históricos sobre a produtividade em cada região , além de informações de agricultores » , ele diz .
+# text = « Normalmente nós utilizamos dados históricos sobre a produtividade em cada região , além de informações de agricultores » , <SUBJ> diz .
 # sent_id = CF966-1
 «	_	_	_	_	_	_	_	_	_
 Normalmente	_	_	_	_	_	_	_	_	_
@@ -5096,7 +5096,7 @@ de	_	_	_	_	_	_	_	_	_
 agricultores	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 diz	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
@@ -5311,9 +5311,9 @@ várias	_	_	_	_	_	_	_	_	_
 páginas	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Eles podem produzir pequenas brochuras , mala direta , folhetos SUJ_DESOCULTADO , realizando até sete impressões por minuto .
+# text = <SUBJ> podem produzir pequenas brochuras , mala direta , folhetos <SUBJ> , realizando até sete impressões por minuto .
 # sent_id = CF968-3
-Eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 podem	_	_	_	_	_	_	_	_	_
 produzir	_	_	_	_	_	_	_	_	_
 pequenas	_	_	_	_	_	_	_	_	_
@@ -5323,7 +5323,7 @@ mala	_	_	_	_	_	_	_	_	_
 direta	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 folhetos	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 realizando	_	_	_	_	_	_	_	_	_
 até	_	_	_	_	_	_	_	_	_
@@ -5348,9 +5348,9 @@ tempo	_	_	_	_	_	_	_	_	_
 todo	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele assista a o filme de novo : você não vai me ver completamente nua a não ser em uma cena , em o final de o strip tease .
+# text = <SUBJ> assista a o filme de novo : você não vai me ver completamente nua a não ser em uma cena , em o final de o strip tease .
 # sent_id = CF969-2
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 assista	_	_	_	_	_	_	_	_	_
 3-4-=ao	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -5471,7 +5471,7 @@ afasta	_	_	_	_	_	_	_	_	_
 os	_	_	_	_	_	_	_	_	_
 torcedores	_	_	_	_	_	_	_	_	_
 
-# text = Os dirigentes de a seleção pediram a os seguranças de a universidade que eles afastassem o público , composto em sua maior parte por jovens , que já se preparava para acompanhar os treinos .
+# text = Os dirigentes de a seleção pediram a os seguranças de a universidade que <SUBJ> afastassem o público , composto em sua maior parte por jovens , que já se preparava para acompanhar os treinos .
 # sent_id = CF970-4
 Os	_	_	_	_	_	_	_	_	_
 dirigentes	_	_	_	_	_	_	_	_	_
@@ -5489,7 +5489,7 @@ de	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 universidade	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 afastassem	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 público	_	_	_	_	_	_	_	_	_
@@ -5731,9 +5731,9 @@ de	_	_	_	_	_	_	_	_	_
 cocaína	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO é também primo de Curica e de Floriano Graça .
+# text = <SUBJ> é também primo de Curica e de Floriano Graça .
 # sent_id = CF972-3
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
 também	_	_	_	_	_	_	_	_	_
 primo	_	_	_	_	_	_	_	_	_
@@ -5745,16 +5745,16 @@ Floriano	_	_	_	_	_	_	_	_	_
 Graça	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO fui procurado por os ladrões SUJ_DESOCULTADO para comprar a carga .
+# text = Eu fui procurado por os ladrões <SUBJ> para comprar a carga .
 # sent_id = CF973-1
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+Eu	_	_	_	_	_	_	_	_	_
 fui	_	_	_	_	_	_	_	_	_
 procurado	_	_	_	_	_	_	_	_	_
 4-5-=pelos	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
 os	_	_	_	_	_	_	_	_	_
 ladrões	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 comprar	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -5786,9 +5786,9 @@ o	_	_	_	_	_	_	_	_	_
 Adner	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Eles prenderam todos e apreenderam a mercadoria .
+# text = <SUBJ> prenderam todos e apreenderam a mercadoria .
 # sent_id = CF973-3
-Eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 prenderam	_	_	_	_	_	_	_	_	_
 todos	_	_	_	_	_	_	_	_	_
 e	_	_	_	_	_	_	_	_	_
@@ -5830,7 +5830,7 @@ a	_	_	_	_	_	_	_	_	_
 Riachuelo	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Em o realismo moderno de John Cassavettes ( 1929-89 ) , por exemplo , o ator construía o personagem em tempo real diante de a câmera , SUJ_DESOCULTADO baseado em o improviso .
+# text = Em o realismo moderno de John Cassavettes ( 1929-89 ) , por exemplo , o ator construía o personagem em tempo real diante de a câmera , <SUBJ> baseado em o improviso .
 # sent_id = CF975-1
 1-2-=No	_	_	_	_	_	_	_	_	_
 Em	_	_	_	_	_	_	_	_	_
@@ -5861,7 +5861,7 @@ de	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 câmera	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 baseado	_	_	_	_	_	_	_	_	_
 30-31-=no	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
@@ -5900,7 +5900,7 @@ diretor-autor	_	_	_	_	_	_	_	_	_
 planejava	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Em a semana passada , o jogador Buchwald criticou a escalação de Matthaeus como líbero , SUJ_DESOCULTADO pedindo que ele jogasse em o meio-campo .
+# text = Em a semana passada , o jogador Buchwald criticou a escalação de Matthaeus como líbero , <SUBJ> pedindo que ele jogasse em o meio-campo .
 # sent_id = CF976-1
 1-2-=Na	_	_	_	_	_	_	_	_	_
 Em	_	_	_	_	_	_	_	_	_
@@ -5919,7 +5919,7 @@ Matthaeus	_	_	_	_	_	_	_	_	_
 como	_	_	_	_	_	_	_	_	_
 líbero	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 pedindo	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 ele	_	_	_	_	_	_	_	_	_
@@ -5987,7 +5987,7 @@ em	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 Bósnia	_	_	_	_	_	_	_	_	_
 
-# text = Boutros-Ghali teme que as potências se retirem e suspendam sanções contra a Sérvia SUJ_DESOCULTADO pondo em risco outras partes de a ex-Iugoslávia se o plano for aceito .
+# text = Boutros-Ghali teme que as potências se retirem e suspendam sanções contra a Sérvia <SUBJ> pondo em risco outras partes de a ex-Iugoslávia se o plano for aceito .
 # sent_id = CF977-3
 Boutros-Ghali	_	_	_	_	_	_	_	_	_
 teme	_	_	_	_	_	_	_	_	_
@@ -6002,7 +6002,7 @@ sanções	_	_	_	_	_	_	_	_	_
 contra	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 Sérvia	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 pondo	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
 risco	_	_	_	_	_	_	_	_	_
@@ -6058,7 +6058,7 @@ esse	_	_	_	_	_	_	_	_	_
 jeito	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Se você bate em ele , o revide vem forte , ele pode apostar .
+# text = Se você bate em ele , o revide vem forte , <SUBJ> pode apostar .
 # sent_id = CF978-4
 Se	_	_	_	_	_	_	_	_	_
 você	_	_	_	_	_	_	_	_	_
@@ -6072,7 +6072,7 @@ revide	_	_	_	_	_	_	_	_	_
 vem	_	_	_	_	_	_	_	_	_
 forte	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 pode	_	_	_	_	_	_	_	_	_
 apostar	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
@@ -6194,14 +6194,14 @@ armamento	_	_	_	_	_	_	_	_	_
 nuclear	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A energia nuclear é usada SUJ_DESOCULTADO só para movimentar a embarcação .
+# text = A energia nuclear é usada <SUBJ> só para movimentar a embarcação .
 # sent_id = CF980-3
 A	_	_	_	_	_	_	_	_	_
 energia	_	_	_	_	_	_	_	_	_
 nuclear	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
 usada	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 só	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 movimentar	_	_	_	_	_	_	_	_	_
@@ -6209,7 +6209,7 @@ a	_	_	_	_	_	_	_	_	_
 embarcação	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Entre cada parte de o submarino há isolamento , SUJ_DESOCULTADO evitando que acidentes em uma parte atinjam as outras .
+# text = Entre cada parte de o submarino há isolamento , <SUBJ> evitando que acidentes em uma parte atinjam as outras .
 # sent_id = CF980-4
 Entre	_	_	_	_	_	_	_	_	_
 cada	_	_	_	_	_	_	_	_	_
@@ -6221,7 +6221,7 @@ submarino	_	_	_	_	_	_	_	_	_
 há	_	_	_	_	_	_	_	_	_
 isolamento	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 evitando	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 acidentes	_	_	_	_	_	_	_	_	_
@@ -6328,7 +6328,7 @@ o	_	_	_	_	_	_	_	_	_
 CML	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = As emissoras se negaram a se retratar e o juiz ameaçou « terminar com a cobertura de o julgamento » , sem SUJ_DESOCULTADO especificar como .
+# text = As emissoras se negaram a se retratar e o juiz ameaçou « terminar com a cobertura de o julgamento » , sem <SUBJ> especificar como .
 # sent_id = CF982-1
 As	_	_	_	_	_	_	_	_	_
 emissoras	_	_	_	_	_	_	_	_	_
@@ -6353,7 +6353,7 @@ julgamento	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 sem	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 especificar	_	_	_	_	_	_	_	_	_
 como	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
@@ -6416,7 +6416,7 @@ de	_	_	_	_	_	_	_	_	_
 junho	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = BASTIDORES DE OS MUSEUS -- O trabalho feito por os fotógrafos Eduardo Castanho , Saul Queiroz , Rogério Voltan , Ricardo Hantzchel , Fausto Chermont e Eliana Lopes retrata o que as pessoas não vêem a o SUJ_DESOCULTADO visitar um museu .
+# text = BASTIDORES DE OS MUSEUS -- O trabalho feito por os fotógrafos Eduardo Castanho , Saul Queiroz , Rogério Voltan , Ricardo Hantzchel , Fausto Chermont e Eliana Lopes retrata o que as pessoas não vêem a o <SUBJ> visitar um museu .
 # sent_id = CF983-8
 BASTIDORES	_	_	_	_	_	_	_	_	_
 2-3-=DOS	_	_	_	_	_	_	_	_	_
@@ -6458,13 +6458,13 @@ vêem	_	_	_	_	_	_	_	_	_
 36-37-=ao	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 visitar	_	_	_	_	_	_	_	_	_
 um	_	_	_	_	_	_	_	_	_
 museu	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Em a Anhanguera , que une São Paulo a Ribeirão Preto , ele costuma haver neblina pesada entre o km 21 e o km 43 , também perto de Perus e Cajamar .
+# text = Em a Anhanguera , que une São Paulo a Ribeirão Preto , <SUBJ> costuma haver neblina pesada entre o km 21 e o km 43 , também perto de Perus e Cajamar .
 # sent_id = CF984-1
 1-2-=Na	_	_	_	_	_	_	_	_	_
 Em	_	_	_	_	_	_	_	_	_
@@ -6479,7 +6479,7 @@ a	_	_	_	_	_	_	_	_	_
 Ribeirão	_	_	_	_	_	_	_	_	_
 Preto	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 costuma	_	_	_	_	_	_	_	_	_
 haver	_	_	_	_	_	_	_	_	_
 neblina	_	_	_	_	_	_	_	_	_
@@ -6659,11 +6659,11 @@ as	_	_	_	_	_	_	_	_	_
 respostas	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Tudo fica SUJ_DESOCULTADO como está em a opinião de 23 % , enquanto 5 % não sabem responder .
+# text = Tudo fica <SUBJ> como está em a opinião de 23 % , enquanto 5 % não sabem responder .
 # sent_id = CF985-6
 Tudo	_	_	_	_	_	_	_	_	_
 fica	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 como	_	_	_	_	_	_	_	_	_
 está	_	_	_	_	_	_	_	_	_
 6-7-=na	_	_	_	_	_	_	_	_	_
@@ -6735,12 +6735,12 @@ que	_	_	_	_	_	_	_	_	_
 dizia	_	_	_	_	_	_	_	_	_
 :	_	_	_	_	_	_	_	_	_
 
-# text = « SUJ_DESOCULTADO Nascidos SUJ_DESOCULTADO para perder » .
+# text = « <SUBJ> Nascidos <SUBJ> para perder » .
 # sent_id = CF986-6
 «	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 Nascidos	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 perder	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
@@ -6794,24 +6794,24 @@ quer	_	_	_	_	_	_	_	_	_
 ser	_	_	_	_	_	_	_	_	_
 candidata	_	_	_	_	_	_	_	_	_
 
-# text = « eu Adoraria SUJ_DESOCULTADO ser candidata .
+# text = « eu Adoraria <SUBJ> ser candidata .
 # sent_id = CF987-4
 «	_	_	_	_	_	_	_	_	_
 eu	_	_	_	_	_	_	_	_	_
 Adoraria	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 ser	_	_	_	_	_	_	_	_	_
 candidata	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Eu tenho certeza de que SUJ_DESOCULTADO se pudesse concorrer a algum cargo , me elegeria .
+# text = Eu tenho certeza de que <SUBJ> se pudesse concorrer a algum cargo , me elegeria .
 # sent_id = CF987-5
 Eu	_	_	_	_	_	_	_	_	_
 tenho	_	_	_	_	_	_	_	_	_
 certeza	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 pudesse	_	_	_	_	_	_	_	_	_
 concorrer	_	_	_	_	_	_	_	_	_
@@ -6858,21 +6858,21 @@ PDT	_	_	_	_	_	_	_	_	_
 )	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Mercedes diz que ele começaria como vereadora :
+# text = Mercedes diz que <SUBJ> começaria como vereadora :
 # sent_id = CF987-7
 Mercedes	_	_	_	_	_	_	_	_	_
 diz	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 começaria	_	_	_	_	_	_	_	_	_
 como	_	_	_	_	_	_	_	_	_
 vereadora	_	_	_	_	_	_	_	_	_
 :	_	_	_	_	_	_	_	_	_
 
-# text = « ele Depois tentaria ser deputada estadual . »
+# text = « <SUBJ> Depois tentaria ser deputada estadual . »
 # sent_id = CF987-8
 «	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 Depois	_	_	_	_	_	_	_	_	_
 tentaria	_	_	_	_	_	_	_	_	_
 ser	_	_	_	_	_	_	_	_	_
@@ -6917,10 +6917,10 @@ a	_	_	_	_	_	_	_	_	_
 região	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = ONDE ele ALUGAR
+# text = ONDE <SUBJ> ALUGAR
 # sent_id = CF989-2
 ONDE	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 ALUGAR	_	_	_	_	_	_	_	_	_
 
 # text = Empresa funciona das 9h às 19h, diariamente.
@@ -6939,7 +6939,7 @@ as	_	_	_	_	_	_	_	_	_
 diariamente	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Em a Samp , dois titulares SUJ_DESOCULTADO estão fora de combate : o zagueiro Marco Rossi e o armador sérvio Jugovic .
+# text = Em a Samp , dois titulares <SUBJ> estão fora de combate : o zagueiro Marco Rossi e o armador sérvio Jugovic .
 # sent_id = CF990-1
 1-2-=Na	_	_	_	_	_	_	_	_	_
 Em	_	_	_	_	_	_	_	_	_
@@ -6948,7 +6948,7 @@ Samp	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 dois	_	_	_	_	_	_	_	_	_
 titulares	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 estão	_	_	_	_	_	_	_	_	_
 fora	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
@@ -7456,7 +7456,7 @@ para	_	_	_	_	_	_	_	_	_
 Roma	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « Várias vezes os dois foram pegos SUJ_DESOCULTADO fazendo amor em a minha clínica .
+# text = « Várias vezes os dois foram pegos <SUBJ> fazendo amor em a minha clínica .
 # sent_id = CF996-3
 «	_	_	_	_	_	_	_	_	_
 Várias	_	_	_	_	_	_	_	_	_
@@ -7465,7 +7465,7 @@ os	_	_	_	_	_	_	_	_	_
 dois	_	_	_	_	_	_	_	_	_
 foram	_	_	_	_	_	_	_	_	_
 pegos	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 fazendo	_	_	_	_	_	_	_	_	_
 amor	_	_	_	_	_	_	_	_	_
 11-12-=na	_	_	_	_	_	_	_	_	_
@@ -7475,12 +7475,12 @@ minha	_	_	_	_	_	_	_	_	_
 clínica	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Eu tolerei pois ele não quis me intrometer em a vida privada de os meus funcionários » , disse Antinori , para quem Fishel era um excelente técnico .
+# text = Eu tolerei pois <SUBJ> não quis me intrometer em a vida privada de os meus funcionários » , disse Antinori , para quem Fishel era um excelente técnico .
 # sent_id = CF996-4
 Eu	_	_	_	_	_	_	_	_	_
 tolerei	_	_	_	_	_	_	_	_	_
 pois	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 não	_	_	_	_	_	_	_	_	_
 quis	_	_	_	_	_	_	_	_	_
 me	_	_	_	_	_	_	_	_	_
@@ -7509,24 +7509,24 @@ excelente	_	_	_	_	_	_	_	_	_
 técnico	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « SUJ_DESOCULTADO Era um miserável SUJ_DESOCULTADO quando chegou .
+# text = « <SUBJ> Era um miserável <SUBJ> quando chegou .
 # sent_id = CF996-5
 «	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 Era	_	_	_	_	_	_	_	_	_
 um	_	_	_	_	_	_	_	_	_
 miserável	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 quando	_	_	_	_	_	_	_	_	_
 chegou	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Em poucos anos ele ganhou mais de US$ 1 milhão » .
+# text = Em poucos anos <SUBJ> ganhou mais de US$ 1 milhão » .
 # sent_id = CF996-6
 Em	_	_	_	_	_	_	_	_	_
 poucos	_	_	_	_	_	_	_	_	_
 anos	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 ganhou	_	_	_	_	_	_	_	_	_
 mais	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
@@ -7551,7 +7551,7 @@ em	_	_	_	_	_	_	_	_	_
 1990	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Em essa época , Fishel teria conhecido o ginecologista britânico Robert Winston , a quem ele convidou para um encontro científico promovido por Antinori .
+# text = Em essa época , Fishel teria conhecido o ginecologista britânico Robert Winston , a quem <SUBJ> convidou para um encontro científico promovido por Antinori .
 # sent_id = CF996-8
 1-2-=Nessa	_	_	_	_	_	_	_	_	_
 Em	_	_	_	_	_	_	_	_	_
@@ -7569,7 +7569,7 @@ Winston	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 quem	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 convidou	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 um	_	_	_	_	_	_	_	_	_
@@ -7580,7 +7580,7 @@ por	_	_	_	_	_	_	_	_	_
 Antinori	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = O cineasta italiano Franco Zefirelli revelou que , para SUJ_DESOCULTADO iludir o serviço militar durante o período fascista , SUJ_DESOCULTADO se tornou um partisan e acabou matando um soldado alemão .
+# text = O cineasta italiano Franco Zefirelli revelou que , para <SUBJ> iludir o serviço militar durante o período fascista , <SUBJ> se tornou um partisan e acabou matando um soldado alemão .
 # sent_id = CF997-2
 O	_	_	_	_	_	_	_	_	_
 cineasta	_	_	_	_	_	_	_	_	_
@@ -7591,7 +7591,7 @@ revelou	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 iludir	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 serviço	_	_	_	_	_	_	_	_	_
@@ -7601,7 +7601,7 @@ o	_	_	_	_	_	_	_	_	_
 período	_	_	_	_	_	_	_	_	_
 fascista	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 tornou	_	_	_	_	_	_	_	_	_
 um	_	_	_	_	_	_	_	_	_
@@ -7677,7 +7677,7 @@ são	_	_	_	_	_	_	_	_	_
 auspiciosas	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Mas é também preciso a sociedade mobilizar se para SUJ_DESOCULTADO sensibilizar o futuro Congresso Nacional em a promoção de reformas constitucionais indispensáveis a o êxito de as mudanças pretendidas .
+# text = Mas é também preciso a sociedade mobilizar se para <SUBJ> sensibilizar o futuro Congresso Nacional em a promoção de reformas constitucionais indispensáveis a o êxito de as mudanças pretendidas .
 # sent_id = CF998-2
 Mas	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
@@ -7689,7 +7689,7 @@ sociedade	_	_	_	_	_	_	_	_	_
 mobilizar	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 sensibilizar	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 futuro	_	_	_	_	_	_	_	_	_
@@ -7738,7 +7738,7 @@ e	_	_	_	_	_	_	_	_	_
 27	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = O próprio presidente Itamar Franco pedirá empenho de todos os ministros para SUJ_DESOCULTADO mobilizar os seus partidos para a votação .
+# text = O próprio presidente Itamar Franco pedirá empenho de todos os ministros para <SUBJ> mobilizar os seus partidos para a votação .
 # sent_id = CF849-2
 O	_	_	_	_	_	_	_	_	_
 próprio	_	_	_	_	_	_	_	_	_
@@ -7752,7 +7752,7 @@ todos	_	_	_	_	_	_	_	_	_
 os	_	_	_	_	_	_	_	_	_
 ministros	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 mobilizar	_	_	_	_	_	_	_	_	_
 os	_	_	_	_	_	_	_	_	_
 seus	_	_	_	_	_	_	_	_	_
@@ -8111,12 +8111,12 @@ aprender	_	_	_	_	_	_	_	_	_
 matemática	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Em inglês , ele traz noções sobre cálculos de soma , subtração , multiplicação e divisão .
+# text = Em inglês , <SUBJ> traz noções sobre cálculos de soma , subtração , multiplicação e divisão .
 # sent_id = CF853-2
 Em	_	_	_	_	_	_	_	_	_
 inglês	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 traz	_	_	_	_	_	_	_	_	_
 noções	_	_	_	_	_	_	_	_	_
 sobre	_	_	_	_	_	_	_	_	_
@@ -8131,9 +8131,9 @@ e	_	_	_	_	_	_	_	_	_
 divisão	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele custa US$ 49 , em a Brasoftware .
+# text = <SUBJ> custa US$ 49 , em a Brasoftware .
 # sent_id = CF853-3
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 custa	_	_	_	_	_	_	_	_	_
 US$	_	_	_	_	_	_	_	_	_
 49	_	_	_	_	_	_	_	_	_
@@ -8176,9 +8176,9 @@ de	_	_	_	_	_	_	_	_	_
 astronomia	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO está sendo vendido em a Brasoftware em promoção .
+# text = <SUBJ> está sendo vendido em a Brasoftware em promoção .
 # sent_id = CF853-6
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 está	_	_	_	_	_	_	_	_	_
 sendo	_	_	_	_	_	_	_	_	_
 vendido	_	_	_	_	_	_	_	_	_
@@ -8190,9 +8190,9 @@ em	_	_	_	_	_	_	_	_	_
 promoção	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele sai de US$ 79 por US$ 49 .
+# text = <SUBJ> sai de US$ 79 por US$ 49 .
 # sent_id = CF853-7
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 sai	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 US$	_	_	_	_	_	_	_	_	_
@@ -8219,9 +8219,9 @@ em	_	_	_	_	_	_	_	_	_
 CD-ROM	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele conta com recursos de figuras e sons , que mostram o significado de as palavras .
+# text = <SUBJ> conta com recursos de figuras e sons , que mostram o significado de as palavras .
 # sent_id = CF853-9
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 conta	_	_	_	_	_	_	_	_	_
 com	_	_	_	_	_	_	_	_	_
 recursos	_	_	_	_	_	_	_	_	_
@@ -8240,9 +8240,9 @@ as	_	_	_	_	_	_	_	_	_
 palavras	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele custa US$ 45 em a Multimídia Center ( tel 011 959-2650 ) .
+# text = <SUBJ> custa US$ 45 em a Multimídia Center ( tel 011 959-2650 ) .
 # sent_id = CF853-10
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 custa	_	_	_	_	_	_	_	_	_
 US$	_	_	_	_	_	_	_	_	_
 45	_	_	_	_	_	_	_	_	_
@@ -8327,10 +8327,10 @@ o	_	_	_	_	_	_	_	_	_
 país	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 
-# text = Mas ele afirmou que a lei antitruste aprovada por o Congresso tem as deformações típicas de a situação conjuntural .
+# text = Mas <SUBJ> afirmou que a lei antitruste aprovada por o Congresso tem as deformações típicas de a situação conjuntural .
 # sent_id = CF854-3
 Mas	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 afirmou	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -8425,7 +8425,7 @@ será	_	_	_	_	_	_	_	_	_
 mantido	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Mayhew disse que o IRA poderia demonstrar que realmente ele não autorizou a operação de Newry SUJ_DESOCULTADO devolvendo os US$ 210 mil levados durante o assalto .
+# text = Mayhew disse que o IRA poderia demonstrar que realmente <SUBJ> não autorizou a operação de Newry <SUBJ> devolvendo os US$ 210 mil levados durante o assalto .
 # sent_id = CF855-3
 Mayhew	_	_	_	_	_	_	_	_	_
 disse	_	_	_	_	_	_	_	_	_
@@ -8436,14 +8436,14 @@ poderia	_	_	_	_	_	_	_	_	_
 demonstrar	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 realmente	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 não	_	_	_	_	_	_	_	_	_
 autorizou	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 operação	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 Newry	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 devolvendo	_	_	_	_	_	_	_	_	_
 os	_	_	_	_	_	_	_	_	_
 US$	_	_	_	_	_	_	_	_	_
@@ -8487,9 +8487,9 @@ rir	_	_	_	_	_	_	_	_	_
 )	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ele sabe por que eu amo tanto você , querido ?
+# text = <SUBJ> sabe por que eu amo tanto você , querido ?
 # sent_id = CF856-4
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 sabe	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
@@ -8501,10 +8501,10 @@ você	_	_	_	_	_	_	_	_	_
 querido	_	_	_	_	_	_	_	_	_
 ?	_	_	_	_	_	_	_	_	_
 
-# text = Porque SUJ_DESOCULTADO está sempre rindo .
+# text = Porque <SUBJ> está sempre rindo .
 # sent_id = CF856-5
 Porque	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 está	_	_	_	_	_	_	_	_	_
 sempre	_	_	_	_	_	_	_	_	_
 rindo	_	_	_	_	_	_	_	_	_
@@ -8761,7 +8761,7 @@ estacionamento	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ontem , a diretoria de a atlética e Amato Neto que iniciou a organização de os alunos para a preservação de o clube se reuniram para SUJ_DESOCULTADO discutir alternativas para a área .
+# text = Ontem , a diretoria de a atlética e Amato Neto que iniciou a organização de os alunos para a preservação de o clube se reuniram para <SUBJ> discutir alternativas para a área .
 # sent_id = CF858-3
 Ontem	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
@@ -8792,7 +8792,7 @@ clube	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 reuniram	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 discutir	_	_	_	_	_	_	_	_	_
 alternativas	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
@@ -8812,14 +8812,14 @@ sua	_	_	_	_	_	_	_	_	_
 polícia	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Para SUJ_DESOCULTADO evitar distúrbios , SUJ_DESOCULTADO vamos distribuir a as TVs uma fita SUJ_DESOCULTADO para mostrar a a população o SUJ_DESOCULTADO que viemos fazer aqui .
+# text = Para <SUBJ> evitar distúrbios , nós vamos distribuir a as TVs uma fita <SUBJ> para mostrar a a população o <SUBJ> que viemos fazer aqui .
 # sent_id = CF859-2
 Para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 evitar	_	_	_	_	_	_	_	_	_
 distúrbios	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+nós	_	_	_	_	_	_	_	_	_
 vamos	_	_	_	_	_	_	_	_	_
 distribuir	_	_	_	_	_	_	_	_	_
 9-10-=às	_	_	_	_	_	_	_	_	_
@@ -8828,7 +8828,7 @@ as	_	_	_	_	_	_	_	_	_
 TVs	_	_	_	_	_	_	_	_	_
 uma	_	_	_	_	_	_	_	_	_
 fita	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 mostrar	_	_	_	_	_	_	_	_	_
 17-18-=à	_	_	_	_	_	_	_	_	_
@@ -8836,7 +8836,7 @@ a	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 população	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 viemos	_	_	_	_	_	_	_	_	_
 fazer	_	_	_	_	_	_	_	_	_
@@ -8897,9 +8897,9 @@ deve	_	_	_	_	_	_	_	_	_
 dar	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO também vamos distribuir 1 milhão de cestas básicas , SUJ_DESOCULTADO para matar a fome de a população até a transição para a democracia .
+# text = Nós também vamos distribuir 1 milhão de cestas básicas , <SUBJ> para matar a fome de a população até a transição para a democracia .
 # sent_id = CF859-6
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+Nós	_	_	_	_	_	_	_	_	_
 também	_	_	_	_	_	_	_	_	_
 vamos	_	_	_	_	_	_	_	_	_
 distribuir	_	_	_	_	_	_	_	_	_
@@ -8909,7 +8909,7 @@ de	_	_	_	_	_	_	_	_	_
 cestas	_	_	_	_	_	_	_	_	_
 básicas	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 matar	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -9033,7 +9033,7 @@ próxima	_	_	_	_	_	_	_	_	_
 semana	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Em o mercado futuro de o índice Bovespa , a cotação para maio ficou em 20.000 pontos , SUJ_DESOCULTADO projetando rentabilidade de 66,78 % a o mês .
+# text = Em o mercado futuro de o índice Bovespa , a cotação para maio ficou em 20.000 pontos , <SUBJ> projetando rentabilidade de 66,78 % a o mês .
 # sent_id = CF861-1
 1-2-=No	_	_	_	_	_	_	_	_	_
 Em	_	_	_	_	_	_	_	_	_
@@ -9055,7 +9055,7 @@ em	_	_	_	_	_	_	_	_	_
 20.000	_	_	_	_	_	_	_	_	_
 pontos	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 projetando	_	_	_	_	_	_	_	_	_
 rentabilidade	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
@@ -9257,7 +9257,7 @@ Reiter	_	_	_	_	_	_	_	_	_
 69	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « O refinamento de o executivo é mais um diferencial em a hora de a sua avaliação » , ele completa .
+# text = « O refinamento de o executivo é mais um diferencial em a hora de a sua avaliação » , <SUBJ> completa .
 # sent_id = CF862-8
 «	_	_	_	_	_	_	_	_	_
 O	_	_	_	_	_	_	_	_	_
@@ -9281,7 +9281,7 @@ sua	_	_	_	_	_	_	_	_	_
 avaliação	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 completa	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
@@ -9330,12 +9330,12 @@ cada	_	_	_	_	_	_	_	_	_
 um	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A questão que eles enfrentaram era retomar a arte intensamente dramática de sua tradição sem se escravizar a ela .
+# text = A questão que <SUBJ> enfrentaram era retomar a arte intensamente dramática de sua tradição sem se escravizar a ela .
 # sent_id = CF863-1
 A	_	_	_	_	_	_	_	_	_
 questão	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 enfrentaram	_	_	_	_	_	_	_	_	_
 era	_	_	_	_	_	_	_	_	_
 retomar	_	_	_	_	_	_	_	_	_
@@ -9353,12 +9353,12 @@ a	_	_	_	_	_	_	_	_	_
 ela	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A solução que eles deram , obter equilíbrio entre figuração e abstração em que a profundidade não é nem clássica ( perspectiva ) nem modernista ( planificada ) , mas sugerida por jogos cromáticos semilivres a as vezes livres demais , como você vai ver .
+# text = A solução que <SUBJ> deram , obter equilíbrio entre figuração e abstração em que a profundidade não é nem clássica ( perspectiva ) nem modernista ( planificada ) , mas sugerida por jogos cromáticos semilivres a as vezes livres demais , como você vai ver .
 # sent_id = CF863-2
 A	_	_	_	_	_	_	_	_	_
 solução	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-eles	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 deram	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 obter	_	_	_	_	_	_	_	_	_
@@ -9534,9 +9534,9 @@ processo	_	_	_	_	_	_	_	_	_
 criminal	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO são os deputados que , segundo o texto , devem ter « os elementos comprobatórios encaminhados a o Ministério Público » .
+# text = <SUBJ> são os deputados que , segundo o texto , devem ter « os elementos comprobatórios encaminhados a o Ministério Público » .
 # sent_id = CF864-2
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 são	_	_	_	_	_	_	_	_	_
 os	_	_	_	_	_	_	_	_	_
 deputados	_	_	_	_	_	_	_	_	_
@@ -9620,14 +9620,14 @@ PP-RJ	_	_	_	_	_	_	_	_	_
 )	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Além de isso , ele avaliou como fraca a organização existente até ontem em a campanha .
+# text = Além de isso , <SUBJ> avaliou como fraca a organização existente até ontem em a campanha .
 # sent_id = CF865-1
 Além	_	_	_	_	_	_	_	_	_
 2-3-=disso	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 isso	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 avaliou	_	_	_	_	_	_	_	_	_
 como	_	_	_	_	_	_	_	_	_
 fraca	_	_	_	_	_	_	_	_	_
@@ -9657,10 +9657,10 @@ com	_	_	_	_	_	_	_	_	_
 amigos	_	_	_	_	_	_	_	_	_
 :	_	_	_	_	_	_	_	_	_
 
-# text = « ele Só tem campanha em os lugares em que eu e o Aloizio vamos . »
+# text = « <SUBJ> Só tem campanha em os lugares em que eu e o Aloizio vamos . »
 # sent_id = CF865-3
 «	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 Só	_	_	_	_	_	_	_	_	_
 tem	_	_	_	_	_	_	_	_	_
 campanha	_	_	_	_	_	_	_	_	_
@@ -10125,10 +10125,10 @@ a	_	_	_	_	_	_	_	_	_
 Triunfo	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = E ele comprova que a Petroplastic recebeu US$ 5 milhões SUJ_DESOCULTADO para concordar com a transferência , para a Dow , de o controle de a Atochem ( fundadora de a Triunfo ) .
+# text = E <SUBJ> comprova que a Petroplastic recebeu US$ 5 milhões <SUBJ> para concordar com a transferência , para a Dow , de o controle de a Atochem ( fundadora de a Triunfo ) .
 # sent_id = CF871-3
 E	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 comprova	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -10137,7 +10137,7 @@ recebeu	_	_	_	_	_	_	_	_	_
 US$	_	_	_	_	_	_	_	_	_
 5	_	_	_	_	_	_	_	_	_
 milhões	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
 concordar	_	_	_	_	_	_	_	_	_
 com	_	_	_	_	_	_	_	_	_
@@ -10201,7 +10201,7 @@ a	_	_	_	_	_	_	_	_	_
 Dow	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « Mas a Dow de os EUA não quis cumprir o contrato e transferir tecnologia a uma concorrente » , ele diz .
+# text = « Mas a Dow de os EUA não quis cumprir o contrato e transferir tecnologia a uma concorrente » , <SUBJ> diz .
 # sent_id = CF871-6
 «	_	_	_	_	_	_	_	_	_
 Mas	_	_	_	_	_	_	_	_	_
@@ -10224,7 +10224,7 @@ uma	_	_	_	_	_	_	_	_	_
 concorrente	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 diz	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
@@ -10263,14 +10263,14 @@ a	_	_	_	_	_	_	_	_	_
 Fazenda	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « Compramos o título para SUJ_DESOCULTADO verificar , levei para casa e não enxerguei nada » , disse ontem Vera Melo Araújo , chefe de o Departamento de Fiscalização de a Susep .
+# text = « Compramos o título para <SUBJ> verificar , levei para casa e não enxerguei nada » , disse ontem Vera Melo Araújo , chefe de o Departamento de Fiscalização de a Susep .
 # sent_id = CF872-2
 «	_	_	_	_	_	_	_	_	_
 Compramos	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 título	_	_	_	_	_	_	_	_	_
 para	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 verificar	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 levei	_	_	_	_	_	_	_	_	_
@@ -10533,7 +10533,7 @@ recuperou	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 :	_	_	_	_	_	_	_	_	_
 
-# text = Eu não preciso , governador , porque SUJ_DESOCULTADO , sabendo de a hospitalidade paranaense , eu nem trouxe carteira .
+# text = Eu não preciso , governador , porque <SUBJ> , sabendo de a hospitalidade paranaense , eu nem trouxe carteira .
 # sent_id = CF875-2
 Eu	_	_	_	_	_	_	_	_	_
 não	_	_	_	_	_	_	_	_	_
@@ -10542,7 +10542,7 @@ preciso	_	_	_	_	_	_	_	_	_
 governador	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 porque	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 sabendo	_	_	_	_	_	_	_	_	_
 11-12-=da	_	_	_	_	_	_	_	_	_
@@ -10670,13 +10670,13 @@ e	_	_	_	_	_	_	_	_	_
 financeiros	_	_	_	_	_	_	_	_	_
 ;	_	_	_	_	_	_	_	_	_
 
-# text = Mulher morre em rio SUJ_DESOCULTADO presa a o cinto de o carro
+# text = Mulher morre em rio <SUBJ> presa a o cinto de o carro
 # sent_id = CF877-1
 Mulher	_	_	_	_	_	_	_	_	_
 morre	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
 rio	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 presa	_	_	_	_	_	_	_	_	_
 7-8-=ao	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -10687,7 +10687,7 @@ de	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 carro	_	_	_	_	_	_	_	_	_
 
-# text = Vera Lúcia Barbosa , 40 , morreu em a última quarta SUJ_DESOCULTADO presa por o cinto de segurança a o carro em que SUJ_DESOCULTADO estava , que caiu em o rio Tietê .
+# text = Vera Lúcia Barbosa , 40 , morreu em a última quarta <SUBJ> presa por o cinto de segurança a o carro em que <SUBJ> estava , que caiu em o rio Tietê .
 # sent_id = CF877-2
 Vera	_	_	_	_	_	_	_	_	_
 Lúcia	_	_	_	_	_	_	_	_	_
@@ -10701,7 +10701,7 @@ em	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 última	_	_	_	_	_	_	_	_	_
 quarta	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 presa	_	_	_	_	_	_	_	_	_
 14-15-=pelo	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
@@ -10715,7 +10715,7 @@ o	_	_	_	_	_	_	_	_	_
 carro	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 estava	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
@@ -10884,13 +10884,13 @@ Beni	_	_	_	_	_	_	_	_	_
 Veras	_	_	_	_	_	_	_	_	_
 :	_	_	_	_	_	_	_	_	_
 
-# text = « Sobral , embora SUJ_DESOCULTADO seja uma de as principais cidades de o Ceará , ainda não dispõe de um sistema adequado de esgotos .
+# text = « Sobral , embora <SUBJ> seja uma de as principais cidades de o Ceará , ainda não dispõe de um sistema adequado de esgotos .
 # sent_id = CF878-2
 «	_	_	_	_	_	_	_	_	_
 Sobral	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 embora	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 seja	_	_	_	_	_	_	_	_	_
 uma	_	_	_	_	_	_	_	_	_
 8-9-=das	_	_	_	_	_	_	_	_	_
@@ -11191,12 +11191,12 @@ matemática	_	_	_	_	_	_	_	_	_
 ginástica	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 
-# text = Lugar de que ele mais gosta ?
+# text = Lugar de que <SUBJ> mais gosta ?
 # sent_id = CF880-4
 Lugar	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 mais	_	_	_	_	_	_	_	_	_
 gosta	_	_	_	_	_	_	_	_	_
 ?	_	_	_	_	_	_	_	_	_
@@ -11320,7 +11320,7 @@ financeiras	_	_	_	_	_	_	_	_	_
 Recurso	_	_	_	_	_	_	_	_	_
 negado	_	_	_	_	_	_	_	_	_
 
-# text = A corretora Antonio Delapieve e seus dirigentes foram multados por SUJ_DESOCULTADO negociar títulos de renda fixa a preços superavaliados .
+# text = A corretora Antonio Delapieve e seus dirigentes foram multados por <SUBJ> negociar títulos de renda fixa a preços superavaliados .
 # sent_id = CF882-4
 A	_	_	_	_	_	_	_	_	_
 corretora	_	_	_	_	_	_	_	_	_
@@ -11332,7 +11332,7 @@ dirigentes	_	_	_	_	_	_	_	_	_
 foram	_	_	_	_	_	_	_	_	_
 multados	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 negociar	_	_	_	_	_	_	_	_	_
 títulos	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
@@ -11449,16 +11449,16 @@ Gulbuddin	_	_	_	_	_	_	_	_	_
 Hekmatyar	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO veja outras áreas em alta
+# text = <SUBJ> veja outras áreas em alta
 # sent_id = CF884-1
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 veja	_	_	_	_	_	_	_	_	_
 outras	_	_	_	_	_	_	_	_	_
 áreas	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
 alta	_	_	_	_	_	_	_	_	_
 
-# text = Além de as áreas de o quadro a o lado , SUJ_DESOCULTADO foram consideradas fundamentais em o cenário industrial de a próxima década :
+# text = Além de as áreas de o quadro a o lado , <SUBJ> foram consideradas fundamentais em o cenário industrial de a próxima década :
 # sent_id = CF884-3
 Além	_	_	_	_	_	_	_	_	_
 2-3-=das	_	_	_	_	_	_	_	_	_
@@ -11474,7 +11474,7 @@ a	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 lado	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 foram	_	_	_	_	_	_	_	_	_
 consideradas	_	_	_	_	_	_	_	_	_
 fundamentais	_	_	_	_	_	_	_	_	_
@@ -11522,9 +11522,9 @@ estética	_	_	_	_	_	_	_	_	_
 humana	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO apesar de ter conseguido a guarda de Natasha , Conceição está aflita .
+# text = <SUBJ> apesar de ter conseguido a guarda de Natasha , Conceição está aflita .
 # sent_id = CF885-1
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 apesar	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 ter	_	_	_	_	_	_	_	_	_
@@ -11567,7 +11567,7 @@ com	_	_	_	_	_	_	_	_	_
 ela	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Esse é o meu grito » , ele se inflama .
+# text = Esse é o meu grito » , <SUBJ> se inflama .
 # sent_id = CF885-4
 Esse	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
@@ -11576,7 +11576,7 @@ meu	_	_	_	_	_	_	_	_	_
 grito	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 inflama	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
@@ -11603,10 +11603,10 @@ o	_	_	_	_	_	_	_	_	_
 caso	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = « SUJ_DESOCULTADO Sou uma estrangeira em a França e você sabe como são as coisas aqui . »
+# text = « eu Sou uma estrangeira em a França e você sabe como são as coisas aqui . »
 # sent_id = CF885-6
 «	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+eu	_	_	_	_	_	_	_	_	_
 Sou	_	_	_	_	_	_	_	_	_
 uma	_	_	_	_	_	_	_	_	_
 estrangeira	_	_	_	_	_	_	_	_	_
@@ -11844,9 +11844,9 @@ Nihon	_	_	_	_	_	_	_	_	_
 Keizai	_	_	_	_	_	_	_	_	_
 Shimbun	_	_	_	_	_	_	_	_	_
 
-# text = Ele destaca que o Partido Liberal Democrático ( PLD ) , derrubado de o poder em o ano passado , deverá apresentar seu presidente , Yohei Kono , como candidato a primeiro-ministro de o Japão .
+# text = <SUBJ> destaca que o Partido Liberal Democrático ( PLD ) , derrubado de o poder em o ano passado , deverá apresentar seu presidente , Yohei Kono , como candidato a primeiro-ministro de o Japão .
 # sent_id = CF889-2
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 destaca	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
@@ -11892,9 +11892,9 @@ The	_	_	_	_	_	_	_	_	_
 Washington	_	_	_	_	_	_	_	_	_
 Post	_	_	_	_	_	_	_	_	_
 
-# text = Ele publica documentos comprados de James McDougal , ex-sócio de Bill e Hillary Clinton em a empresa Whitewater .
+# text = <SUBJ> publica documentos comprados de James McDougal , ex-sócio de Bill e Hillary Clinton em a empresa Whitewater .
 # sent_id = CF889-4
-Ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 publica	_	_	_	_	_	_	_	_	_
 documentos	_	_	_	_	_	_	_	_	_
 comprados	_	_	_	_	_	_	_	_	_
@@ -11915,7 +11915,7 @@ empresa	_	_	_	_	_	_	_	_	_
 Whitewater	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Os documentos indicam que a primeira-dama de os EUA estava mais envolvida em o dia-a-dia de a administração de a firma de o que SUJ_DESOCULTADO fora admitido até agora .
+# text = Os documentos indicam que a primeira-dama de os EUA estava mais envolvida em o dia-a-dia de a administração de a firma de o que <SUBJ> fora admitido até agora .
 # sent_id = CF889-5
 Os	_	_	_	_	_	_	_	_	_
 documentos	_	_	_	_	_	_	_	_	_
@@ -11946,7 +11946,7 @@ firma	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 fora	_	_	_	_	_	_	_	_	_
 admitido	_	_	_	_	_	_	_	_	_
 até	_	_	_	_	_	_	_	_	_
@@ -12025,7 +12025,7 @@ de	_	_	_	_	_	_	_	_	_
 equipamentos	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A NEC tem mais de 55 % ( US$ 455 milhões ) de os contratos assinados por as concessionárias de a Telebrás , SUJ_DESOCULTADO incluindo aí a segunda fase de a implantação de o sistema móvel em São Paulo e a terceira em o Rio , previstas para 94 .
+# text = A NEC tem mais de 55 % ( US$ 455 milhões ) de os contratos assinados por as concessionárias de a Telebrás , <SUBJ> incluindo aí a segunda fase de a implantação de o sistema móvel em São Paulo e a terceira em o Rio , previstas para 94 .
 # sent_id = CF890-4
 A	_	_	_	_	_	_	_	_	_
 NEC	_	_	_	_	_	_	_	_	_
@@ -12053,7 +12053,7 @@ de	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 Telebrás	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 incluindo	_	_	_	_	_	_	_	_	_
 aí	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -12164,9 +12164,9 @@ Maranhão	_	_	_	_	_	_	_	_	_
 # sent_id = CF892-1
 Serpentina	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO depois de conquistar seu prêmio de estréia em o concurso Smirnoff em São Paulo , o jovem estilista Sérgio Machado emplacou mais uma .
+# text = <SUBJ> depois de conquistar seu prêmio de estréia em o concurso Smirnoff em São Paulo , o jovem estilista Sérgio Machado emplacou mais uma .
 # sent_id = CF892-2
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 depois	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 conquistar	_	_	_	_	_	_	_	_	_
@@ -12203,7 +12203,7 @@ R	_	_	_	_	_	_	_	_	_
 14	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Além de Mauro Salles que surpreendeu a galera a o SUJ_DESOCULTADO revelar seu côté de fotógrafo profissional em o ínico de a carreira , o foco principal de o encontro foi a mulher de J.R.Duran , Alexandra Brochen .
+# text = Além de Mauro Salles que surpreendeu a galera a o <SUBJ> revelar seu côté de fotógrafo profissional em o ínico de a carreira , o foco principal de o encontro foi a mulher de J.R.Duran , Alexandra Brochen .
 # sent_id = CF999-1
 Além	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
@@ -12216,7 +12216,7 @@ galera	_	_	_	_	_	_	_	_	_
 9-10-=ao	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 revelar	_	_	_	_	_	_	_	_	_
 seu	_	_	_	_	_	_	_	_	_
 côté	_	_	_	_	_	_	_	_	_
@@ -12298,7 +12298,7 @@ Empresas	_	_	_	_	_	_	_	_	_
 )	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = O patrimônio público não é fetiche a ser adorado e sim bem a ser utilizado principalmente em favor de quem ele não tem acesso a escolas , nem a a assistência médica , nem a empregos .
+# text = O patrimônio público não é fetiche a ser adorado e sim bem a ser utilizado principalmente em favor de quem <SUBJ> não tem acesso a escolas , nem a a assistência médica , nem a empregos .
 # sent_id = CF998-3
 O	_	_	_	_	_	_	_	_	_
 patrimônio	_	_	_	_	_	_	_	_	_
@@ -12320,7 +12320,7 @@ em	_	_	_	_	_	_	_	_	_
 favor	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 quem	_	_	_	_	_	_	_	_	_
-ele	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 não	_	_	_	_	_	_	_	_	_
 tem	_	_	_	_	_	_	_	_	_
 acesso	_	_	_	_	_	_	_	_	_
@@ -12403,7 +12403,7 @@ em	_	_	_	_	_	_	_	_	_
 Angola	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A lei de o Estado de a Califórnia dá a o juiz de cada caso autoridade para impedir a presença de câmaras em o tribunal se SUJ_DESOCULTADO achar que ela prejudica a Justiça .
+# text = A lei de o Estado de a Califórnia dá a o juiz de cada caso autoridade para impedir a presença de câmaras em o tribunal se <SUBJ> achar que ela prejudica a Justiça .
 # sent_id = CF982-3
 A	_	_	_	_	_	_	_	_	_
 lei	_	_	_	_	_	_	_	_	_
@@ -12435,7 +12435,7 @@ em	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 tribunal	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 achar	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 ela	_	_	_	_	_	_	_	_	_
@@ -12492,9 +12492,9 @@ a	_	_	_	_	_	_	_	_	_
 região	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = SUJ_DESOCULTADO apesar de haver anunciado que o treino de a Bulgária seria aberto a o público , os dirigentes mudaram de idéia pouco antes de o início de o treinamento e proibiram a presença de torcedores em o campo de a Southern Methodist University , em Dallas .
+# text = <SUBJ> apesar de haver anunciado que o treino de a Bulgária seria aberto a o público , os dirigentes mudaram de idéia pouco antes de o início de o treinamento e proibiram a presença de torcedores em o campo de a Southern Methodist University , em Dallas .
 # sent_id = CF970-3
-SUJ_DESOCULTADO	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 apesar	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 haver	_	_	_	_	_	_	_	_	_

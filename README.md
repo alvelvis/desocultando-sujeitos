@@ -61,6 +61,7 @@ $ python3 tokenizar_conllu.py bosque-ud-2.6-test.conllu bosque-ud-2.6-test-token
 $ python3 tokenizar_conllu.py bosque-ud-2.6-desocultado-test.conllu bosque-ud-2.6-desocultado-test-tokenizado.txt
 $ python3 udpipe_vertical.py bosque-ud-2.6.udpipe bosque-ud-2.6-test-tokenizado.txt bosque-ud-2.6-test-anotado.conllu
 $ python3 udpipe_vertical.py bosque-ud-2.6-desocultado.udpipe bosque-ud-2.6-desocultado-test-tokenizado.txt bosque-ud-2.6-desocultado-test-anotado.conllu
+$ python3 udpipe_vertical.py bosque-ud-2.6-desocultado.udpipe bosque-ud-2.6-test-tokenizado.txt bosque-ud-2.6-crossover.conllu
 ```
 
 8) Comparamos a qualidade da anotação com os seguintes comandos:
@@ -68,4 +69,5 @@ $ python3 udpipe_vertical.py bosque-ud-2.6-desocultado.udpipe bosque-ud-2.6-deso
 ```
 $ python3 conll18_ud_eval.py bosque-ud-2.6-test.conllu bosque-ud-2.6-test-anotado.conllu -v
 $ python3 conll18_ud_eval.py bosque-ud-2.6-desocultado-test.conllu bosque-ud-2.6-desocultado-test-anotado.conllu -v
+$ python3 conll18_ud_eval.py bosque-ud-2.6-test.conllu bosque-ud-2.6-crossover.conllu -v
 ```

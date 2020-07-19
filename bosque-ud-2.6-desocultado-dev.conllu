@@ -97,12 +97,12 @@
 31	solidariedade	solidariedade	NOUN	_	Gender=Fem|Number=Sing	29	conj	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = Para SUJ_DESOCULTADO construir o ambiente futurista de o filme , Godard recorreu quase que totalmente a a fotografia .
+# text = Para <SUBJ> construir o ambiente futurista de o filme , Godard recorreu quase que totalmente a a fotografia .
 # sent_id = CF893-4
 # source = CETENFolha n=893 cad=TV Folha sec=clt-soc sem=94b
 # id = 3763
 1	Para	para	SCONJ	_	_	3	mark	_	_
-2	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	3	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	_	3	nsubj	_	<SUBJ>
 3	construir	construir	VERB	_	VerbForm=Inf	12	advcl	_	_
 4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	ambiente	ambiente	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
@@ -317,7 +317,7 @@
 32	públicos	público	ADJ	_	Gender=Masc|Number=Plur	31	amod	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	17	punct	_	_
 
-# text = O problema é político porque ele envolve , por exemplo , a gratuidade de a educação , de a saúde , de a previdência mínima .
+# text = O problema é político porque <SUBJ> envolve , por exemplo , a gratuidade de a educação , de a saúde , de a previdência mínima .
 # sent_id = CF895-2
 # source = CETENFolha n=895 cad=Caderno Especial sec=nd sem=94b
 # id = 3770
@@ -326,7 +326,7 @@
 3	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	político	político	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 5	porque	porque	SCONJ	_	_	7	mark	_	_
-6	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	7	nsubj	_	SUJ_DESOCULTADO
+6	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	7	nsubj	_	<SUBJ>
 7	envolve	envolver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	por	por	ADP	_	_	7	advmod	_	MWE=por_exemplo|MWEPOS=ADV
@@ -351,11 +351,11 @@
 25	mínima	pequeno	ADJ	_	Gender=Fem|Number=Sing	24	amod	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = SUJ_DESOCULTADO excetuada a educação básica de primeiro grau , que deve ser gratuita e obrigatória , para todo o resto é preciso discriminar quem pode pagar .
+# text = <SUBJ> excetuada a educação básica de primeiro grau , que deve ser gratuita e obrigatória , para todo o resto é preciso discriminar quem pode pagar .
 # sent_id = CF895-3
 # source = CETENFolha n=895 cad=Caderno Especial sec=nd sem=94b
 # id = 3771
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	<SUBJ>
 2	excetuada	excetuar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	22	advcl	_	_
 3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	educação	educação	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
@@ -412,7 +412,7 @@
 22	brasileiros	brasileiro	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	17	punct	_	_
 
-# text = De os fumantes , 18,1 milhões SUJ_DESOCULTADO são homens e 12,5 milhões , mulheres .
+# text = De os fumantes , 18,1 milhões <SUBJ> são homens e 12,5 milhões , mulheres .
 # sent_id = CF896-2
 # source = CETENFolha n=896 cad=Brasil sec=pol sem=94b &E
 # id = 3773
@@ -423,7 +423,7 @@
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	18,1	18,1	NUM	_	NumType=Card	9	nummod	_	MWE=18,1_milhões
 6	milhões	milhão	NUM	_	NumType=Card	5	flat	_	_
-7	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	SUJ_DESOCULTADO
+7	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	9	nsubj	_	<SUBJ>
 8	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 9	homens	homem	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
 10	e	e	CCONJ	_	_	11	cc	_	_
@@ -457,7 +457,7 @@
 18	10	10	NUM	_	NumType=Card	16	conj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = PF prende dois por SUJ_DESOCULTADO cobrar ágio
+# text = PF prende dois por <SUBJ> cobrar ágio
 # sent_id = CF897-1
 # source = CETENFolha n=897 cad=Dinheiro sec=eco sem=94a
 # id = 3775
@@ -465,7 +465,7 @@
 2	prende	prender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	dois	dois	NUM	_	NumType=Card	2	obj	_	_
 4	por	por	SCONJ	_	_	6	mark	_	_
-5	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	6	nsubj	_	SUJ_DESOCULTADO
+5	<SUBJ>	<SUBJ>	NOUN	_	_	6	nsubj	_	<SUBJ>
 6	cobrar	cobrar	VERB	_	VerbForm=Inf	2	advcl	_	_
 7	ágio	ágio	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
 
@@ -478,7 +478,7 @@
 2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	FT	FT	PROPN	_	Gender=Fem|Number=Sing	0	root	_	_
 
-# text = A PF ( Polícia Federal ) indiciou ontem duas pessoas por SUJ_DESOCULTADO vender carro com ágio .
+# text = A PF ( Polícia Federal ) indiciou ontem duas pessoas por <SUBJ> vender carro com ágio .
 # sent_id = CF897-3
 # source = CETENFolha n=897 cad=Dinheiro sec=eco sem=94a
 # id = 3777
@@ -493,7 +493,7 @@
 9	duas	dois	NUM	_	NumType=Card	10	nummod	_	_
 10	pessoas	pessoa	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
 11	por	por	SCONJ	_	_	13	mark	_	_
-12	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	13	nsubj	_	SUJ_DESOCULTADO
+12	<SUBJ>	<SUBJ>	NOUN	_	_	13	nsubj	_	<SUBJ>
 13	vender	vender	VERB	_	VerbForm=Inf	7	advcl	_	_
 14	carro	carro	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
 15	com	com	ADP	_	_	16	case	_	_
@@ -761,7 +761,7 @@
 34	Prefeitura	prefeitura	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
 35	.	.	PUNCT	_	_	13	punct	_	_
 
-# text = Em a sua administração , ele executou um plano viário com largas avenidas interligando os bairros , que provocaram um boom imobiliário .
+# text = Em a sua administração , <SUBJ> executou um plano viário com largas avenidas interligando os bairros , que provocaram um boom imobiliário .
 # sent_id = CF899-2
 # source = CETENFolha n=899 cad=Brasil sec=pol sem=94b
 # id = 3788
@@ -771,7 +771,7 @@
 3	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	4	det	_	_
 4	administração	administração	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	7	nsubj	_	SUJ_DESOCULTADO
+6	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	7	nsubj	_	<SUBJ>
 7	executou	executar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	plano	plano	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
@@ -816,7 +816,7 @@
 20	0,24	0,24	NUM	_	NumType=Card	19	nummod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = Dallari orientou os produtores a eles negociarem com a indústria .
+# text = Dallari orientou os produtores a <SUBJ> negociarem com a indústria .
 # sent_id = CF900-2
 # source = CETENFolha n=900 cad=Mundo sec=pol sem=94b
 # id = 3790
@@ -825,14 +825,14 @@
 3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	produtores	produtor	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
 5	a	a	SCONJ	_	_	7	mark	_	_
-6	eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	7	nsubj	_	SUJ_DESOCULTADO
+6	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	7	nsubj	_	<SUBJ>
 7	negociarem	negociar	VERB	_	Number=Plur|Person=3|VerbForm=Inf	2	advcl	_	_
 8	com	com	ADP	_	_	10	case	_	_
 9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	indústria	indústria	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = Esses aspectos podem ser observados em os relatos de as pacientes : « SUJ_DESOCULTADO quando tenho que arrumar a casa e não estou com vontade , escuto vozes que me incentivam a começar a tarefa .
+# text = Esses aspectos podem ser observados em os relatos de as pacientes : « eu quando tenho que arrumar a casa e não estou com vontade , escuto vozes que me incentivam a começar a tarefa .
 # sent_id = CF901-1
 # source = CETENFolha n=901 cad=Mais! sec=nd sem=94b
 # id = 3791
@@ -851,7 +851,7 @@
 11	pacientes	paciente	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
 12	:	:	PUNCT	_	_	5	punct	_	_
 13	«	«	PUNCT	_	_	27	punct	_	SpaceAfter=No
-14	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	18	nsubj	_	SUJ_DESOCULTADO
+14	eu	eu	PRON	_	Number=Sing|Person=1	18	nsubj	_	<SUBJ>
 15	quando	quando	ADV	_	_	18	advmod	_	_
 16	tenho	ter	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
 17	que	que	SCONJ	_	_	18	mark	_	_
@@ -897,12 +897,12 @@
 16	terminar	terminar	VERB	_	VerbForm=Inf	15	xcomp	_	_
 17	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	16	obj	_	_
 18	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	20	obj	_	_
-19	eu	eu	PRON	_	Gender=Male|Number=Sing|Person=1	20	nsubj	_	SUJ_DESOCULTADO
+19	eu	eu	PRON	_	Number=Sing|Person=1	20	nsubj	_	<SUBJ>
 20	comecei	começar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	acl:relcl	_	SpaceAfter=No
 21	»	»	PUNCT	_	_	8	punct	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	8	punct	_	_
 
-# text = Estes problemas não são frequentes em os homens , pois eles além de terem uma possibilidade menor de casarem e terem filhos , esses não são os tipos de papéis socialmente esperados para o sexo masculino .
+# text = Estes problemas não são frequentes em os homens , pois <SUBJ> além de terem uma possibilidade menor de casarem e terem filhos , esses não são os tipos de papéis socialmente esperados para o sexo masculino .
 # sent_id = CF901-3
 # source = CETENFolha n=901 cad=Mais! sec=nd sem=94b
 # id = 3793
@@ -917,7 +917,7 @@
 8	homens	homem	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	_
 10	pois	pois	SCONJ	_	_	28	mark	_	_
-11	eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	14	nsubj	_	SUJ_DESOCULTADO
+11	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	14	nsubj	_	<SUBJ>
 12	além	além	ADV	_	_	14	mark	_	MWE=além_de|MWEPOS=SCONJ
 13	de	de	ADP	_	_	12	fixed	_	_
 14	terem	ter	VERB	_	Number=Plur|Person=3|VerbForm=Inf	28	advcl	_	_
@@ -991,7 +991,7 @@
 25	12	12	NUM	_	NumType=Card	24	nummod	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	10	punct	_	_
 
-# text = Quem não quiser beber durante o jantar , ele poderá levar o champanhe para casa .
+# text = Quem não quiser beber durante o jantar , <SUBJ> poderá levar o champanhe para casa .
 # sent_id = CF902-3
 # source = CETENFolha n=902 cad=Cotidiano sec=soc sem=94b
 # id = 3796
@@ -1003,7 +1003,7 @@
 6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	jantar	jantar	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	3	punct	_	_
-9	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	10	nsubj	_	SUJ_DESOCULTADO
+9	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	10	nsubj	_	<SUBJ>
 10	poderá	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 11	levar	levar	VERB	_	VerbForm=Inf	10	xcomp	_	_
 12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -1268,11 +1268,11 @@
 29	ataque	ataque	NOUN	_	Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	9	punct	_	_
 
-# text = SUJ_DESOCULTADO é o que confirmam as estatísticas de o Campeonato Brasileiro , encerrado ontem com o novo título palmeirense .
+# text = <SUBJ> é o que confirmam as estatísticas de o Campeonato Brasileiro , encerrado ontem com o novo título palmeirense .
 # sent_id = CF904-6
 # source = CETENFolha n=904 cad=Esporte sec=des sem=94a
 # id = 3810
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	3	nsubj	_	<SUBJ>
 2	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 4	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	5	obj	_	_
@@ -1657,13 +1657,13 @@
 13	Mães	Mães	PROPN	_	Number=Sing	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	6	punct	_	_
 
-# text = Diariamente , SUJ_DESOCULTADO está promovendo desfiles de moda para seus consumidores .
+# text = Diariamente , <SUBJ> está promovendo desfiles de moda para seus consumidores .
 # sent_id = CF908-4
 # source = CETENFolha n=908 cad=Cotidiano sec=soc sem=94b
 # id = 3824
 1	Diariamente	diariamente	ADV	_	_	5	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	5	nsubj	_	SUJ_DESOCULTADO
+3	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	5	nsubj	_	<SUBJ>
 4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	promovendo	promover	VERB	_	VerbForm=Ger	0	root	_	_
 6	desfiles	desfile	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
@@ -1894,11 +1894,11 @@
 20	outros	outro	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	3	obl	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = SUJ_DESOCULTADO era uma época em que os cariocas imperavam em campo e fora de ele .
+# text = <SUBJ> era uma época em que os cariocas imperavam em campo e fora de ele .
 # sent_id = CF911-1
 # source = CETENFolha n=911 cad=Esporte sec=des sem=94b
 # id = 3834
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	4	nsubj	_	<SUBJ>
 2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 3	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	época	época	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -1985,7 +1985,7 @@
 23	arrasadora	arrasador	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = Passaram se uns 50 anos e o sonho se realizou , SUJ_DESOCULTADO trazendo alegria e também , inesperadamente , frustração .
+# text = Passaram se uns 50 anos e o sonho se realizou , <SUBJ> trazendo alegria e também , inesperadamente , frustração .
 # sent_id = CF911-4
 # source = CETENFolha n=911 cad=Esporte sec=des sem=94b
 # id = 3837
@@ -2001,7 +2001,7 @@
 9	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
 10	realizou	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
-12	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	13	nsubj	_	SUJ_DESOCULTADO
+12	<SUBJ>	<SUBJ>	NOUN	_	_	13	nsubj	_	<SUBJ>
 13	trazendo	trazer	VERB	_	VerbForm=Ger	10	advcl	_	_
 14	alegria	alegria	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
 15	e	e	CCONJ	_	_	14	cc	_	_
@@ -2050,7 +2050,7 @@
 29	Fria	Fria	ADJ	_	Number=Sing	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	1	punct	_	_
 
-# text = Já não há o império de o mal para SUJ_DESOCULTADO combater .
+# text = Já não há o império de o mal para <SUBJ> combater .
 # sent_id = CF911-6
 # source = CETENFolha n=911 cad=Esporte sec=des sem=94b
 # id = 3839
@@ -2064,7 +2064,7 @@
 7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	mal	mal	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 9	para	para	SCONJ	_	_	11	mark	_	_
-10	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	11	nsubj	_	SUJ_DESOCULTADO
+10	<SUBJ>	<SUBJ>	NOUN	_	_	11	nsubj	_	<SUBJ>
 11	combater	combater	VERB	_	VerbForm=Inf	3	advcl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -2089,7 +2089,7 @@
 14	passado	passado	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	11	punct	_	_
 
-# text = O bombeiro suspeita que o golfinho tenha morrido SUJ_DESOCULTADO afogado .
+# text = O bombeiro suspeita que o golfinho tenha morrido <SUBJ> afogado .
 # sent_id = CF912-1
 # source = CETENFolha n=912 cad=Cotidiano sec=soc sem=94b
 # id = 3841
@@ -2101,11 +2101,11 @@
 6	golfinho	golfinho	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
 7	tenha	ter	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	morrido	morrer	VERB	_	VerbForm=Part	3	ccomp	_	_
-9	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	SUJ_DESOCULTADO
+9	<SUBJ>	<SUBJ>	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	<SUBJ>
 10	afogado	afogar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = Ele teria ficado preso em uma rede de pesca sem condições de SUJ_DESOCULTADO subir a a tona para SUJ_DESOCULTADO respirar .
+# text = Ele teria ficado preso em uma rede de pesca sem condições de <SUBJ> subir a a tona para <SUBJ> respirar .
 # sent_id = CF912-2
 # source = CETENFolha n=912 cad=Cotidiano sec=soc sem=94b
 # id = 3842
@@ -2121,18 +2121,18 @@
 10	sem	sem	ADP	_	_	11	case	_	_
 11	condições	condição	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
 12	de	de	SCONJ	_	_	14	mark	_	_
-13	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	14	nsubj	_	SUJ_DESOCULTADO
+13	<SUBJ>	<SUBJ>	NOUN	_	_	14	nsubj	_	<SUBJ>
 14	subir	subir	VERB	_	VerbForm=Inf	11	ccomp	_	_
 15-16	à	_	_	_	_	_	_	_	_
 15	a	a	ADP	_	_	17	case	_	_
 16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	tona	tona	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
 18	para	para	SCONJ	_	_	20	mark	_	_
-19	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	20	nsubj	_	SUJ_DESOCULTADO
+19	<SUBJ>	<SUBJ>	NOUN	_	_	20	nsubj	_	<SUBJ>
 20	respirar	respirar	VERB	_	VerbForm=Inf	14	advcl	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = Os bombeiros pediram ajuda a o Cebimar ( Centro de Biologia Marinha ) de a USP para SUJ_DESOCULTADO apurar as causas de a morte de o golfinho .
+# text = Os bombeiros pediram ajuda a o Cebimar ( Centro de Biologia Marinha ) de a USP para <SUBJ> apurar as causas de a morte de o golfinho .
 # sent_id = CF912-3
 # source = CETENFolha n=912 cad=Cotidiano sec=soc sem=94b
 # id = 3843
@@ -2155,7 +2155,7 @@
 15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	USP	USP	PROPN	_	Gender=Fem|Number=Sing	7	nmod	_	_
 17	para	para	SCONJ	_	_	19	mark	_	_
-18	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	19	nsubj	_	SUJ_DESOCULTADO
+18	<SUBJ>	<SUBJ>	NOUN	_	_	19	nsubj	_	<SUBJ>
 19	apurar	apurar	VERB	_	VerbForm=Inf	3	advcl	_	_
 20	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	causas	causa	NOUN	_	Gender=Fem|Number=Plur	19	obj	_	_
@@ -2200,7 +2200,7 @@
 2	E	e	CCONJ	_	_	3	cc	_	_
 3	TARIFAS	tarifa	NOUN	_	Gender=Fem|Number=Plur	1	conj	_	_
 
-# text = O governo vai usar a URV para SUJ_DESOCULTADO corrigir impostos , garantiu FHC .
+# text = O governo vai usar a URV para <SUBJ> corrigir impostos , garantiu FHC .
 # sent_id = CF913-2
 # source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
 # id = 3846
@@ -2211,7 +2211,7 @@
 5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	URV	URV	PROPN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	para	para	SCONJ	_	_	9	mark	_	_
-8	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	9	nsubj	_	SUJ_DESOCULTADO
+8	<SUBJ>	<SUBJ>	NOUN	_	_	9	nsubj	_	<SUBJ>
 9	corrigir	corrigir	VERB	_	VerbForm=Inf	4	advcl	_	_
 10	impostos	imposto	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	4	punct	_	_
@@ -2247,11 +2247,11 @@
 20	Ufir	Ufir	PROPN	_	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = SUJ_DESOCULTADO vai ter paridade , já desde o começo » , ele explicou .
+# text = <SUBJ> vai ter paridade , já desde o começo » , <SUBJ> explicou .
 # sent_id = CF913-4
 # source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
 # id = 3848
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	3	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	3	nsubj	_	<SUBJ>
 2	vai	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	ter	ter	VERB	_	VerbForm=Inf	13	ccomp	_	_
 4	paridade	paridade	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
@@ -2262,11 +2262,11 @@
 9	começo	começo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 10	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
-12	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	13	nsubj	_	SUJ_DESOCULTADO
+12	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	13	nsubj	_	<SUBJ>
 13	explicou	explicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 
-# text = Quanto a as tarifas públicas , SUJ_DESOCULTADO não serão fixadas em URV SUJ_DESOCULTADO para evitar reajustes diários , mas terão correções periódicas por o indexador .
+# text = Quanto a as tarifas públicas , <SUBJ> não serão fixadas em URV <SUBJ> para evitar reajustes diários , mas terão correções periódicas por o indexador .
 # sent_id = CF913-5
 # source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
 # id = 3849
@@ -2277,13 +2277,13 @@
 4	tarifas	tarifa	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
 5	públicas	público	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	_
-7	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	_	SUJ_DESOCULTADO
+7	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	10	nsubj	_	<SUBJ>
 8	não	não	ADV	_	Polarity=Neg	10	advmod	_	_
 9	serão	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	aux:pass	_	_
 10	fixadas	fixar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
 11	em	em	ADP	_	_	12	case	_	_
 12	URV	URV	PROPN	_	Gender=Fem|Number=Sing	10	obj	_	_
-13	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	14	nsubj	_	SUJ_DESOCULTADO
+13	<SUBJ>	<SUBJ>	NOUN	_	_	14	nsubj	_	<SUBJ>
 14	para	para	SCONJ	_	_	15	mark	_	_
 15	evitar	evitar	VERB	_	VerbForm=Inf	10	advcl	_	_
 16	reajustes	reajuste	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
@@ -2299,7 +2299,7 @@
 25	indexador	indexador	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	10	punct	_	_
 
-# text = « De o ponto de vista de proteção a o consumidor , SUJ_DESOCULTADO vou reajustar o preço de a tarifa pública em o dia normal como se ela fosse URV .
+# text = « De o ponto de vista de proteção a o consumidor , eu vou reajustar o preço de a tarifa pública em o dia normal como se ela fosse URV .
 # sent_id = CF913-6
 # source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
 # id = 3850
@@ -2317,7 +2317,7 @@
 10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	consumidor	consumidor	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	4	punct	_	_
-13	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	15	nsubj	_	SUJ_DESOCULTADO
+13	eu	eu	PRON	_	Number=Sing|Person=1	15	nsubj	_	<SUBJ>
 14	vou	ir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
 15	reajustar	reajustar	VERB	_	VerbForm=Inf	0	root	_	_
 16	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
@@ -2339,7 +2339,7 @@
 30	URV	URV	PROPN	_	Gender=Fem|Number=Sing	15	advcl	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	15	punct	_	_
 
-# text = Ou seja , por a média real de os últimos quatro meses » , ele disse .
+# text = Ou seja , por a média real de os últimos quatro meses » , <SUBJ> disse .
 # sent_id = CF913-7
 # source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
 # id = 3851
@@ -2359,7 +2359,7 @@
 12	meses	mês	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 13	»	»	PUNCT	_	_	6	punct	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	_
-15	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	16	nsubj	_	SUJ_DESOCULTADO
+15	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	16	nsubj	_	<SUBJ>
 16	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	_
 
@@ -2369,21 +2369,21 @@
 # id = 3852
 1	APOSENTADOS	aposentado	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
 
-# text = SUJ_DESOCULTADO serão beneficiados porque SUJ_DESOCULTADO hoje demoram até 12 dias SUJ_DESOCULTADO para receber seus benefícios , vinculados a o salário mínimo :
+# text = <SUBJ> serão beneficiados porque <SUBJ> hoje demoram até 12 dias <SUBJ> para receber seus benefícios , vinculados a o salário mínimo :
 # sent_id = CF913-9
 # source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
 # id = 3853
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	3	nsubj	_	<SUBJ>
 2	serão	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	3	aux:pass	_	_
 3	beneficiados	beneficiar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
 4	porque	porque	SCONJ	_	_	7	mark	_	_
-5	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	6	nsubj	_	SUJ_DESOCULTADO
+5	<SUBJ>	<SUBJ>	NOUN	_	_	6	nsubj	_	<SUBJ>
 6	hoje	hoje	ADV	_	_	7	advmod	_	_
 7	demoram	demorar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 8	até	até	ADP	_	_	10	case	_	_
 9	12	12	NUM	_	NumType=Card	10	nummod	_	_
 10	dias	dia	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
-11	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	SUJ_DESOCULTADO
+11	<SUBJ>	<SUBJ>	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	<SUBJ>
 12	para	para	SCONJ	_	_	13	mark	_	_
 13	receber	receber	VERB	_	VerbForm=Inf	7	advcl	_	_
 14	seus	seu	DET	_	Gender=Masc|Number=Plur|PronType=Prs	15	det	_	_
@@ -2488,7 +2488,7 @@
 16	»	»	PUNCT	_	_	14	punct	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = « As pessoas pensam que eles recebem US$ 80 , mas 30 dias depois esse valor é muito menor » .
+# text = « As pessoas pensam que <SUBJ> recebem US$ 80 , mas 30 dias depois esse valor é muito menor » .
 # sent_id = CF913-14
 # source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
 # id = 3858
@@ -2497,7 +2497,7 @@
 3	pessoas	pessoa	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
 4	pensam	pensar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	_	_	7	mark	_	_
-6	eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	7	nsubj	_	SUJ_DESOCULTADO
+6	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	7	nsubj	_	<SUBJ>
 7	recebem	receber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 8	US$	US$	SYM	_	_	7	obj	_	_
 9	80	80	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
@@ -2825,11 +2825,11 @@
 24	Folha	Folha	PROPN	_	Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	6	punct	_	_
 
-# text = SUJ_DESOCULTADO sustentadas em depoimentos a a PF , SUJ_DESOCULTADO foram confirmadas em três perícias .
+# text = <SUBJ> sustentadas em depoimentos a a PF , <SUBJ> foram confirmadas em três perícias .
 # sent_id = CF916-4
 # source = CETENFolha n=916 cad=Mais! sec=nd sem=94b
 # id = 3870
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	<SUBJ>
 2	sustentadas	sustentar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	11	advcl	_	_
 3	em	em	ADP	_	_	4	case	_	_
 4	depoimentos	depoimento	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
@@ -2838,7 +2838,7 @@
 6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	PF	PF	PROPN	_	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	_
-9	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	SUJ_DESOCULTADO
+9	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	11	nsubj	_	<SUBJ>
 10	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	11	aux:pass	_	_
 11	confirmadas	confirmar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
 12	em	em	ADP	_	_	14	case	_	_
@@ -2916,11 +2916,11 @@
 5	vandalismo	vandalismo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = Ele pode ser condenado a o açoite , como seu compatriota Michael Fay , 18 , preso em a mesma ocasião .
+# text = <SUBJ> pode ser condenado a o açoite , como seu compatriota Michael Fay , 18 , preso em a mesma ocasião .
 # sent_id = CF917-4
 # source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
 # id = 3875
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	2	nsubj	_	<SUBJ>
 2	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ser	ser	AUX	_	VerbForm=Inf	4	aux:pass	_	_
 4	condenado	condenar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	2	xcomp	_	_
@@ -3061,7 +3061,7 @@
 # source = CETENFolha n=918 cad=Mundo sec=pol sem=94a
 # id = 3881
 1	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	4	nsubj	_	SUJ_DESOCULTADO
+2	nós	nós	PRON	_	Number=Plur|Person=1	4	nsubj	_	<SUBJ>
 3	Não	não	ADV	_	Polarity=Neg	4	advmod	_	_
 4	damos	dar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	conta	conta	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
@@ -3203,7 +3203,7 @@
 29	Paulista	Paulista	PROPN	_	Number=Sing	28	flat:name	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = O técnico Pepe , irritado com a atuação de o time em o empate em 1 a 1 com Ituano anteontem , disse « que SUJ_DESOCULTADO está faltando tranquilidade e talento a os jogadores » .
+# text = O técnico Pepe , irritado com a atuação de o time em o empate em 1 a 1 com Ituano anteontem , disse « que <SUBJ> está faltando tranquilidade e talento a os jogadores » .
 # sent_id = CF919-4
 # source = CETENFolha n=919 cad=Esporte sec=des sem=94b
 # id = 3887
@@ -3234,7 +3234,7 @@
 23	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 24	«	«	PUNCT	_	_	28	punct	_	SpaceAfter=No
 25	que	que	SCONJ	_	_	28	mark	_	_
-26	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	28	nsubj	_	SUJ_DESOCULTADO
+26	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	28	nsubj	_	<SUBJ>
 27	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
 28	faltando	faltar	VERB	_	VerbForm=Ger	23	ccomp	_	_
 29	tranquilidade	tranquilidade	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	_
@@ -3271,7 +3271,7 @@
 18	dezembro	dezembro	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = « Se isso acontecer , tem que ser rápido , de o contrário não adianta mais » , ele afirmou .
+# text = « Se isso acontecer , tem que ser rápido , de o contrário não adianta mais » , <SUBJ> afirmou .
 # sent_id = CF919-6
 # source = CETENFolha n=919 cad=Esporte sec=des sem=94b
 # id = 3889
@@ -3294,7 +3294,7 @@
 16	mais	mais	ADV	_	_	9	advmod	_	SpaceAfter=No
 17	»	»	PUNCT	_	_	9	punct	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	15	punct	_	_
-19	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	20	nsubj	_	SUJ_DESOCULTADO
+19	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	20	nsubj	_	<SUBJ>
 20	afirmou	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	_
 
@@ -3302,13 +3302,13 @@
 # sent_id = CF920-1
 # source = CETENFolha n=920 cad=Esporte sec=des sem=94b
 # id = 3890
-1	Tu	tu	PRON	_	Gender=Male|Number=Sing|Person=2	2	nsubj	_	SUJ_DESOCULTADO
+1	Tu	tu	PRON	_	Number=Sing|Person=2	2	nsubj	_	<SUBJ>
 2	saiba	saber	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	quem	quem	PRON	_	Gender=Masc|Number=Sing|PronType=Int	2	ccomp	_	_
 4	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 5	Barrichello	Barrichello	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 
-# text = Nascido em o dia 23 de maio de 1972 , em São Paulo , Rubens Gonçalves Barrichello começou sua carreira automobilística em o kart , em 81 , SUJ_DESOCULTADO quando foi vice-campeão júnior de a capital paulista .
+# text = Nascido em o dia 23 de maio de 1972 , em São Paulo , Rubens Gonçalves Barrichello começou sua carreira automobilística em o kart , em 81 , <SUBJ> quando foi vice-campeão júnior de a capital paulista .
 # sent_id = CF920-3
 # source = CETENFolha n=920 cad=Esporte sec=des sem=94b
 # id = 3891
@@ -3342,7 +3342,7 @@
 26	em	em	ADP	_	_	27	case	_	_
 27	81	81	NUM	_	NumType=Card	18	obl	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	18	punct	_	_
-29	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	32	nsubj	_	SUJ_DESOCULTADO
+29	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	32	nsubj	_	<SUBJ>
 30	quando	quando	ADV	_	_	32	advmod	_	_
 31	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	cop	_	_
 32	vice-campeão	vice-campeão	NOUN	_	Gender=Masc|Number=Sing	27	acl:relcl	_	_
@@ -3354,7 +3354,7 @@
 37	paulista	paulista	ADJ	_	Gender=Fem|Number=Sing	36	amod	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	18	punct	_	_
 
-# text = Em 1989 , após SUJ_DESOCULTADO ganhar diversos títulos paulistas e brasileiros em o kart , Barrichello disputou o Campeonato Brasileiro de Fórmula Ford , SUJ_DESOCULTADO terminando em quarto lugar .
+# text = Em 1989 , após <SUBJ> ganhar diversos títulos paulistas e brasileiros em o kart , Barrichello disputou o Campeonato Brasileiro de Fórmula Ford , <SUBJ> terminando em quarto lugar .
 # sent_id = CF920-4
 # source = CETENFolha n=920 cad=Esporte sec=des sem=94b
 # id = 3892
@@ -3362,7 +3362,7 @@
 2	1989	1989	NUM	_	NumType=Card	17	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	após	após	SCONJ	_	_	6	mark	_	_
-5	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	6	nsubj	_	SUJ_DESOCULTADO
+5	<SUBJ>	<SUBJ>	NOUN	_	_	6	nsubj	_	<SUBJ>
 6	ganhar	ganhar	VERB	_	VerbForm=Inf	17	advcl	_	_
 7	diversos	diversos	DET	_	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 8	títulos	título	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
@@ -3383,7 +3383,7 @@
 22	Fórmula	Fórmula	PROPN	_	Number=Sing	19	nmod	_	MWE=Fórmula_Ford|MWEPOS=PROPN
 23	Ford	Ford	PROPN	_	Number=Sing	22	flat:name	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	_
-25	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	26	nsubj	_	SUJ_DESOCULTADO
+25	<SUBJ>	<SUBJ>	NOUN	_	_	26	nsubj	_	<SUBJ>
 26	terminando	terminar	VERB	_	VerbForm=Ger	17	advcl	_	_
 27	em	em	ADP	_	_	29	case	_	_
 28	quarto	quarto	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	29	amod	_	_
@@ -3647,7 +3647,7 @@
 9	20	20	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = Beckenbauer aconselha o lateral a conversar com o treinador , SUJ_DESOCULTADO procurando reverter a situação .
+# text = Beckenbauer aconselha o lateral a conversar com o treinador , <SUBJ> procurando reverter a situação .
 # sent_id = CF923-1
 # source = CETENFolha n=923 cad=Esporte sec=des sem=94a
 # id = 3905
@@ -3661,7 +3661,7 @@
 8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	treinador	treinador	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
-11	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	12	nsubj	_	SUJ_DESOCULTADO
+11	<SUBJ>	<SUBJ>	NOUN	_	_	12	nsubj	_	<SUBJ>
 12	procurando	procurar	VERB	_	VerbForm=Ger	6	advcl	_	_
 13	reverter	reverter	VERB	_	VerbForm=Inf	12	xcomp	_	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
@@ -3690,7 +3690,7 @@
 15	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
 16	»	»	PUNCT	_	_	6	punct	_	_
 
-# text = O caso Effenberg , jogador cortado por SUJ_DESOCULTADO ter feito gesto obsceno a a torcida , também foi criticado .
+# text = O caso Effenberg , jogador cortado por <SUBJ> ter feito gesto obsceno a a torcida , também foi criticado .
 # sent_id = CF923-3
 # source = CETENFolha n=923 cad=Esporte sec=des sem=94a
 # id = 3907
@@ -3701,7 +3701,7 @@
 5	jogador	jogador	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
 6	cortado	cortar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
 7	por	por	SCONJ	_	_	10	mark	_	_
-8	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	10	nsubj	_	SUJ_DESOCULTADO
+8	<SUBJ>	<SUBJ>	NOUN	_	_	10	nsubj	_	<SUBJ>
 9	ter	ter	AUX	_	VerbForm=Inf	10	aux	_	_
 10	feito	fazer	VERB	_	VerbForm=Part	6	advcl	_	_
 11	gesto	gesto	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
@@ -3716,12 +3716,12 @@
 19	criticado	criticar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	19	punct	_	_
 
-# text = « SUJ_DESOCULTADO Foi um ato muito rigoroso .
+# text = « <SUBJ> Foi um ato muito rigoroso .
 # sent_id = CF923-4
 # source = CETENFolha n=923 cad=Esporte sec=des sem=94a
 # id = 3908
 1	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	5	nsubj	_	<SUBJ>
 3	Foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	ato	ato	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -3768,7 +3768,7 @@
 10	discrição	discrição	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
 11	:	:	PUNCT	_	_	7	punct	_	_
 
-# text = « Beckenbauer tem o direito de dizer o que ele quiser » .
+# text = « Beckenbauer tem o direito de dizer o que <SUBJ> quiser » .
 # sent_id = CF923-7
 # source = CETENFolha n=923 cad=Esporte sec=des sem=94a
 # id = 3911
@@ -3781,7 +3781,7 @@
 7	dizer	dizer	VERB	_	VerbForm=Inf	5	acl	_	_
 8	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	_
 9	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	11	obj	_	_
-10	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	11	nsubj	_	SUJ_DESOCULTADO
+10	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	11	nsubj	_	<SUBJ>
 11	quiser	querer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No
 12	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
@@ -3909,7 +3909,7 @@
 17	separa	separar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	1	punct	_	_
 
-# text = Caso isso ocorresse , eles seriam colocados em liberdade tão logo eles chegassem em o Canadá .
+# text = Caso isso ocorresse , eles seriam colocados em liberdade tão logo <SUBJ> chegassem em o Canadá .
 # sent_id = CF925-1
 # source = CETENFolha n=925 cad=Cotidiano sec=soc sem=94a
 # id = 3916
@@ -3924,7 +3924,7 @@
 9	liberdade	liberdade	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
 10	tão	tão	ADP	_	_	11	case	_	MWE=tão_logo
 11	logo	logo	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
-12	eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	13	nsubj	_	SUJ_DESOCULTADO
+12	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	13	nsubj	_	<SUBJ>
 13	chegassem	chegar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
 14-15	no	_	_	_	_	_	_	_	_
 14	em	em	ADP	_	_	16	case	_	_
@@ -4034,7 +4034,7 @@
 # source = CETENFolha n=926 cad=Cotidiano sec=soc sem=94b
 # id = 3919
 1	«	«	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	3	nsubj	_	SUJ_DESOCULTADO
+2	nós	nós	PRON	_	Number=Plur|Person=1	3	nsubj	_	<SUBJ>
 3	Queremos	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dar	dar	VERB	_	VerbForm=Inf	3	xcomp	_	_
 5	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -4044,11 +4044,11 @@
 9	anos	ano	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = SUJ_DESOCULTADO é mais eficiente de o que por apenas quatro anos .
+# text = <SUBJ> é mais eficiente de o que por apenas quatro anos .
 # sent_id = CF926-3
 # source = CETENFolha n=926 cad=Cotidiano sec=soc sem=94b
 # id = 3920
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	4	nsubj	_	<SUBJ>
 2	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mais	mais	ADV	_	_	4	advmod	_	_
 4	eficiente	eficiente	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -4062,11 +4062,11 @@
 11	anos	ano	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = SUJ_DESOCULTADO estamos sendo forçados , a o invés , SUJ_DESOCULTADO a reduzir o prazo para três meses .
+# text = Nós estamos sendo forçados , a o invés , <SUBJ> a reduzir o prazo para três meses .
 # sent_id = CF926-4
 # source = CETENFolha n=926 cad=Cotidiano sec=soc sem=94b
 # id = 3921
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	SUJ_DESOCULTADO
+1	Nós	nós	PRON	_	Number=Plur|Person=1	4	nsubj	_	<SUBJ>
 2	estamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	sendo	ser	AUX	_	VerbForm=Ger	4	aux:pass	_	_
 4	forçados	forçar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
@@ -4076,7 +4076,7 @@
 7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	fixed	_	_
 8	invés	invés	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	_
-10	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	11	nsubj	_	SUJ_DESOCULTADO
+10	<SUBJ>	<SUBJ>	NOUN	_	_	11	nsubj	_	<SUBJ>
 11	a	a	SCONJ	_	_	12	mark	_	_
 12	reduzir	reduzir	VERB	_	VerbForm=Inf	4	advcl	_	_
 13	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -4086,11 +4086,11 @@
 17	meses	mês	NOUN	_	Gender=Masc|Number=Plur	12	iobj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = SUJ_DESOCULTADO é uma situação absurda » , disse Taylor , 49 .
+# text = <SUBJ> é uma situação absurda » , disse Taylor , 49 .
 # sent_id = CF926-5
 # source = CETENFolha n=926 cad=Cotidiano sec=soc sem=94b
 # id = 3922
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	4	nsubj	_	<SUBJ>
 2	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	situação	situação	NOUN	_	Gender=Fem|Number=Sing	8	ccomp	_	_
@@ -4322,7 +4322,7 @@
 28	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	10	punct	_	_
 
-# text = Em o Planejamento , o crescimento é de 33,19 % , SUJ_DESOCULTADO elevando as despesas de US$ 87,6 milhões em 93 para US$ 116,69 milhões em 94 .
+# text = Em o Planejamento , o crescimento é de 33,19 % , <SUBJ> elevando as despesas de US$ 87,6 milhões em 93 para US$ 116,69 milhões em 94 .
 # sent_id = CF928-3
 # source = CETENFolha n=928 cad=Brasil sec=pol sem=94b
 # id = 3929
@@ -4338,7 +4338,7 @@
 9	33,19	33,19	NUM	_	NumType=Card	10	nummod	_	SpaceAfter=No
 10	%	%	SYM	_	_	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
-12	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	13	nsubj	_	SUJ_DESOCULTADO
+12	<SUBJ>	<SUBJ>	NOUN	_	_	13	nsubj	_	<SUBJ>
 13	elevando	elevar	VERB	_	VerbForm=Ger	10	advcl	_	_
 14	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	despesas	despesa	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
@@ -4362,7 +4362,7 @@
 # id = 3930
 1	Execução	execução	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 
-# text = O deputado Aloizio Mercadante ( PT/SP ) divulgou ontem números de o Tesouro sobre a execução orçamentária de janeiro a novembro de 1993 , SUJ_DESOCULTADO demonstrando que o governo conseguiu um superávit operacional de US$ 9,2 bilhões em este período .
+# text = O deputado Aloizio Mercadante ( PT/SP ) divulgou ontem números de o Tesouro sobre a execução orçamentária de janeiro a novembro de 1993 , <SUBJ> demonstrando que o governo conseguiu um superávit operacional de US$ 9,2 bilhões em este período .
 # sent_id = CF928-5
 # source = CETENFolha n=928 cad=Brasil sec=pol sem=94b
 # id = 3931
@@ -4391,7 +4391,7 @@
 22	de	de	ADP	_	_	23	case	_	_
 23	1993	1993	NUM	_	NumType=Card	21	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	_
-25	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	26	nsubj	_	SUJ_DESOCULTADO
+25	<SUBJ>	<SUBJ>	NOUN	_	_	26	nsubj	_	<SUBJ>
 26	demonstrando	demonstrar	VERB	_	VerbForm=Ger	8	advcl	_	_
 27	que	que	SCONJ	_	_	30	mark	_	_
 28	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
@@ -4410,12 +4410,12 @@
 40	período	período	NOUN	_	Gender=Masc|Number=Sing	30	obl	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	8	punct	_	_
 
-# text = Embora ele esteja a quase 40 km de o estádio , o hotel foi escolhido porque SUJ_DESOCULTADO está próximo de a California State University , onde o Brasil treinará durante esta semana .
+# text = Embora <SUBJ> esteja a quase 40 km de o estádio , o hotel foi escolhido porque <SUBJ> está próximo de a California State University , onde o Brasil treinará durante esta semana .
 # sent_id = CF929-1
 # source = CETENFolha n=929 cad=Esporte sec=des sem=94a
 # id = 3932
 1	Embora	embora	SCONJ	_	_	3	mark	_	_
-2	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	3	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	3	nsubj	_	<SUBJ>
 3	esteja	estar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 4	a	a	ADP	_	_	7	case	_	_
 5	quase	quase	ADV	_	_	7	advmod	_	_
@@ -4431,7 +4431,7 @@
 14	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	_
 15	escolhido	escolher	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
 16	porque	porque	SCONJ	_	_	18	mark	_	_
-17	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	18	nsubj	_	SUJ_DESOCULTADO
+17	<SUBJ>	<SUBJ>	NOUN	_	_	18	nsubj	_	<SUBJ>
 18	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 19	próximo	próximo	ADV	_	_	18	advmod	_	MWE=próximo_de
 20-21	da	_	_	_	_	_	_	_	_
@@ -4501,12 +4501,12 @@
 9	imprensa	imprensa	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	6	punct	_	_
 
-# text = Para SUJ_DESOCULTADO estimular a participação , a cada dois dias de trabalho as meninas ganham uma boneca .
+# text = Para <SUBJ> estimular a participação , a cada dois dias de trabalho as meninas ganham uma boneca .
 # sent_id = CF930-1
 # source = CETENFolha n=930 cad=Esporte sec=des sem=94b
 # id = 3936
 1	Para	para	SCONJ	_	_	3	mark	_	_
-2	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	3	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	_	3	nsubj	_	<SUBJ>
 3	estimular	estimular	VERB	_	VerbForm=Inf	15	advcl	_	_
 4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	participação	participação	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
@@ -4548,7 +4548,7 @@
 # id = 3938
 1	Demonização	demonização	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 
-# text = Cheia de energia , a interpretação de a Orquestra Estadual de a Hungria vem SUJ_DESOCULTADO amortecida um pouco por a artificialidade de a gravação , de quase 15 anos atrás , mas compensa a sonoridade de estúdio com o vigor .
+# text = Cheia de energia , a interpretação de a Orquestra Estadual de a Hungria vem <SUBJ> amortecida um pouco por a artificialidade de a gravação , de quase 15 anos atrás , mas compensa a sonoridade de estúdio com o vigor .
 # sent_id = CF931-2
 # source = CETENFolha n=931 cad=Ilustrada sec=nd sem=94b
 # id = 3939
@@ -4568,7 +4568,7 @@
 12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	Hungria	Hungria	PROPN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 14	vem	vir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-15	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	SUJ_DESOCULTADO
+15	<SUBJ>	<SUBJ>	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	<SUBJ>
 16	amortecida	amortecer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	14	advcl	_	_
 17	um	um	DET	_	_	16	advmod	_	MWE=um_pouco
 18	pouco	pouco	ADV	_	_	17	fixed	_	_
@@ -4669,12 +4669,12 @@
 27	Strauss	Strauss	PROPN	_	Gender=Masc|Number=Sing	23	conj	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	14	punct	_	_
 
-# text = Não ele poderia haver realização maior para um compositor : substituir Beethoven , ou ter por o menos a ilusão de ser um novo ponto de partida .
+# text = Não <SUBJ> poderia haver realização maior para um compositor : substituir Beethoven , ou ter por o menos a ilusão de ser um novo ponto de partida .
 # sent_id = CF931-5
 # source = CETENFolha n=931 cad=Ilustrada sec=nd sem=94b
 # id = 3942
 1	Não	não	ADV	_	Polarity=Neg	4	advmod	_	_
-2	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	3	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	3	nsubj	_	<SUBJ>
 3	poderia	poder	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	haver	haver	VERB	_	VerbForm=Inf	3	xcomp	_	_
 5	realização	realização	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
@@ -4703,7 +4703,7 @@
 27	partida	partida	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = Para Simon Franco , 55 , presidente de a Simon Franco Recursos Humanos , « não se ele pode jogar fora 15 anos de experiência » .
+# text = Para Simon Franco , 55 , presidente de a Simon Franco Recursos Humanos , « não se <SUBJ> pode jogar fora 15 anos de experiência » .
 # sent_id = CF932-1
 # source = CETENFolha n=932 cad=Empregos sec=eco sem=94a
 # id = 3943
@@ -4725,7 +4725,7 @@
 15	«	«	PUNCT	_	_	20	punct	_	SpaceAfter=No
 16	não	não	ADV	_	Polarity=Neg	20	advmod	_	_
 17	se	se	PRON	_	Case=Acc|Gender=Unsp|PronType=Prs	20	nsubj	_	_
-18	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	19	nsubj	_	SUJ_DESOCULTADO
+18	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	19	nsubj	_	<SUBJ>
 19	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 20	jogar	jogar	VERB	_	VerbForm=Inf	19	xcomp	_	_
 21	fora	fora	ADV	_	_	20	advmod	_	_
@@ -4736,7 +4736,7 @@
 26	»	»	PUNCT	_	_	20	punct	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	20	punct	_	_
 
-# text = Segundo ele , Carvalho não está avaliando que ele pode ampliar seu espectro de opções sem a necessidade de uma mudança radical .
+# text = Segundo ele , Carvalho não está avaliando que <SUBJ> pode ampliar seu espectro de opções sem a necessidade de uma mudança radical .
 # sent_id = CF932-2
 # source = CETENFolha n=932 cad=Empregos sec=eco sem=94a
 # id = 3944
@@ -4748,7 +4748,7 @@
 6	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	avaliando	avaliar	VERB	_	VerbForm=Ger	0	root	_	_
 8	que	que	SCONJ	_	_	11	mark	_	_
-9	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	10	nsubj	_	SUJ_DESOCULTADO
+9	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	10	nsubj	_	<SUBJ>
 10	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
 11	ampliar	ampliar	VERB	_	VerbForm=Inf	10	xcomp	_	_
 12	seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	13	det	_	_
@@ -5258,7 +5258,7 @@
 40	Eslovênia	Eslovênia	PROPN	_	Gender=Fem|Number=Sing	36	conj	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	9	punct	_	_
 
-# text = O time comandado por o técnico Miguel Ângelo de a Luz ficou com o título a o SUJ_DESOCULTADO derrotar anteontem a a noite em a final a forte seleção de Cuba por 115 a 93 ( 54 a 44 em o primeiro tempo ) .
+# text = O time comandado por o técnico Miguel Ângelo de a Luz ficou com o título a o <SUBJ> derrotar anteontem a a noite em a final a forte seleção de Cuba por 115 a 93 ( 54 a 44 em o primeiro tempo ) .
 # sent_id = CF936-4
 # source = CETENFolha n=936 cad=Esporte sec=des sem=94b
 # id = 3964
@@ -5282,7 +5282,7 @@
 16-17	ao	_	_	_	_	_	_	_	_
 16	a	a	ADP	_	_	23	case	_	_
 17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-18	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	19	nsubj	_	SUJ_DESOCULTADO
+18	<SUBJ>	<SUBJ>	NOUN	_	_	19	nsubj	_	<SUBJ>
 19	derrotar	derrotar	VERB	_	VerbForm=Inf	12	advcl	_	_
 20	anteontem	anteontem	ADV	_	_	19	advmod	_	_
 21-22	à	_	_	_	_	_	_	_	_
@@ -5506,7 +5506,7 @@
 # sent_id = CF939-2
 # source = CETENFolha n=939 cad=Folhateen sec=soc sem=94a
 # id = 3972
-1	Nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	2	nsubj	_	SUJ_DESOCULTADO
+1	Nós	nós	PRON	_	Number=Plur|Person=1	2	nsubj	_	<SUBJ>
 2	gostamos	gostar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3-4	da	_	_	_	_	_	_	_	_
 3	de	de	ADP	_	_	5	case	_	_
@@ -5545,7 +5545,7 @@
 # sent_id = CF939-4
 # source = CETENFolha n=939 cad=Folhateen sec=soc sem=94a
 # id = 3974
-1	Nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	3	nsubj	_	SUJ_DESOCULTADO
+1	Nós	nós	PRON	_	Number=Plur|Person=1	3	nsubj	_	<SUBJ>
 2	sempre	sempre	ADV	_	_	3	advmod	_	_
 3	tivemos	ter	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	canções	canção	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
@@ -5599,7 +5599,7 @@
 19	estabilização	estabilização	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = O momento e a forma escolhidos para ele mudar o sistema financeiro , entretanto , dependem fortemente de variáveis políticas .
+# text = O momento e a forma escolhidos para <SUBJ> mudar o sistema financeiro , entretanto , dependem fortemente de variáveis políticas .
 # sent_id = CF940-2
 # source = CETENFolha n=940 cad=Opinião sec=opi sem=94a
 # id = 3977
@@ -5610,7 +5610,7 @@
 5	forma	forma	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
 6	escolhidos	escolher	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	_	_
 7	para	para	SCONJ	_	_	9	mark	_	_
-8	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	9	nsubj	_	SUJ_DESOCULTADO
+8	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	9	nsubj	_	<SUBJ>
 9	mudar	mudar	VERB	_	Number=Sing|Person=3|VerbForm=Inf	6	advcl	_	_
 10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
@@ -5741,11 +5741,11 @@
 34	econômico	econômico	ADJ	_	Gender=Masc|Number=Sing	33	amod	_	SpaceAfter=No
 35	.	.	PUNCT	_	_	1	punct	_	_
 
-# text = Ele chegou atrasado , foi duro com seus críticos e saiu antes de o fim .
+# text = <SUBJ> chegou atrasado , foi duro com seus críticos e saiu antes de o fim .
 # sent_id = CF941-7
 # source = CETENFolha n=941 cad=Brasil sec=pol sem=94b
 # id = 3983
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	2	nsubj	_	<SUBJ>
 2	chegou	chegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	atrasado	atrasado	ADJ	_	Gender=Masc|Number=Sing	2	acl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
@@ -5819,11 +5819,11 @@
 36	filme	filme	NOUN	_	Gender=Masc|Number=Sing	31	obl	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	16	punct	_	_
 
-# text = SUJ_DESOCULTADO é de longe sua melhor atuação em o cinema .
+# text = <SUBJ> é de longe sua melhor atuação em o cinema .
 # sent_id = CF942-3
 # source = CETENFolha n=942 cad=Revista Folha sec=nd sem=94b
 # id = 3986
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	7	nsubj	_	<SUBJ>
 2	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 3	de	de	ADP	_	_	4	case	_	MWE=de_longe
 4	longe	longe	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
@@ -5836,7 +5836,7 @@
 10	cinema	cinema	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	_
 
-# text = Ferrara põe o excelente Harvey Keitel para SUJ_DESOCULTADO interpretar o seu papel : o de o diretor que faz de a falsa loira uma verdadeira atriz .
+# text = Ferrara põe o excelente Harvey Keitel para <SUBJ> interpretar o seu papel : o de o diretor que faz de a falsa loira uma verdadeira atriz .
 # sent_id = CF942-4
 # source = CETENFolha n=942 cad=Revista Folha sec=nd sem=94b
 # id = 3987
@@ -5847,7 +5847,7 @@
 5	Harvey	Harvey	PROPN	_	Gender=Masc|Number=Sing	2	obj	_	MWE=Harvey_Keitel|MWEPOS=PROPN
 6	Keitel	Keitel	PROPN	_	Number=Sing	5	flat:name	_	_
 7	para	para	SCONJ	_	_	9	mark	_	_
-8	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	9	nsubj	_	SUJ_DESOCULTADO
+8	<SUBJ>	<SUBJ>	NOUN	_	_	9	nsubj	_	<SUBJ>
 9	interpretar	interpretar	VERB	_	VerbForm=Inf	2	advcl	_	_
 10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 11	seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	12	det	_	_
@@ -6017,7 +6017,7 @@
 # sent_id = CF943-2
 # source = CETENFolha n=943 cad=Ilustrada sec=nd sem=94b
 # id = 3992
-1	Eu	eu	PRON	_	Gender=Male|Number=Sing|Person=1	2	nsubj	_	SUJ_DESOCULTADO
+1	Eu	eu	PRON	_	Number=Sing|Person=1	2	nsubj	_	<SUBJ>
 2	vi	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4-5	num	_	_	_	_	_	_	_	_
@@ -6045,11 +6045,11 @@
 23	Itália	Itália	PROPN	_	Gender=Fem|Number=Sing	18	advcl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = Ele venceu por 1 a 0 .
+# text = <SUBJ> venceu por 1 a 0 .
 # sent_id = CF943-3
 # source = CETENFolha n=943 cad=Ilustrada sec=nd sem=94b
 # id = 3993
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	2	nsubj	_	<SUBJ>
 2	venceu	vencer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	por	por	ADP	_	_	4	case	_	_
 4	1	1	NUM	_	NumType=Card	2	obl	_	_
@@ -6178,12 +6178,12 @@
 14	Campo	Campo	PROPN	_	Number=Sing	12	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = Sem SUJ_DESOCULTADO dizer que o seu clube dispensou , humilhantemente , o seu arqueiro Zubizarreta -- depois de a derrota para o Milan , 0 a 4 , em a decisão de a Copa de a Europa .
+# text = Sem <SUBJ> dizer que o seu clube dispensou , humilhantemente , o seu arqueiro Zubizarreta -- depois de a derrota para o Milan , 0 a 4 , em a decisão de a Copa de a Europa .
 # sent_id = CF945-1
 # source = CETENFolha n=945 cad=Esporte sec=des sem=94a
 # id = 4000
 1	Sem	sem	SCONJ	_	_	3	mark	_	_
-2	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	3	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	_	3	nsubj	_	<SUBJ>
 3	dizer	dizer	VERB	_	VerbForm=Inf	0	root	_	_
 4	que	que	SCONJ	_	_	8	mark	_	_
 5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -6257,7 +6257,7 @@
 # source = CETENFolha n=945 cad=Esporte sec=des sem=94a
 # id = 4002
 1	«	«	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	3	nsubj	_	SUJ_DESOCULTADO
+2	nós	nós	PRON	_	Number=Plur|Person=1	3	nsubj	_	<SUBJ>
 3	Chegamos	chegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	até	até	ADP	_	_	5	case	_	_
 5	aqui	aqui	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -6535,7 +6535,7 @@
 3	Cinema	cinema	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	1	punct	_	_
 
-# text = « O número é mais alarmante se nós pensarmos que SUJ_DESOCULTADO daria para abastecer toda a população brasileira por oito meses » , diz Dalmo Rosalen , de a Secretaria de o Meio Ambiente .
+# text = « O número é mais alarmante se nós pensarmos que <SUBJ> daria para abastecer toda a população brasileira por oito meses » , diz Dalmo Rosalen , de a Secretaria de o Meio Ambiente .
 # sent_id = CF949-1
 # source = CETENFolha n=949 cad=Agrofolha sec=agr sem=94b
 # id = 4016
@@ -6546,10 +6546,10 @@
 5	mais	mais	ADV	_	_	6	advmod	_	_
 6	alarmante	alarmante	ADJ	_	Gender=Masc|Number=Sing	24	parataxis	_	_
 7	se	se	SCONJ	_	_	9	mark	_	_
-8	nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	9	nsubj	_	SUJ_DESOCULTADO
+8	nós	nós	PRON	_	Number=Plur|Person=1	9	nsubj	_	<SUBJ>
 9	pensarmos	pensar	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	6	advcl	_	_
 10	que	que	SCONJ	_	_	12	mark	_	_
-11	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	12	nsubj	_	SUJ_DESOCULTADO
+11	<SUBJ>	<SUBJ>	NOUN	_	_	12	nsubj	_	<SUBJ>
 12	daria	dar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	9	ccomp	_	_
 13	para	para	SCONJ	_	_	14	mark	_	_
 14	abastecer	abastecer	VERB	_	VerbForm=Inf	12	xcomp	_	_
@@ -6621,7 +6621,7 @@
 21	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = Flach Hoje estão estabelecidas penas de prisão , mesmo que SUJ_DESOCULTADO eventualmente não sejam cumpridas ou sejam convertidas em prestação de serviços a a comunidade .
+# text = Flach Hoje estão estabelecidas penas de prisão , mesmo que <SUBJ> eventualmente não sejam cumpridas ou sejam convertidas em prestação de serviços a a comunidade .
 # sent_id = CF950-1
 # source = CETENFolha n=950 cad=Cotidiano sec=soc sem=94a
 # id = 4019
@@ -6635,7 +6635,7 @@
 8	,	,	PUNCT	_	_	4	punct	_	_
 9	mesmo	mesmo	SCONJ	_	_	15	mark	_	MWE=mesmo_que
 10	que	que	SCONJ	_	_	9	fixed	_	_
-11	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Plur	15	nsubj	_	SUJ_DESOCULTADO
+11	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	15	nsubj	_	<SUBJ>
 12	eventualmente	eventualmente	ADV	_	_	15	advmod	_	_
 13	não	não	ADV	_	Polarity=Neg	15	advmod	_	_
 14	sejam	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
@@ -7028,11 +7028,11 @@
 48	poder	poder	NOUN	_	Gender=Masc|Number=Sing	46	obj	_	SpaceAfter=No
 49	.	.	PUNCT	_	_	14	punct	_	_
 
-# text = Ele tampouco passa por FHC , representante de a contemporização bem explicada , ou por Antonio Britto cujo voto , em favor de a anistia total a os agricultores , semana passada , ressuscitou os piores prognósticos sobre seu estilo .
+# text = <SUBJ> tampouco passa por FHC , representante de a contemporização bem explicada , ou por Antonio Britto cujo voto , em favor de a anistia total a os agricultores , semana passada , ressuscitou os piores prognósticos sobre seu estilo .
 # sent_id = CF798-4
 # source = CETENFolha n=798 cad=Dinheiro sec=eco sem=94b
 # id = 3358
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	3	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	3	nsubj	_	<SUBJ>
 2	tampouco	tampouco	ADV	_	_	3	advmod	_	_
 3	passa	passar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	por	por	ADP	_	_	5	case	_	_
@@ -7138,7 +7138,7 @@
 18	Mandaqui	Mandaqui	PROPN	_	Number=Sing	15	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	9	punct	_	_
 
-# text = « O boneco servirá para SUJ_DESOCULTADO criar o que SUJ_DESOCULTADO chamamos de ' efeito auréola ' em o motorista .
+# text = « O boneco servirá para <SUBJ> criar o que <SUBJ> chamamos de ' efeito auréola ' em o motorista .
 # sent_id = CF800-1
 # source = CETENFolha n=800 cad=Cotidiano sec=soc sem=94b
 # id = 3361
@@ -7147,11 +7147,11 @@
 3	boneco	boneco	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 4	servirá	servir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 5	para	para	SCONJ	_	_	7	mark	_	_
-6	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	7	nsubj	_	SUJ_DESOCULTADO
+6	<SUBJ>	<SUBJ>	NOUN	_	_	7	nsubj	_	<SUBJ>
 7	criar	criar	VERB	_	VerbForm=Inf	4	advcl	_	_
 8	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	_
 9	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	11	obj	_	_
-10	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	SUJ_DESOCULTADO
+10	<SUBJ>	<SUBJ>	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	<SUBJ>
 11	chamamos	chamar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 12	de	de	ADP	_	_	14	case	_	_
 13	'	'	PUNCT	_	_	14	punct	_	SpaceAfter=No
@@ -7209,11 +7209,11 @@
 9	congestionamento	congestionamento	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = SUJ_DESOCULTADO vai « trabalhar » de as 7h a as 17h30 , inclusive em os finais de semana .
+# text = <SUBJ> vai « trabalhar » de as 7h a as 17h30 , inclusive em os finais de semana .
 # sent_id = CF800-4
 # source = CETENFolha n=800 cad=Cotidiano sec=soc sem=94b
 # id = 3364
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	4	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	4	nsubj	_	<SUBJ>
 2	vai	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
 4	trabalhar	trabalhar	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
@@ -7501,7 +7501,7 @@
 26	86	86	NUM	_	NumType=Card	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	18	punct	_	_
 
-# text = O aposentado Eliseu Francisco de Lyra ( em a época com 44 anos ) , SUJ_DESOCULTADO depois de discutir com o irmão , saiu de o carro , subiu em o capô , tirou as roupas e sapateou .
+# text = O aposentado Eliseu Francisco de Lyra ( em a época com 44 anos ) , <SUBJ> depois de discutir com o irmão , saiu de o carro , subiu em o capô , tirou as roupas e sapateou .
 # sent_id = CF803-3
 # source = CETENFolha n=803 cad=Cotidiano sec=soc sem=94a
 # id = 3375
@@ -7521,7 +7521,7 @@
 13	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
 14	)	)	PUNCT	_	_	13	punct	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	19	punct	_	_
-16	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	19	nsubj	_	SUJ_DESOCULTADO
+16	<SUBJ>	<SUBJ>	NOUN	_	_	19	nsubj	_	<SUBJ>
 17	depois	depois	ADV	_	_	19	mark	_	MWE=depois_de|MWEPOS=SCONJ
 18	de	de	ADP	_	_	17	fixed	_	_
 19	discutir	discutir	VERB	_	VerbForm=Inf	24	advcl	_	_
@@ -7719,7 +7719,7 @@
 8	público	público	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = « Toda platéia de música erudita é tradicionalista » , ele explica .
+# text = « Toda platéia de música erudita é tradicionalista » , <SUBJ> explica .
 # sent_id = CF805-5
 # source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
 # id = 3382
@@ -7733,7 +7733,7 @@
 8	tradicionalista	tradicionalista	ADJ	_	Gender=Fem|Number=Sing	12	ccomp	_	SpaceAfter=No
 9	»	»	PUNCT	_	_	8	punct	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
-11	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	12	nsubj	_	SUJ_DESOCULTADO
+11	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	12	nsubj	_	<SUBJ>
 12	explica	explicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
@@ -7771,21 +7771,21 @@
 13	19	19	NUM	_	NumType=Card	12	nummod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	7	punct	_	_
 
-# text = Se ele reagir SUJ_DESOCULTADO é interessante SUJ_DESOCULTADO porque mostrará que ele está vivo . »
+# text = Se <SUBJ> reagir <SUBJ> é interessante <SUBJ> porque mostrará que <SUBJ> está vivo . »
 # sent_id = CF805-8
 # source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
 # id = 3385
 1	Se	se	SCONJ	_	_	3	mark	_	_
-2	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	3	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	3	nsubj	_	<SUBJ>
 3	reagir	reagir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	advcl	_	_
-4	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	SUJ_DESOCULTADO
+4	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	6	nsubj	_	<SUBJ>
 5	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	interessante	interessante	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-7	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	SUJ_DESOCULTADO
+7	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	8	nsubj	_	<SUBJ>
 8	porque	porque	SCONJ	_	_	9	mark	_	_
 9	mostrará	mostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	advcl	_	_
 10	que	que	SCONJ	_	_	13	mark	_	_
-11	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	12	nsubj	_	SUJ_DESOCULTADO
+11	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	12	nsubj	_	<SUBJ>
 12	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	vivo	vivo	ADJ	_	Gender=Masc|Number=Sing	9	ccomp	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -7817,17 +7817,17 @@
 20	musical	musical	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = Basicamente , SUJ_DESOCULTADO é o que eu tenho feito com os músicos com os SUJ_DESOCULTADO quais trabalho .
+# text = Basicamente , <SUBJ> é o que eu tenho feito com os músicos com os <SUBJ> quais trabalho .
 # sent_id = CF806-2
 # source = CETENFolha n=806 cad=Ilustrada sec=nd sem=94a
 # id = 3387
 1	Basicamente	basicamente	ADV	_	_	5	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	SUJ_DESOCULTADO
+3	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	5	nsubj	_	<SUBJ>
 4	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 6	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	9	obj	_	_
-7	eu	eu	PRON	_	Gender=Male|Number=Sing|Person=1	8	nsubj	_	SUJ_DESOCULTADO
+7	eu	eu	PRON	_	Number=Sing|Person=1	8	nsubj	_	<SUBJ>
 8	tenho	ter	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	feito	fazer	VERB	_	VerbForm=Part	5	acl:relcl	_	_
 10	com	com	ADP	_	_	12	case	_	_
@@ -7835,18 +7835,18 @@
 12	músicos	músico	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
 13	com	com	ADP	_	_	16	case	_	_
 14	os	o	DET	_	Gender=Masc|Number=Plur|PronType=Art	16	det	_	MWE=os_quais
-15	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Plur	16	nsubj	_	SUJ_DESOCULTADO
+15	<SUBJ>	<SUBJ>	NOUN	_	Gender=Masc|Number=Plur	16	nsubj	_	<SUBJ>
 16	quais	qual	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	17	obl	_	_
 17	trabalho	trabalhar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = O que ele mudou talvez seja meu vocabulário , que está menos estruturado .
+# text = O que <SUBJ> mudou talvez seja meu vocabulário , que está menos estruturado .
 # sent_id = CF806-3
 # source = CETENFolha n=806 cad=Ilustrada sec=nd sem=94a
 # id = 3388
 1	O	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 2	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	4	obj	_	_
-3	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	4	nsubj	_	SUJ_DESOCULTADO
+3	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	4	nsubj	_	<SUBJ>
 4	mudou	mudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 5	talvez	talvez	ADV	_	_	4	advmod	_	_
 6	seja	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
@@ -7879,13 +7879,13 @@
 14	diferente	diferente	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 
-# text = O que SUJ_DESOCULTADO evitar
+# text = O que <SUBJ> evitar
 # sent_id = CF807-1
 # source = CETENFolha n=807 cad=Empregos sec=eco sem=94b
 # id = 3390
 1	O	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 2	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	4	obj	_	_
-3	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male|Number=Sing	4	nsubj	_	SUJ_DESOCULTADO
+3	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing	4	nsubj	_	<SUBJ>
 4	evitar	evitar	VERB	_	Mood=Sub|Number=Sing|Tense=Fut|VerbForm=Fin	1	acl:relcl	_	_
 
 # text = 1. Currículo com mais de três páginas.
@@ -7901,11 +7901,11 @@
 7	páginas	página	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = Ele desanima o leitor , que recebe dezenas de eles por dia
+# text = <SUBJ> desanima o leitor , que recebe dezenas de eles por dia
 # sent_id = CF807-3
 # source = CETENFolha n=807 cad=Empregos sec=eco sem=94b
 # id = 3392
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	2	nsubj	_	<SUBJ>
 2	desanima	desanimar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	leitor	leitor	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
@@ -7919,7 +7919,7 @@
 11	por	por	ADP	_	_	12	case	_	_
 12	dia	dia	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 
-# text = 2. Que o selecionador tenha que ler todo o currículo para SUJ_DESOCULTADO descobrir o perfil de o profissional .
+# text = 2. Que o selecionador tenha que ler todo o currículo para <SUBJ> descobrir o perfil de o profissional .
 # sent_id = CF807-4
 # source = CETENFolha n=807 cad=Empregos sec=eco sem=94b
 # id = 3393
@@ -7934,7 +7934,7 @@
 9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	currículo	currículo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
 11	para	para	SCONJ	_	_	13	mark	_	_
-12	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	13	nsubj	_	SUJ_DESOCULTADO
+12	<SUBJ>	<SUBJ>	NOUN	_	_	13	nsubj	_	<SUBJ>
 13	descobrir	descobrir	VERB	_	VerbForm=Inf	7	advcl	_	_
 14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	perfil	perfil	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
@@ -7965,7 +7965,7 @@
 14	razão	razão	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
 15	?	?	PUNCT	_	_	4	punct	_	_
 
-# text = Um ( mecenas ) nobre que deifica o saber antes e mistifica o dar depois ou ele deve ser um iconoclasta , espalhar o que ele sabe enquanto o tempo faz de as novidades fatos descartáveis .
+# text = Um ( mecenas ) nobre que deifica o saber antes e mistifica o dar depois ou ele deve ser um iconoclasta , espalhar o que <SUBJ> sabe enquanto o tempo faz de as novidades fatos descartáveis .
 # sent_id = CF808-2
 # source = CETENFolha n=808 cad=Mais! sec=nd sem=94b
 # id = 3395
@@ -7994,7 +7994,7 @@
 23	espalhar	espalhar	VERB	_	VerbForm=Inf	21	parataxis	_	_
 24	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	23	obj	_	_
 25	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	27	obj	_	_
-26	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	27	nsubj	_	SUJ_DESOCULTADO
+26	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	27	nsubj	_	<SUBJ>
 27	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
 28	enquanto	enquanto	ADV	_	_	31	advmod	_	_
 29	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
@@ -8008,11 +8008,11 @@
 36	descartáveis	descartável	ADJ	_	Gender=Masc|Number=Plur	35	amod	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = Ele será que já não nos basta a humilde compulsão passiva de os leitores que aceitam nos ler para eles serem informados ?
+# text = <SUBJ> será que já não nos basta a humilde compulsão passiva de os leitores que aceitam nos ler para <SUBJ> serem informados ?
 # sent_id = CF808-3
 # source = CETENFolha n=808 cad=Mais! sec=nd sem=94b
 # id = 3396
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	2	nsubj	_	<SUBJ>
 2	será	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	_	_	7	mark	_	_
 4	já	já	ADV	_	_	7	advmod	_	_
@@ -8032,12 +8032,12 @@
 17	nos	nós	PRON	_	Case=Acc|Gender=Unsp|Number=Plur|Person=1|PronType=Prs	18	obj	_	_
 18	ler	ler	VERB	_	VerbForm=Inf	16	xcomp	_	_
 19	para	para	SCONJ	_	_	22	mark	_	_
-20	eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	21	nsubj	_	SUJ_DESOCULTADO
+20	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	21	nsubj	_	<SUBJ>
 21	serem	ser	AUX	_	Number=Plur|Person=3|VerbForm=Inf	22	aux:pass	_	_
 22	informados	informar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	18	advcl	_	SpaceAfter=No
 23	?	?	PUNCT	_	_	2	punct	_	_
 
-# text = Mas o leitor também sabe se vingar com o desdém e a indiferença com que SUJ_DESOCULTADO é capaz de folhear as páginas de a sua busca .
+# text = Mas o leitor também sabe se vingar com o desdém e a indiferença com que <SUBJ> é capaz de folhear as páginas de a sua busca .
 # sent_id = CF808-4
 # source = CETENFolha n=808 cad=Mais! sec=nd sem=94b
 # id = 3397
@@ -8056,7 +8056,7 @@
 13	indiferença	indiferença	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
 14	com	com	ADP	_	_	15	case	_	_
 15	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	20	obl	_	_
-16	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	SUJ_DESOCULTADO
+16	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	18	nsubj	_	<SUBJ>
 17	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 18	capaz	capaz	ADJ	_	Gender=Masc|Number=Sing	13	acl:relcl	_	_
 19	de	de	SCONJ	_	_	20	mark	_	_
@@ -8160,7 +8160,7 @@
 27	assinatura	assinatura	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	9	punct	_	_
 
-# text = Em Medicina , ganharam Richard Dart e Richard Gustafson , de a Universidade de Arizona , por eles fracassarem a o SUJ_DESOCULTADO tratar um paciente mordido por uma cascavel com choques elétricos aplicados em o lábio durante cinco minutos .
+# text = Em Medicina , ganharam Richard Dart e Richard Gustafson , de a Universidade de Arizona , por <SUBJ> fracassarem a o <SUBJ> tratar um paciente mordido por uma cascavel com choques elétricos aplicados em o lábio durante cinco minutos .
 # sent_id = CF809-1
 # source = CETENFolha n=809 cad=Brasil sec=pol sem=94a
 # id = 3401
@@ -8182,12 +8182,12 @@
 15	Arizona	Arizona	PROPN	_	Number=Sing	13	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	13	punct	_	_
 17	por	por	SCONJ	_	_	19	mark	_	_
-18	eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	19	nsubj	_	SUJ_DESOCULTADO
+18	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	19	nsubj	_	<SUBJ>
 19	fracassarem	fracassar	VERB	_	Number=Plur|Person=3|VerbForm=Inf	4	advcl	_	_
 20-21	ao	_	_	_	_	_	_	_	_
 20	a	a	ADP	_	_	25	case	_	_
 21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-22	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	23	nsubj	_	SUJ_DESOCULTADO
+22	<SUBJ>	<SUBJ>	NOUN	_	Gender=Masc|Number=Sing	23	nsubj	_	<SUBJ>
 23	tratar	tratar	VERB	_	VerbForm=Inf	19	advcl	_	_
 24	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	paciente	paciente	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
@@ -8549,7 +8549,7 @@
 # sent_id = CF811-6
 # source = CETENFolha n=811 cad=Mais! sec=nd sem=94a &E
 # id = 3415
-1	Nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	2	nsubj	_	SUJ_DESOCULTADO
+1	Nós	nós	PRON	_	Number=Plur|Person=1	2	nsubj	_	<SUBJ>
 2	podemos	poder	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	dizer	dizer	VERB	_	VerbForm=Inf	2	xcomp	_	_
 4	coisas	coisa	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
@@ -8601,11 +8601,11 @@
 25	televisão	televisão	NOUN	_	Gender=Fem|Number=Sing	17	conj	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = Eu não sei se os jornalistas estão conscientes de a grande responsabilidade SUJ_DESOCULTADO que têm .
+# text = Eu não sei se os jornalistas estão conscientes de a grande responsabilidade <SUBJ> que têm .
 # sent_id = CF811-8
 # source = CETENFolha n=811 cad=Mais! sec=nd sem=94a
 # id = 3417
-1	Eu	eu	PRON	_	Gender=Male|Number=Sing|Person=1	3	nsubj	_	SUJ_DESOCULTADO
+1	Eu	eu	PRON	_	Number=Sing|Person=1	3	nsubj	_	<SUBJ>
 2	não	não	ADV	_	Polarity=Neg	3	advmod	_	_
 3	sei	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	se	se	SCONJ	_	_	8	mark	_	_
@@ -8618,7 +8618,7 @@
 10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 11	grande	grande	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
 12	responsabilidade	responsabilidade	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
-13	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	SUJ_DESOCULTADO
+13	<SUBJ>	<SUBJ>	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	<SUBJ>
 14	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	15	obj	_	_
 15	têm	ter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
@@ -8667,13 +8667,13 @@
 6	24	24	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
 7	!	!	PUNCT	_	_	5	punct	_	_
 
-# text = Por que SUJ_DESOCULTADO não publicar que o PT fez um seminário em o Nordeste sobre ela e concluiu por a necessidade de sua construção ?
+# text = Por que <SUBJ> não publicar que o PT fez um seminário em o Nordeste sobre ela e concluiu por a necessidade de sua construção ?
 # sent_id = CF812-4
 # source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
 # id = 3421
 1	Por	por	ADP	_	_	2	case	_	MWE=Por_que
 2	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	5	obl	_	_
-3	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	5	nsubj	_	SUJ_DESOCULTADO
+3	<SUBJ>	<SUBJ>	NOUN	_	_	5	nsubj	_	<SUBJ>
 4	não	não	ADV	_	Polarity=Neg	5	advmod	_	_
 5	publicar	publicar	VERB	_	VerbForm=Inf	0	root	_	_
 6	que	que	SCONJ	_	_	9	mark	_	_
@@ -8723,11 +8723,11 @@
 15	país	país	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = Ele não comporta qualquer reserva , e bendito o país em que os homens públicos exigem de os candidatos a solução de problemas nacionais , minorar a fome SUJ_DESOCULTADO , dando leite a as crianças que se alimentam de lixo , e estradas para desenvolver o país .
+# text = <SUBJ> não comporta qualquer reserva , e bendito o país em que os homens públicos exigem de os candidatos a solução de problemas nacionais , minorar a fome <SUBJ> , dando leite a as crianças que se alimentam de lixo , e estradas para desenvolver o país .
 # sent_id = CF812-6
 # source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
 # id = 3423
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	3	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	3	nsubj	_	<SUBJ>
 2	não	não	ADV	_	Polarity=Neg	3	advmod	_	_
 3	comporta	comportar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	qualquer	qualquer	DET	_	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
@@ -8756,7 +8756,7 @@
 26	minorar	minorar	VERB	_	VerbForm=Inf	21	acl	_	_
 27	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	fome	fome	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	SpaceAfter=No
-29	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	30	nsubj	_	SUJ_DESOCULTADO
+29	<SUBJ>	<SUBJ>	NOUN	_	_	30	nsubj	_	<SUBJ>
 30	,	,	PUNCT	_	_	26	punct	_	_
 31	dando	dar	VERB	_	VerbForm=Ger	26	advcl	_	_
 32	leite	leite	NOUN	_	Gender=Masc|Number=Sing	31	obj	_	_
@@ -8842,7 +8842,7 @@
 12	de	de	ADP	_	_	10	fixed	_	_
 13	que	que	SCONJ	_	_	10	fixed	_	_
 14	nos	nós	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	16	obj	_	_
-15	nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	16	nsubj	_	SUJ_DESOCULTADO
+15	nós	nós	PRON	_	Number=Plur|Person=1	16	nsubj	_	<SUBJ>
 16	concentremos	concentrar	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 17-18	num	_	_	_	_	_	_	_	_
 17	em	em	ADP	_	_	20	case	_	_
@@ -9015,7 +9015,7 @@
 16	Rio	Rio	PROPN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	_
 
-# text = Os sequestradores estariam exigindo US$ 7 milhões ( cerca de CR$ 9,6 bilhões ) para SUJ_DESOCULTADO libertá lo .
+# text = Os sequestradores estariam exigindo US$ 7 milhões ( cerca de CR$ 9,6 bilhões ) para <SUBJ> libertá lo .
 # sent_id = CF816-2
 # source = CETENFolha n=816 cad=Esporte sec=des sem=94b
 # id = 3433
@@ -9035,7 +9035,7 @@
 14	)	)	PUNCT	_	_	11	punct	_	_
 15	para	para	SCONJ	_	_	17	mark	_	_
 16-17	libertá-lo	_	_	_	_	_	_	_	SpaceAfter=No
-16	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	17	nsubj	_	SUJ_DESOCULTADO
+16	<SUBJ>	<SUBJ>	NOUN	_	_	17	nsubj	_	<SUBJ>
 17	libertá	libertar	VERB	_	VerbForm=Inf	4	advcl	_	_
 18	lo	ele	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
 19	.	.	PUNCT	_	_	4	punct	_	_
@@ -9217,11 +9217,11 @@
 17	mastiga	mastigar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	9	punct	_	_
 
-# text = Ele soa forçado demais .
+# text = <SUBJ> soa forçado demais .
 # sent_id = CF817-8
 # source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b
 # id = 3442
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	2	nsubj	_	<SUBJ>
 2	soa	soar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	forçado	forçar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	xcomp	_	_
 4	demais	demais	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -9253,7 +9253,7 @@
 7	tiros	tiro	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = Aparentemente ele quebrou o pescoço quando ele tentava fugir de o fogo cruzado .
+# text = Aparentemente ele quebrou o pescoço quando <SUBJ> tentava fugir de o fogo cruzado .
 # sent_id = CF818-3
 # source = CETENFolha n=818 cad=Mundo sec=pol sem=94b
 # id = 3445
@@ -9263,7 +9263,7 @@
 4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	pescoço	pescoço	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 6	quando	quando	SCONJ	_	_	8	mark	_	_
-7	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	8	nsubj	_	SUJ_DESOCULTADO
+7	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	8	nsubj	_	<SUBJ>
 8	tentava	tentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
 9	fugir	fugir	VERB	_	VerbForm=Inf	8	xcomp	_	_
 10-11	do	_	_	_	_	_	_	_	_
@@ -9345,7 +9345,7 @@
 15	encontro	encontro	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	8	punct	_	_
 
-# text = Britto já informou a Streck que SUJ_DESOCULTADO é favorável , mas ficou de discutir a questão com o PMDB gaúcho .
+# text = Britto já informou a Streck que <SUBJ> é favorável , mas ficou de discutir a questão com o PMDB gaúcho .
 # sent_id = CF819-2
 # source = CETENFolha n=819 cad=Brasil sec=pol sem=94a
 # id = 3449
@@ -9355,7 +9355,7 @@
 4	a	a	ADP	_	_	5	case	_	_
 5	Streck	Streck	PROPN	_	Gender=Masc|Number=Sing	3	obj	_	_
 6	que	que	SCONJ	_	_	9	mark	_	_
-7	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	SUJ_DESOCULTADO
+7	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	9	nsubj	_	<SUBJ>
 8	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 9	favorável	favorável	ADJ	_	Gender=Masc|Number=Sing	3	ccomp	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	14	punct	_	_
@@ -9444,7 +9444,7 @@
 12	Paulo	Paulo	PROPN	_	Number=Sing	11	flat:name	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = A famíla voltava para casa , em Americanópolis , SUJ_DESOCULTADO depois de participar de casamento em a Barra Funda e deu carona a amigos .
+# text = A famíla voltava para casa , em Americanópolis , <SUBJ> depois de participar de casamento em a Barra Funda e deu carona a amigos .
 # sent_id = CF820-5
 # source = CETENFolha n=820 cad=Brasil sec=pol sem=94b
 # id = 3454
@@ -9457,7 +9457,7 @@
 7	em	em	ADP	_	_	8	case	_	_
 8	Americanópolis	Americanópolis	PROPN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
-10	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	13	nsubj	_	SUJ_DESOCULTADO
+10	<SUBJ>	<SUBJ>	NOUN	_	_	13	nsubj	_	<SUBJ>
 11	depois	depois	ADV	_	_	13	mark	_	MWE=depois_de|MWEPOS=SCONJ
 12	de	de	ADP	_	_	11	fixed	_	_
 13	participar	participar	VERB	_	VerbForm=Inf	3	advcl	_	_
@@ -9536,22 +9536,22 @@
 2	rap	rap	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	_
 
-# text = SUJ_DESOCULTADO esqueça .
+# text = <SUBJ> esqueça .
 # sent_id = CF822-3
 # source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
 # id = 3460
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male|Number=Sing	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing	2	nsubj	_	<SUBJ>
 2	esqueça	esquecer	VERB	_	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = Ou melhor , SUJ_DESOCULTADO não esqueça porque ainda se faz muita coisa boa , mas deixe de querer ser bacana SUJ_DESOCULTADO citando o como a última tendência .
+# text = Ou melhor , <SUBJ> não esqueça porque ainda se faz muita coisa boa , mas deixe de querer ser bacana <SUBJ> citando o como a última tendência .
 # sent_id = CF822-4
 # source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
 # id = 3461
 1	Ou	ou	ADP	_	_	2	case	_	MWE=Ou_melhor
 2	melhor	melhor	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male|Number=Sing	6	nsubj	_	SUJ_DESOCULTADO
+4	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing	6	nsubj	_	<SUBJ>
 5	não	não	ADV	_	Polarity=Neg	6	advmod	_	_
 6	esqueça	esquecer	VERB	_	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	porque	porque	SCONJ	_	_	10	mark	_	_
@@ -9568,7 +9568,7 @@
 18	querer	querer	VERB	_	VerbForm=Inf	16	xcomp	_	_
 19	ser	ser	AUX	_	VerbForm=Inf	20	cop	_	_
 20	bacana	bacana	ADJ	_	Gender=Fem|Number=Sing	18	xcomp	_	_
-21	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	22	nsubj	_	SUJ_DESOCULTADO
+21	<SUBJ>	<SUBJ>	NOUN	_	_	22	nsubj	_	<SUBJ>
 22-23	citando-o	_	_	_	_	_	_	_	_
 22	citando	citar	VERB	_	VerbForm=Ger	20	advcl	_	_
 23	o	ele	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
@@ -9578,7 +9578,7 @@
 27	tendência	tendência	NOUN	_	Gender=Fem|Number=Sing	22	xcomp	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	6	punct	_	_
 
-# text = Para aquele verniz atualizador , SUJ_DESOCULTADO passe desde já a usar a expressão « blues rap » .
+# text = Para aquele verniz atualizador , <SUBJ> passe desde já a usar a expressão « blues rap » .
 # sent_id = CF822-5
 # source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
 # id = 3462
@@ -9587,7 +9587,7 @@
 3	verniz	verniz	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 4	atualizador	atualizador	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
-6	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male|Number=Sing	7	nsubj	_	SUJ_DESOCULTADO
+6	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing	7	nsubj	_	<SUBJ>
 7	passe	passar	VERB	_	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	desde	desde	ADP	_	_	9	case	_	MWE=desde_já
 9	já	já	ADV	_	_	7	advmod	_	_
@@ -9601,7 +9601,7 @@
 17	»	»	PUNCT	_	_	15	punct	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	7	punct	_	_
 
-# text = E , para um efeito extra , SUJ_DESOCULTADO cite G. Love and Special Sauce .
+# text = E , para um efeito extra , <SUBJ> cite G. Love and Special Sauce .
 # sent_id = CF822-6
 # source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
 # id = 3463
@@ -9612,7 +9612,7 @@
 5	efeito	efeito	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
 6	extra	extra	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_
-8	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male|Number=Sing	9	nsubj	_	SUJ_DESOCULTADO
+8	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing	9	nsubj	_	<SUBJ>
 9	cite	citar	VERB	_	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	G.	G.	PROPN	_	Gender=Masc|Number=Sing	9	obj	_	MWE=G._Love|MWEPOS=PROPN
 11	Love	Love	PROPN	_	Number=Sing	10	flat:name	_	_
@@ -9739,7 +9739,7 @@
 26	deixou	deixar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = O presidente articulou , então , lobby certeiro em direção a o Sebrae ( Serviço de Apoio a a Pequena e Média Empresa ) e ainda pediu a FHC que o ele ajudasse a pôr Durante em a presidência de a entidade .
+# text = O presidente articulou , então , lobby certeiro em direção a o Sebrae ( Serviço de Apoio a a Pequena e Média Empresa ) e ainda pediu a FHC que o <SUBJ> ajudasse a pôr Durante em a presidência de a entidade .
 # sent_id = CF823-3
 # source = CETENFolha n=823 cad=Brasil sec=pol sem=94a
 # id = 3468
@@ -9776,7 +9776,7 @@
 29	FHC	FHC	PROPN	_	Gender=Masc|Number=Sing	27	obj	_	_
 30	que	que	SCONJ	_	_	33	mark	_	_
 31	o	ele	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	obj	_	_
-32	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	33	nsubj	_	SUJ_DESOCULTADO
+32	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	33	nsubj	_	<SUBJ>
 33	ajudasse	ajudar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	ccomp	_	_
 34	a	a	SCONJ	_	_	35	mark	_	_
 35	pôr	pôr	VERB	_	VerbForm=Inf	33	xcomp	_	_
@@ -10065,11 +10065,11 @@
 10	flutuante	flutuante	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = Ele abre a perspectiva de aplicações por prazo mais longos .
+# text = <SUBJ> abre a perspectiva de aplicações por prazo mais longos .
 # sent_id = CF826-5
 # source = CETENFolha n=826 cad=Dinheiro sec=eco sem=94b
 # id = 3477
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	2	nsubj	_	<SUBJ>
 2	abre	abrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	perspectiva	perspectiva	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
@@ -10114,7 +10114,7 @@
 5	ataque	ataque	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 6	improvável	improvável	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
 
-# text = A intervenção diplomática russa foi decisiva para SUJ_DESOCULTADO evitar o envolvimento ocidental em a guerra civil em a Bósnia .
+# text = A intervenção diplomática russa foi decisiva para <SUBJ> evitar o envolvimento ocidental em a guerra civil em a Bósnia .
 # sent_id = CF828-4
 # source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
 # id = 3480
@@ -10125,7 +10125,7 @@
 5	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 6	decisiva	decisivo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 7	para	para	SCONJ	_	_	9	mark	_	_
-8	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	9	nsubj	_	SUJ_DESOCULTADO
+8	<SUBJ>	<SUBJ>	NOUN	_	_	9	nsubj	_	<SUBJ>
 9	evitar	evitar	VERB	_	VerbForm=Inf	6	advcl	_	_
 10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	envolvimento	envolvimento	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
@@ -10141,7 +10141,7 @@
 19	Bósnia	Bósnia	PROPN	_	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	6	punct	_	_
 
-# text = a o se oferecer para SUJ_DESOCULTADO intermediar o conflito , a Rússia deu a os seus aliados sérvios a possibilidade de uma retirada honrosa .
+# text = a o se oferecer para <SUBJ> intermediar o conflito , a Rússia deu a os seus aliados sérvios a possibilidade de uma retirada honrosa .
 # sent_id = CF828-5
 # source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
 # id = 3481
@@ -10151,7 +10151,7 @@
 3	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 4	oferecer	oferecer	VERB	_	Number=Sing|Person=3|VerbForm=Inf	13	advcl	_	_
 5	para	para	SCONJ	_	_	7	mark	_	_
-6	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	7	nsubj	_	SUJ_DESOCULTADO
+6	<SUBJ>	<SUBJ>	NOUN	_	_	7	nsubj	_	<SUBJ>
 7	intermediar	intermediar	VERB	_	VerbForm=Inf	4	advcl	_	_
 8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	conflito	conflito	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
@@ -10374,7 +10374,7 @@
 21	»	»	PUNCT	_	_	20	punct	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	8	punct	_	_
 
-# text = O dramaturgo Dias Gomes , que já teve problemas com a censura , se une a os fardados mais histéricos para SUJ_DESOCULTADO decretar :
+# text = O dramaturgo Dias Gomes , que já teve problemas com a censura , se une a os fardados mais histéricos para <SUBJ> decretar :
 # sent_id = CF829-4
 # source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
 # id = 3488
@@ -10400,28 +10400,28 @@
 19	mais	mais	ADV	_	_	20	advmod	_	_
 20	histéricos	histérico	ADJ	_	Gender=Masc|Number=Plur	18	amod	_	_
 21	para	para	SCONJ	_	_	23	mark	_	_
-22	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	23	nsubj	_	SUJ_DESOCULTADO
+22	<SUBJ>	<SUBJ>	NOUN	_	_	23	nsubj	_	<SUBJ>
 23	decretar	decretar	VERB	_	VerbForm=Inf	15	advcl	_	SpaceAfter=No
 24	:	:	PUNCT	_	_	15	punct	_	_
 
-# text = « SUJ_DESOCULTADO Foi um protesto moleque .
+# text = « <SUBJ> Foi um protesto moleque .
 # sent_id = CF829-5
 # source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
 # id = 3489
 1	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	5	nsubj	_	<SUBJ>
 3	Foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	protesto	protesto	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	moleque	moleque	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = Só ele poderia ter partido de uma cabeça de merda » .
+# text = Só <SUBJ> poderia ter partido de uma cabeça de merda » .
 # sent_id = CF829-6
 # source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
 # id = 3490
 1	Só	só	ADV	_	_	5	advmod	_	_
-2	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	3	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	3	nsubj	_	<SUBJ>
 3	poderia	poder	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	ter	ter	AUX	_	VerbForm=Inf	5	aux	_	_
 5	partido	partir	VERB	_	VerbForm=Part	3	xcomp	_	_
@@ -10433,7 +10433,7 @@
 11	»	»	PUNCT	_	_	5	punct	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = Um psicanalista ( sic ) , José Nazar , sugere , acreditem se ele quiser , nada mais nada menos de o que linchamento como punição .
+# text = Um psicanalista ( sic ) , José Nazar , sugere , acreditem se <SUBJ> quiser , nada mais nada menos de o que linchamento como punição .
 # sent_id = CF829-7
 # source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
 # id = 3491
@@ -10450,7 +10450,7 @@
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	acreditem	acreditar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
 13	se	se	SCONJ	_	_	15	mark	_	_
-14	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	15	nsubj	_	SUJ_DESOCULTADO
+14	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	15	nsubj	_	<SUBJ>
 15	quiser	querer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	advcl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	nada	nada	PRON	_	PronType=Neg	10	advmod	_	MWE=nada_mais_nada_menos|MWEPOS=ADV
@@ -10466,7 +10466,7 @@
 26	punição	punição	NOUN	_	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	10	punct	_	_
 
-# text = O jurista Miguel Reale Jr. prefere um « pessedebismo » pedagógico , a o SUJ_DESOCULTADO aprovar a atitude de a polícia em detê lo como exemplo para a juventude .
+# text = O jurista Miguel Reale Jr. prefere um « pessedebismo » pedagógico , a o <SUBJ> aprovar a atitude de a polícia em detê lo como exemplo para a juventude .
 # sent_id = CF829-8
 # source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
 # id = 3492
@@ -10485,7 +10485,7 @@
 13-14	ao	_	_	_	_	_	_	_	_
 13	a	a	ADP	_	_	18	case	_	_
 14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-15	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	16	nsubj	_	SUJ_DESOCULTADO
+15	<SUBJ>	<SUBJ>	NOUN	_	_	16	nsubj	_	<SUBJ>
 16	aprovar	aprovar	VERB	_	VerbForm=Inf	6	advcl	_	_
 17	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	atitude	atitude	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
@@ -10756,18 +10756,18 @@
 9	Corinthians	Corinthians	PROPN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 10	:	:	PUNCT	_	_	2	punct	_	_
 
-# text = « SUJ_DESOCULTADO Estamos muito motivados .
+# text = « nós Estamos muito motivados .
 # sent_id = CF831-7
 # source = CETENFolha n=831 cad=Esporte sec=des sem=94b
 # id = 3501
 1	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	SUJ_DESOCULTADO
+2	nós	nós	PRON	_	Number=Plur|Person=1	5	nsubj	_	<SUBJ>
 3	Estamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	muito	muito	ADV	_	_	5	advmod	_	_
 5	motivados	motivado	ADJ	_	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = A casa vai estar cheia e nós vamos mostrar nós porque viemos disputar a Copa » , ele afirma .
+# text = A casa vai estar cheia e nós vamos mostrar nós porque viemos disputar a Copa » , <SUBJ> afirma .
 # sent_id = CF831-8
 # source = CETENFolha n=831 cad=Esporte sec=des sem=94b
 # id = 3502
@@ -10780,7 +10780,7 @@
 7	nós	nós	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
 8	vamos	ir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	mostrar	mostrar	VERB	_	VerbForm=Inf	5	conj	_	_
-10	nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	12	nsubj	_	SUJ_DESOCULTADO
+10	nós	nós	PRON	_	Number=Plur|Person=1	12	nsubj	_	<SUBJ>
 11	porque	porque	ADV	_	_	12	advmod	_	_
 12	viemos	vir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	9	ccomp	_	_
 13	disputar	disputar	VERB	_	VerbForm=Inf	12	xcomp	_	_
@@ -10788,7 +10788,7 @@
 15	Copa	copa	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
 16	»	»	PUNCT	_	_	5	punct	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	_
-18	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	19	nsubj	_	SUJ_DESOCULTADO
+18	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	19	nsubj	_	<SUBJ>
 19	afirma	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	19	punct	_	_
 
@@ -10815,7 +10815,7 @@
 # source = CETENFolha n=831 cad=Esporte sec=des sem=94b
 # id = 3504
 1	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	eu	eu	PRON	_	Gender=Male|Number=Sing|Person=1	4	nsubj	_	SUJ_DESOCULTADO
+2	eu	eu	PRON	_	Number=Sing|Person=1	4	nsubj	_	<SUBJ>
 3	Não	não	ADV	_	Polarity=Neg	4	advmod	_	_
 4	quero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	subir	subir	VERB	_	VerbForm=Inf	4	xcomp	_	_
@@ -10882,11 +10882,11 @@
 19	»	»	PUNCT	_	_	16	punct	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	13	punct	_	_
 
-# text = Eles amaram .
+# text = <SUBJ> amaram .
 # sent_id = CF832-3
 # source = CETENFolha n=832 cad=Ilustrada sec=nd sem=94a
 # id = 3507
-1	Eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	2	nsubj	_	<SUBJ>
 2	amaram	amar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -11109,7 +11109,7 @@
 23	aquático	aquático	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	17	punct	_	_
 
-# text = Em a minha primeira tentativa , eu fiz exatamente a mesma coisa que em a primeira vez SUJ_DESOCULTADO que pratiquei esqui aquático SUJ_DESOCULTADO : caí e me soltei .
+# text = Em a minha primeira tentativa , eu fiz exatamente a mesma coisa que em a primeira vez <SUBJ> que pratiquei esqui aquático <SUBJ> : caí e me soltei .
 # sent_id = CF834-6
 # source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
 # id = 3514
@@ -11120,7 +11120,7 @@
 4	primeira	primeiro	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
 5	tentativa	tentativa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
-7	eu	eu	PRON	_	Gender=Male|Number=Sing|Person=1	8	nsubj	_	SUJ_DESOCULTADO
+7	eu	eu	PRON	_	Number=Sing|Person=1	8	nsubj	_	<SUBJ>
 8	fiz	fazer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 9	exatamente	exatamente	ADV	_	_	8	advmod	_	_
 10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -11132,12 +11132,12 @@
 15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 16	primeira	primeiro	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	17	amod	_	_
 17	vez	vez	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
-18	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	SUJ_DESOCULTADO
+18	<SUBJ>	<SUBJ>	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	<SUBJ>
 19	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	20	obj	_	_
 20	pratiquei	praticar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	acl:relcl	_	_
 21	esqui	esqui	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
 22	aquático	aquático	ADJ	_	Gender=Masc|Number=Sing	21	amod	_	SpaceAfter=No
-23	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	SUJ_DESOCULTADO
+23	<SUBJ>	<SUBJ>	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	<SUBJ>
 24	:	:	PUNCT	_	_	8	punct	_	_
 25	caí	cair	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	acl:relcl	_	_
 26	e	e	CCONJ	_	_	28	cc	_	_
@@ -11145,17 +11145,17 @@
 28	soltei	soltar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	25	conj	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	8	punct	_	_
 
-# text = Eu precisei cair mais algumas vezes SUJ_DESOCULTADO até aprender a usar o breque .
+# text = Eu precisei cair mais algumas vezes <SUBJ> até aprender a usar o breque .
 # sent_id = CF834-7
 # source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
 # id = 3515
-1	Eu	eu	PRON	_	Gender=Male|Number=Sing|Person=1	2	nsubj	_	SUJ_DESOCULTADO
+1	Eu	eu	PRON	_	Number=Sing|Person=1	2	nsubj	_	<SUBJ>
 2	precisei	precisar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	cair	cair	VERB	_	VerbForm=Inf	2	xcomp	_	_
 4	mais	mais	DET	_	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
 5	algumas	algum	DET	_	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
 6	vezes	vez	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
-7	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	8	nsubj	_	SUJ_DESOCULTADO
+7	<SUBJ>	<SUBJ>	NOUN	_	_	8	nsubj	_	<SUBJ>
 8	até	até	SCONJ	_	_	9	mark	_	_
 9	aprender	aprender	VERB	_	VerbForm=Inf	3	advcl	_	_
 10	a	a	SCONJ	_	_	11	mark	_	_
@@ -11164,11 +11164,11 @@
 13	breque	breque	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = SUJ_DESOCULTADO além de dominar esta habilidade , as duas únicas coisas realmente necessárias para se viajar de trenó por o Alasca eram SUJ_DESOCULTADO estar em razoável boa forma física e ter mais de 13 anos de idade .
+# text = <SUBJ> além de dominar esta habilidade , as duas únicas coisas realmente necessárias para se viajar de trenó por o Alasca eram <SUBJ> estar em razoável boa forma física e ter mais de 13 anos de idade .
 # sent_id = CF834-8
 # source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
 # id = 3516
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	4	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	_	4	nsubj	_	<SUBJ>
 2	além	além	ADV	_	_	4	mark	_	MWE=Além_de|MWEPOS=SCONJ
 3	de	de	ADP	_	_	2	fixed	_	_
 4	dominar	dominar	VERB	_	VerbForm=Inf	22	advcl	_	_
@@ -11191,7 +11191,7 @@
 20	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	Alasca	Alasca	PROPN	_	Gender=Masc|Number=Sing	16	obl	_	_
 22	eram	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-23	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	SUJ_DESOCULTADO
+23	<SUBJ>	<SUBJ>	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	<SUBJ>
 24	estar	estar	AUX	_	VerbForm=Inf	28	cop	_	_
 25	em	em	ADP	_	_	28	case	_	_
 26	razoável	razoável	ADJ	_	Gender=Fem|Number=Sing	28	amod	_	_
@@ -11286,7 +11286,7 @@
 20	»	»	PUNCT	_	_	17	punct	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = E se encontram a a noite em o bar Cabral , embora eles não se conheçam .
+# text = E se encontram a a noite em o bar Cabral , embora <SUBJ> não se conheçam .
 # sent_id = CF835-3
 # source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
 # id = 3520
@@ -11304,17 +11304,17 @@
 10	Cabral	Cabral	PROPN	_	Gender=Masc|Number=Sing	9	appos	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	3	punct	_	_
 12	embora	embora	SCONJ	_	_	16	mark	_	_
-13	eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	16	nsubj	_	SUJ_DESOCULTADO
+13	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	16	nsubj	_	<SUBJ>
 14	não	não	ADV	_	Polarity=Neg	16	advmod	_	_
 15	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	16	expl	_	_
 16	conheçam	conhecer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = SUJ_DESOCULTADO não é necessário .
+# text = <SUBJ> não é necessário .
 # sent_id = CF835-4
 # source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
 # id = 3521
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	4	nsubj	_	<SUBJ>
 2	não	não	ADV	_	Polarity=Neg	4	advmod	_	_
 3	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	necessário	necessário	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
@@ -11439,11 +11439,11 @@
 50	celular	celular	ADJ	_	Gender=Masc|Number=Sing	49	amod	_	SpaceAfter=No
 51	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = Eles pedem cerveja , tequila e batidas , em um gasto médio de US$ 30 por noite , e falam mal de os mauricinhos que , como diz Rubinho Gimenes , são « cheios de querer ser » .
+# text = <SUBJ> pedem cerveja , tequila e batidas , em um gasto médio de US$ 30 por noite , e falam mal de os mauricinhos que , como diz Rubinho Gimenes , são « cheios de querer ser » .
 # sent_id = CF835-8
 # source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
 # id = 3525
-1	Eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	2	nsubj	_	<SUBJ>
 2	pedem	pedir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cerveja	cerveja	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
@@ -11518,11 +11518,11 @@
 11	é	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
-# text = SUJ_DESOCULTADO cursando economia em a Faap , Kiko espera ansioso o seu telefone celular , que « está para sair » .
+# text = <SUBJ> cursando economia em a Faap , Kiko espera ansioso o seu telefone celular , que « está para sair » .
 # sent_id = CF835-12
 # source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
 # id = 3529
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	_	2	nsubj	_	<SUBJ>
 2	cursando	cursar	VERB	_	VerbForm=Ger	9	advcl	_	_
 3	economia	economia	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 4-5	na	_	_	_	_	_	_	_	_
@@ -11546,12 +11546,12 @@
 21	»	»	PUNCT	_	_	18	punct	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	_
 
-# text = « SUJ_DESOCULTADO É imprescindível hoje em dia » , ele regulamenta .
+# text = « <SUBJ> É imprescindível hoje em dia » , <SUBJ> regulamenta .
 # sent_id = CF835-13
 # source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
 # id = 3530
 1	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	4	nsubj	_	<SUBJ>
 3	É	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	imprescindível	imprescindível	ADJ	_	Gender=Masc|Number=Sing	11	ccomp	_	_
 5	hoje	hoje	ADV	_	_	4	obl	_	MWE=Hoje_em_dia|MWEPOS=ADV
@@ -11559,7 +11559,7 @@
 7	dia	dia	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	SpaceAfter=No
 8	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	4	punct	_	_
-10	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	11	nsubj	_	SUJ_DESOCULTADO
+10	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	11	nsubj	_	<SUBJ>
 11	regulamenta	regulamentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -11598,14 +11598,14 @@
 27	bares	bar	NOUN	_	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = Em vez de SUJ_DESOCULTADO mandar um papel por o garçom com cantadas escritas , o plínio liga para a plínia de sua predileção e pronto -- está feito o contato imediato .
+# text = Em vez de <SUBJ> mandar um papel por o garçom com cantadas escritas , o plínio liga para a plínia de sua predileção e pronto -- está feito o contato imediato .
 # sent_id = CF835-15
 # source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
 # id = 3532
 1	Em	em	ADP	_	_	5	cc	_	MWE=Em_vez_de|MWEPOS=CCONJ
 2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	1	fixed	_	_
 3	de	de	ADP	_	_	1	fixed	_	_
-4	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	5	nsubj	_	SUJ_DESOCULTADO
+4	<SUBJ>	<SUBJ>	NOUN	_	_	5	nsubj	_	<SUBJ>
 5	mandar	mandar	VERB	_	VerbForm=Inf	17	advcl	_	_
 6	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	papel	papel	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
@@ -11809,7 +11809,7 @@
 26	Paulo	Paulo	PROPN	_	Number=Sing	25	flat:name	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	15	punct	_	_
 
-# text = Ele dirigia sozinho um Santana 90 em alta velocidade em a avenida de o Estado , em o Cambuci ( região central ) , quando , provavelmente , ele perdeu o controle de o carro e bateu em um poste .
+# text = Ele dirigia sozinho um Santana 90 em alta velocidade em a avenida de o Estado , em o Cambuci ( região central ) , quando , provavelmente , <SUBJ> perdeu o controle de o carro e bateu em um poste .
 # sent_id = CF837-4
 # source = CETENFolha n=837 cad=Cotidiano sec=soc sem=94a
 # id = 3539
@@ -11844,7 +11844,7 @@
 26	,	,	PUNCT	_	_	25	punct	_	_
 27	provavelmente	provavelmente	ADV	_	_	30	advmod	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	27	punct	_	_
-29	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	30	nsubj	_	SUJ_DESOCULTADO
+29	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	30	nsubj	_	<SUBJ>
 30	perdeu	perder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
 31	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	controle	controle	NOUN	_	Gender=Masc|Number=Sing	30	obj	_	_
@@ -11976,7 +11976,7 @@
 30	militares	militar	NOUN	_	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	11	punct	_	_
 
-# text = « Vivemos ainda dias difíceis , em um contexto econômico , social e político em que as necessidades básicas de nossas forças ( ... ) têm sofrido severamente as agruras que toda nação atravessa » , ele disse , em saudação enviada a o Exército .
+# text = « Vivemos ainda dias difíceis , em um contexto econômico , social e político em que as necessidades básicas de nossas forças ( ... ) têm sofrido severamente as agruras que toda nação atravessa » , <SUBJ> disse , em saudação enviada a o Exército .
 # sent_id = CF839-4
 # source = CETENFolha n=839 cad=Brasil sec=pol sem=94a
 # id = 3544
@@ -12017,7 +12017,7 @@
 34	atravessa	atravessar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	SpaceAfter=No
 35	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	38	punct	_	_
-37	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	38	nsubj	_	SUJ_DESOCULTADO
+37	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	38	nsubj	_	<SUBJ>
 38	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	41	punct	_	_
 40	em	em	ADP	_	_	41	case	_	_
@@ -12110,7 +12110,7 @@
 42	)	)	PUNCT	_	_	38	punct	_	SpaceAfter=No
 43	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = A banda brasileira nasceu em 1990 para SUJ_DESOCULTADO fazer uma homenagem a Zappa .
+# text = A banda brasileira nasceu em 1990 para <SUBJ> fazer uma homenagem a Zappa .
 # sent_id = CF840-6
 # source = CETENFolha n=840 cad=Folhateen sec=soc sem=94a
 # id = 3548
@@ -12121,7 +12121,7 @@
 5	em	em	ADP	_	_	6	case	_	_
 6	1990	1990	NUM	_	NumType=Card	4	obl	_	_
 7	para	para	SCONJ	_	_	9	mark	_	_
-8	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	9	nsubj	_	SUJ_DESOCULTADO
+8	<SUBJ>	<SUBJ>	NOUN	_	_	9	nsubj	_	<SUBJ>
 9	fazer	fazer	VERB	_	VerbForm=Inf	4	advcl	_	_
 10	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	homenagem	homenagem	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
@@ -12129,12 +12129,12 @@
 13	Zappa	Zappa	PROPN	_	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = « SUJ_DESOCULTADO Era um cara que sempre apostou em o SUJ_DESOCULTADO que acreditava .
+# text = « <SUBJ> Era um cara que sempre apostou em o <SUBJ> que acreditava .
 # sent_id = CF840-7
 # source = CETENFolha n=840 cad=Folhateen sec=soc sem=94a
 # id = 3549
 1	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	5	nsubj	_	<SUBJ>
 3	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 4	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	cara	cara	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -12144,7 +12144,7 @@
 9-10	no	_	_	_	_	_	_	_	_
 9	em	em	ADP	_	_	12	case	_	_
 10	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	8	obj	_	_
-11	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	SUJ_DESOCULTADO
+11	<SUBJ>	<SUBJ>	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	<SUBJ>
 12	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	13	obl	_	_
 13	acreditava	acreditar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	5	punct	_	_
@@ -12581,7 +12581,7 @@
 9	duas	dois	NUM	_	NumType=Card	10	nummod	_	_
 10	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	4	punct	_	_
-12	nós	nós	PRON	_	Gender=Male|Number=Plur|Person=1	13	nsubj	_	SUJ_DESOCULTADO
+12	nós	nós	PRON	_	Number=Plur|Person=1	13	nsubj	_	<SUBJ>
 13	acertamos	acertar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	que	que	SCONJ	_	_	17	mark	_	_
 15	eles	eles	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
@@ -12591,11 +12591,11 @@
 19	aumentos	aumento	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	13	punct	_	_
 
-# text = SUJ_DESOCULTADO vamos verificar o que houve com essas matérias-primas . »
+# text = Nós vamos verificar o que houve com essas matérias-primas . »
 # sent_id = CF845-2
 # source = CETENFolha n=845 cad=Dinheiro sec=eco sem=94a
 # id = 3562
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	3	nsubj	_	SUJ_DESOCULTADO
+1	Nós	nós	PRON	_	Number=Plur|Person=1	3	nsubj	_	<SUBJ>
 2	vamos	ir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	verificar	verificar	VERB	_	VerbForm=Inf	0	root	_	_
 4	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
@@ -12684,11 +12684,11 @@
 17	avaliação	avaliação	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	14	punct	_	_
 
-# text = Ele recebeu 27 % de ótimo e bom , 30 % de ruim e péssimo e 42 % de avaliação regular .
+# text = <SUBJ> recebeu 27 % de ótimo e bom , 30 % de ruim e péssimo e 42 % de avaliação regular .
 # sent_id = CF846-2
 # source = CETENFolha n=846 cad=Cotidiano sec=soc sem=94a
 # id = 3566
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	2	nsubj	_	<SUBJ>
 2	recebeu	receber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	27	27	NUM	_	NumType=Card	4	nummod	_	SpaceAfter=No
 4	%	%	SYM	_	_	2	obj	_	_
@@ -13109,11 +13109,11 @@
 16	estatais	estatal	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	_
 
-# text = Ele disse que o governo vai vender « desde automóvel até participação acionária em empresas de energia elétrica » .
+# text = <SUBJ> disse que o governo vai vender « desde automóvel até participação acionária em empresas de energia elétrica » .
 # sent_id = CF776-4
 # source = CETENFolha n=776 cad=Brasil sec=pol sem=94a
 # id = 3260
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	2	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	2	nsubj	_	<SUBJ>
 2	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	_	_	7	mark	_	_
 4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -13198,7 +13198,7 @@
 3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	vez	vez	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
 
-# text = Fernando Henrique apareceu em o rádio e em a televisão SUJ_DESOCULTADO dizendo que SUJ_DESOCULTADO não existe nada contra o seu vice .
+# text = Fernando Henrique apareceu em o rádio e em a televisão <SUBJ> dizendo que <SUBJ> não existe nada contra o seu vice .
 # sent_id = CF777-3
 # source = CETENFolha n=777 cad=Caderno Especial sec=nd sem=94a
 # id = 3264
@@ -13214,10 +13214,10 @@
 8	em	em	ADP	_	_	10	case	_	_
 9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	televisão	televisão	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
-11	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	12	nsubj	_	SUJ_DESOCULTADO
+11	<SUBJ>	<SUBJ>	NOUN	_	_	12	nsubj	_	<SUBJ>
 12	dizendo	dizer	VERB	_	VerbForm=Ger	3	advcl	_	_
 13	que	que	SCONJ	_	_	16	mark	_	_
-14	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	16	nsubj	_	SUJ_DESOCULTADO
+14	<SUBJ>	<SUBJ>	NOUN	_	_	16	nsubj	_	<SUBJ>
 15	não	não	ADV	_	Polarity=Neg	16	advmod	_	_
 16	existe	existir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
 17	nada	nada	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	16	obj	_	_
@@ -13227,7 +13227,7 @@
 21	vice	vice	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = E que , portanto , ele nem pensa em uma troca de Guilherme Palmeira .
+# text = E que , portanto , <SUBJ> nem pensa em uma troca de Guilherme Palmeira .
 # sent_id = CF777-4
 # source = CETENFolha n=777 cad=Caderno Especial sec=nd sem=94a
 # id = 3265
@@ -13236,7 +13236,7 @@
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	portanto	portanto	CCONJ	_	_	8	cc	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	8	nsubj	_	SUJ_DESOCULTADO
+6	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	8	nsubj	_	<SUBJ>
 7	nem	nem	ADV	_	_	8	advmod	_	_
 8	pensa	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9-10	numa	_	_	_	_	_	_	_	_
@@ -13275,7 +13275,7 @@
 19	Bisol	Bisol	PROPN	_	Number=Sing	17	flat:name	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = « Não tínhamos uma segurança exemplar , mas ela era suficiente para SUJ_DESOCULTADO permitir o alvará de licença de os bombeiros » , ele afirmou .
+# text = « Não tínhamos uma segurança exemplar , mas ela era suficiente para <SUBJ> permitir o alvará de licença de os bombeiros » , <SUBJ> afirmou .
 # sent_id = CF778-1
 # source = CETENFolha n=778 cad=Cotidiano sec=soc sem=94b
 # id = 3267
@@ -13291,7 +13291,7 @@
 10	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
 11	suficiente	suficiente	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
 12	para	para	SCONJ	_	_	14	mark	_	_
-13	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	14	nsubj	_	SUJ_DESOCULTADO
+13	<SUBJ>	<SUBJ>	NOUN	_	_	14	nsubj	_	<SUBJ>
 14	permitir	permitir	VERB	_	VerbForm=Inf	11	advcl	_	_
 15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	alvará	alvará	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
@@ -13303,7 +13303,7 @@
 21	bombeiros	bombeiro	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
 22	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	3	punct	_	_
-24	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	25	nsubj	_	SUJ_DESOCULTADO
+24	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	25	nsubj	_	<SUBJ>
 25	afirmou	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	25	punct	_	_
 
@@ -13433,13 +13433,13 @@
 25	videoclipes	videoclipe	NOUN	_	Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	21	punct	_	_
 
-# text = Antes , ele informou sobre a proibição de a Justiça em um comunicado de 15 segundos .
+# text = Antes , <SUBJ> informou sobre a proibição de a Justiça em um comunicado de 15 segundos .
 # sent_id = CF779-5
 # source = CETENFolha n=779 cad=Cotidiano sec=soc sem=94a
 # id = 3273
 1	Antes	antes	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	4	nsubj	_	SUJ_DESOCULTADO
+3	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	4	nsubj	_	<SUBJ>
 4	informou	informar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	sobre	sobre	ADP	_	_	7	case	_	_
 6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -13457,7 +13457,7 @@
 16	segundos	segundo	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	_
 
-# text = Os nativos ainda se utilizam de lanças primitivas para SUJ_DESOCULTADO pescar em as rasas piscinas naturais repletas de polvos e peixes tropicais .
+# text = Os nativos ainda se utilizam de lanças primitivas para <SUBJ> pescar em as rasas piscinas naturais repletas de polvos e peixes tropicais .
 # sent_id = CF780-1
 # source = CETENFolha n=780 cad=Turismo sec=soc sem=94a
 # id = 3274
@@ -13470,7 +13470,7 @@
 7	lanças	lança	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
 8	primitivas	primitivo	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
 9	para	para	SCONJ	_	_	11	mark	_	_
-10	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	11	nsubj	_	SUJ_DESOCULTADO
+10	<SUBJ>	<SUBJ>	NOUN	_	_	11	nsubj	_	<SUBJ>
 11	pescar	pescar	VERB	_	VerbForm=Inf	5	advcl	_	_
 12-13	nas	_	_	_	_	_	_	_	_
 12	em	em	ADP	_	_	15	case	_	_
@@ -13594,7 +13594,7 @@
 11	Shalk-04	Shalk-04	PROPN	_	Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = O empresário disse que ele pretende ver também outros jogadores brasileiros , entre eles Cafu , de o São Paulo , Mirandinha , de o Paysandu , e Claudinho , de a Ponte Preta .
+# text = O empresário disse que <SUBJ> pretende ver também outros jogadores brasileiros , entre eles Cafu , de o São Paulo , Mirandinha , de o Paysandu , e Claudinho , de a Ponte Preta .
 # sent_id = CF782-2
 # source = CETENFolha n=782 cad=Esporte sec=des sem=94a
 # id = 3279
@@ -13602,7 +13602,7 @@
 2	empresário	empresário	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	_	_	6	mark	_	_
-5	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	6	nsubj	_	SUJ_DESOCULTADO
+5	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	6	nsubj	_	<SUBJ>
 6	pretende	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 7	ver	ver	VERB	_	VerbForm=Inf	6	xcomp	_	_
 8	também	também	ADV	_	_	7	advmod	_	_
@@ -13695,25 +13695,25 @@
 12	tapetão	tapetão	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = Obviamente , ele não conseguiu .
+# text = Obviamente , <SUBJ> não conseguiu .
 # sent_id = CF783-3
 # source = CETENFolha n=783 cad=Esporte sec=des sem=94a
 # id = 3282
 1	Obviamente	obviamente	ADV	_	_	5	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	5	nsubj	_	SUJ_DESOCULTADO
+3	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	5	nsubj	_	<SUBJ>
 4	não	não	ADV	_	Polarity=Neg	5	advmod	_	_
 5	conseguiu	conseguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = Por isso , ele metralhou Antonio Matarrese , presidente de a federação .
+# text = Por isso , <SUBJ> metralhou Antonio Matarrese , presidente de a federação .
 # sent_id = CF783-4
 # source = CETENFolha n=783 cad=Esporte sec=des sem=94a
 # id = 3283
 1	Por	por	ADP	_	_	2	case	_	_
 2	isso	isso	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	5	nsubj	_	SUJ_DESOCULTADO
+4	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	5	nsubj	_	<SUBJ>
 5	metralhou	metralhar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	Antonio	Antonio	PROPN	_	Gender=Masc|Number=Sing	5	obj	_	MWE=Antonio_Matarrese|MWEPOS=PROPN
 7	Matarrese	Matarrese	PROPN	_	Number=Sing	6	flat:name	_	SpaceAfter=No
@@ -13745,12 +13745,12 @@
 13	federação	federação	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = Para SUJ_DESOCULTADO multiplicar o porte de as suas denúncias , ele apresentou as suas perorações em dois sítios diferentes , a as procuradorias de Roma e de Milão .
+# text = Para <SUBJ> multiplicar o porte de as suas denúncias , ele apresentou as suas perorações em dois sítios diferentes , a as procuradorias de Roma e de Milão .
 # sent_id = CF783-6
 # source = CETENFolha n=783 cad=Esporte sec=des sem=94a
 # id = 3285
 1	Para	para	SCONJ	_	_	3	mark	_	_
-2	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	3	nsubj	_	SUJ_DESOCULTADO
+2	<SUBJ>	<SUBJ>	NOUN	_	_	3	nsubj	_	<SUBJ>
 3	multiplicar	multiplicar	VERB	_	VerbForm=Inf	12	advcl	_	_
 4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	porte	porte	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
@@ -13798,7 +13798,7 @@
 10	documentação	documentação	NOUN	_	Gender=Fem|Number=Sing	5	parataxis	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = De todo modo , em a Bota , a a Justiça cabe a missão de investigar , SUJ_DESOCULTADO antes de meramente julgar .
+# text = De todo modo , em a Bota , a a Justiça cabe a missão de investigar , <SUBJ> antes de meramente julgar .
 # sent_id = CF783-8
 # source = CETENFolha n=783 cad=Esporte sec=des sem=94a
 # id = 3287
@@ -13821,14 +13821,14 @@
 15	de	de	SCONJ	_	_	16	mark	_	_
 16	investigar	investigar	VERB	_	VerbForm=Inf	14	acl	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	22	punct	_	_
-18	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Male	22	nsubj	_	SUJ_DESOCULTADO
+18	<SUBJ>	<SUBJ>	NOUN	_	_	22	nsubj	_	<SUBJ>
 19	antes	antes	ADV	_	_	22	mark	_	MWE=antes_de|MWEPOS=SCONJ
 20	de	de	ADP	_	_	19	fixed	_	_
 21	meramente	meramente	ADV	_	_	22	advmod	_	_
 22	julgar	julgar	VERB	_	VerbForm=Inf	16	advcl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	12	punct	_	_
 
-# text = Gloria Attanasio , magistrada de a capital , meramente decidiu o que a sua função lhe exigia , e enviou 250 detetives a as sedes de os tais 34 clubes para , lá , eles coletarem os livros contábeis e os recibos correspondentes a o versamento de os impostos .
+# text = Gloria Attanasio , magistrada de a capital , meramente decidiu o que a sua função lhe exigia , e enviou 250 detetives a as sedes de os tais 34 clubes para , lá , <SUBJ> coletarem os livros contábeis e os recibos correspondentes a o versamento de os impostos .
 # sent_id = CF783-9
 # source = CETENFolha n=783 cad=Esporte sec=des sem=94a
 # id = 3288
@@ -13869,7 +13869,7 @@
 32	,	,	PUNCT	_	_	20	punct	_	_
 33	lá	lá	ADV	_	_	20	advmod	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	36	punct	_	_
-35	eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	36	nsubj	_	SUJ_DESOCULTADO
+35	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	36	nsubj	_	<SUBJ>
 36	coletarem	coletar	VERB	_	Number=Plur|Person=3|VerbForm=Inf	20	advcl	_	_
 37	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	38	det	_	_
 38	livros	livro	NOUN	_	Gender=Masc|Number=Plur	36	obj	_	_
@@ -14067,11 +14067,11 @@
 13	opositores	opositor	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
-# text = Ele não explica como , mas garante que não ele vai perder a próxima eleição em Itabaiana .
+# text = <SUBJ> não explica como , mas garante que não <SUBJ> vai perder a próxima eleição em Itabaiana .
 # sent_id = CF785-3
 # source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
 # id = 3295
-1	Ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	3	nsubj	_	SUJ_DESOCULTADO
+1	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	3	nsubj	_	<SUBJ>
 2	não	não	ADV	_	Polarity=Neg	3	advmod	_	_
 3	explica	explicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	como	como	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -14080,7 +14080,7 @@
 7	garante	garantir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 8	que	que	SCONJ	_	_	12	mark	_	_
 9	não	não	ADV	_	Polarity=Neg	12	advmod	_	_
-10	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	11	nsubj	_	SUJ_DESOCULTADO
+10	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	11	nsubj	_	<SUBJ>
 11	vai	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	perder	perder	VERB	_	VerbForm=Inf	7	ccomp	_	_
 13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
@@ -14090,14 +14090,14 @@
 17	Itabaiana	Itabaiana	PROPN	_	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = O deputado afirma SUJ_DESOCULTADO não ser um homem rico .
+# text = O deputado afirma <SUBJ> não ser um homem rico .
 # sent_id = CF785-4
 # source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
 # id = 3296
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	deputado	deputado	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	afirma	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	SUJ_DESOCULTADO
+4	<SUBJ>	<SUBJ>	NOUN	_	_	8	nsubj	_	<SUBJ>
 5	não	não	ADV	_	Polarity=Neg	8	advmod	_	_
 6	ser	ser	AUX	_	VerbForm=Inf	8	cop	_	_
 7	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -14112,7 +14112,7 @@
 1	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
 2	Hoje	hoje	ADV	_	_	5	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	eu	eu	PRON	_	Gender=Male|Number=Sing|Person=1	5	nsubj	_	SUJ_DESOCULTADO
+4	eu	eu	PRON	_	Number=Sing|Person=1	5	nsubj	_	<SUBJ>
 5	tenho	ter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	só	só	ADV	_	_	8	advmod	_	_
 7	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -14127,14 +14127,14 @@
 16	gado	gado	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	5	punct	_	_
 
-# text = Mas tudo que eu ganho reverto também em ajuda para o povo , que recebe remédios , feira e dinheiro ele quando está precisando .
+# text = Mas tudo que eu ganho reverto também em ajuda para o povo , que recebe remédios , feira e dinheiro <SUBJ> quando está precisando .
 # sent_id = CF785-6
 # source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
 # id = 3298
 1	Mas	mas	CCONJ	_	_	6	cc	_	_
 2	tudo	tudo	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
 3	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	5	obj	_	_
-4	eu	eu	PRON	_	Gender=Male|Number=Sing|Person=1	5	nsubj	_	SUJ_DESOCULTADO
+4	eu	eu	PRON	_	Number=Sing|Person=1	5	nsubj	_	<SUBJ>
 5	ganho	ganhar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 6	reverto	reverter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	também	também	ADV	_	_	6	advmod	_	_
@@ -14151,23 +14151,23 @@
 18	feira	feira	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	_
 19	e	e	CCONJ	_	_	20	cc	_	_
 20	dinheiro	dinheiro	NOUN	_	Gender=Masc|Number=Sing	16	conj	_	_
-21	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	24	nsubj	_	SUJ_DESOCULTADO
+21	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	24	nsubj	_	<SUBJ>
 22	quando	quando	ADV	_	_	24	advmod	_	_
 23	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
 24	precisando	precisar	VERB	_	VerbForm=Ger	15	advcl	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	6	punct	_	_
 
-# text = SUJ_DESOCULTADO nunca fui egoísta » , ele afirma .
+# text = Eu nunca fui egoísta » , <SUBJ> afirma .
 # sent_id = CF785-7
 # source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
 # id = 3299
-1	SUJ_DESOCULTADO	SUJ_DESOCULTADO	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	SUJ_DESOCULTADO
+1	Eu	eu	PRON	_	Number=Sing|Person=1	4	nsubj	_	<SUBJ>
 2	nunca	nunca	ADV	_	_	4	advmod	_	_
 3	fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	cop	_	_
 4	egoísta	egoísta	ADJ	_	Gender=Masc|Number=Sing	8	ccomp	_	SpaceAfter=No
 5	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	ele	ele	PRON	_	Gender=Male|Number=Sing|Person=3	8	nsubj	_	SUJ_DESOCULTADO
+7	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	8	nsubj	_	<SUBJ>
 8	afirma	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -14397,7 +14397,7 @@
 21	Bósnia	Bósnia	PROPN	_	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = O veto impediu a declaração que pedia a os sérvios de a Bósnia que eles parassem ataques em o encrave muçulmano de Bihac .
+# text = O veto impediu a declaração que pedia a os sérvios de a Bósnia que <SUBJ> parassem ataques em o encrave muçulmano de Bihac .
 # sent_id = CF788-5
 # source = CETENFolha n=788 cad=Mundo sec=pol sem=94a
 # id = 3311
@@ -14417,7 +14417,7 @@
 12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	Bósnia	Bósnia	PROPN	_	Gender=Fem|Number=Sing	10	nmod	_	_
 14	que	que	SCONJ	_	_	16	mark	_	_
-15	eles	ele	PRON	_	Gender=Male|Number=Plur|Person=3	16	nsubj	_	SUJ_DESOCULTADO
+15	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	16	nsubj	_	<SUBJ>
 16	parassem	parar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	ccomp	_	_
 17	ataques	ataque	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_
 18-19	no	_	_	_	_	_	_	_	_
