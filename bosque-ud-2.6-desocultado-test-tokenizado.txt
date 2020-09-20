@@ -1811,12 +1811,13 @@ os	_	_	_	_	_	_	_	_	_
 milhões	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = No que se refere a resultados correntes, as estimativas apontavam para um valor negativo de 2,6 milhões de contos, mas que na realidade ultrapassou os seis milhões.
+# text = Em o que <SUBJ> se refere a resultados correntes , as estimativas apontavam para um valor negativo de 2,6 milhões de contos , mas que em a realidade ultrapassou os seis milhões .
 # sent_id = CP993-3
 1-2-=No	_	_	_	_	_	_	_	_	_
 Em	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 refere	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
@@ -1838,7 +1839,7 @@ contos	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 mas	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
-25-26-=na	_	_	_	_	_	_	_	_	_
+26-27-=na	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 realidade	_	_	_	_	_	_	_	_	_
@@ -1848,7 +1849,7 @@ seis	_	_	_	_	_	_	_	_	_
 milhões	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Ao nível do Grupo, isto é, a Lisnave propriamente dita e as restantes 21 empresas em que os Estaleiros Navais de Lisboa participam no capital, os resultados saldaram-se por um prejuízo de 16,2 milhões de contos.
+# text = A o nível de o Grupo , isto é , a <SUBJ> Lisnave propriamente dita e as restantes 21 empresas em que os Estaleiros Navais de Lisboa participam em o capital , os resultados saldaram se por um prejuízo de 16,2 milhões de contos .
 # sent_id = CP993-4
 1-2-=Ao	_	_	_	_	_	_	_	_	_
 A	_	_	_	_	_	_	_	_	_
@@ -1863,6 +1864,7 @@ isto	_	_	_	_	_	_	_	_	_
 é	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 Lisnave	_	_	_	_	_	_	_	_	_
 propriamente	_	_	_	_	_	_	_	_	_
 dita	_	_	_	_	_	_	_	_	_
@@ -1879,14 +1881,14 @@ Navais	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 Lisboa	_	_	_	_	_	_	_	_	_
 participam	_	_	_	_	_	_	_	_	_
-28-29-=no	_	_	_	_	_	_	_	_	_
+29-30-=no	_	_	_	_	_	_	_	_	_
 em	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 capital	_	_	_	_	_	_	_	_	_
 ,	_	_	_	_	_	_	_	_	_
 os	_	_	_	_	_	_	_	_	_
 resultados	_	_	_	_	_	_	_	_	_
-34-35-=saldaram-se	_	_	_	_	_	_	_	_	_
+35-36-=saldaram-se	_	_	_	_	_	_	_	_	_
 saldaram	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 por	_	_	_	_	_	_	_	_	_
@@ -2415,7 +2417,7 @@ objectiva	_	_	_	_	_	_	_	_	_
 )	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = <SUBJ> conhecido por os vizinhos banhistas , <SUBJ> lá foi acenando até se instalar mesmo junto a a água .
+# text = <SUBJ> conhecido por os vizinhos banhistas , <SUBJ> lá foi acenando até <SUBJ> se instalar mesmo junto a a água .
 # sent_id = CP995-2
 <SUBJ>	_	_	_	_	_	_	_	_	_
 conhecido	_	_	_	_	_	_	_	_	_
@@ -2430,11 +2432,12 @@ lá	_	_	_	_	_	_	_	_	_
 foi	_	_	_	_	_	_	_	_	_
 acenando	_	_	_	_	_	_	_	_	_
 até	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 instalar	_	_	_	_	_	_	_	_	_
 mesmo	_	_	_	_	_	_	_	_	_
 junto	_	_	_	_	_	_	_	_	_
-17-18-=à	_	_	_	_	_	_	_	_	_
+18-19-=à	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 água	_	_	_	_	_	_	_	_	_
@@ -2839,7 +2842,7 @@ o	_	_	_	_	_	_	_	_	_
 rímel	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = N. R. A razão por que se realçou no título da notícia em causa o benefício do whisky foi porque ela se refere a um estudo que realçava esse facto, o que se compreende quando se sabe que se trata de um estudo britânico.
+# text = N. R. A razão por que se realçou em o título de a notícia em causa o benefício de o whisky foi porque ela se refere a um estudo que realçava esse facto , o que se compreende quando se sabe que <SUBJ> se trata de um estudo britânico .
 # sent_id = CP999-1
 N.	_	_	_	_	_	_	_	_	_
 R.	_	_	_	_	_	_	_	_	_
@@ -2886,6 +2889,7 @@ quando	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 sabe	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 trata	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
@@ -3409,10 +3413,11 @@ problemas	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = E porque se trata de um espaço por onde todos circulam, bem próximo de uma das entradas do recinto, o uso já deu o nome de «banco» à peça de Jorge Martins:
+# text = E porque <SUBJ> se trata de um espaço por onde todos circulam , bem próximo de uma de as entradas de o recinto , o uso já deu o nome de « banco » a a peça de Jorge Martins :
 # sent_id = CP1003-1
 E	_	_	_	_	_	_	_	_	_
 porque	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 trata	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
@@ -3427,11 +3432,11 @@ bem	_	_	_	_	_	_	_	_	_
 próximo	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 uma	_	_	_	_	_	_	_	_	_
-17-18-=das	_	_	_	_	_	_	_	_	_
+18-19-=das	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 as	_	_	_	_	_	_	_	_	_
 entradas	_	_	_	_	_	_	_	_	_
-20-21-=do	_	_	_	_	_	_	_	_	_
+21-22-=do	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
 recinto	_	_	_	_	_	_	_	_	_
@@ -3446,7 +3451,7 @@ de	_	_	_	_	_	_	_	_	_
 «	_	_	_	_	_	_	_	_	_
 banco	_	_	_	_	_	_	_	_	_
 »	_	_	_	_	_	_	_	_	_
-34-35-=à	_	_	_	_	_	_	_	_	_
+35-36-=à	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_
 peça	_	_	_	_	_	_	_	_	_
@@ -7981,7 +7986,7 @@ Chocante	_	_	_	_	_	_	_	_	_
 Constrangedor	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = Eu então me deparei com um estudo que afirma que algumas pessoas realmente têm um paladar mais aguçado de o que outras .
+# text = Eu então me deparei com um estudo que afirma que algumas pessoas realmente têm um paladar mais aguçado de o <SUBJ> que outras .
 # sent_id = CF852-6
 Eu	_	_	_	_	_	_	_	_	_
 então	_	_	_	_	_	_	_	_	_
@@ -8004,6 +8009,7 @@ aguçado	_	_	_	_	_	_	_	_	_
 19-20-=do	_	_	_	_	_	_	_	_	_
 de	_	_	_	_	_	_	_	_	_
 o	_	_	_	_	_	_	_	_	_
+<SUBJ>	_	_	_	_	_	_	_	_	_
 que	_	_	_	_	_	_	_	_	_
 outras	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
@@ -9330,7 +9336,7 @@ cada	_	_	_	_	_	_	_	_	_
 um	_	_	_	_	_	_	_	_	_
 .	_	_	_	_	_	_	_	_	_
 
-# text = A questão que <SUBJ> enfrentaram era retomar a arte intensamente dramática de sua tradição sem se escravizar a ela .
+# text = A questão que <SUBJ> enfrentaram era retomar a arte intensamente dramática de sua tradição sem ela se escravizar a ela .
 # sent_id = CF863-1
 A	_	_	_	_	_	_	_	_	_
 questão	_	_	_	_	_	_	_	_	_
@@ -9347,6 +9353,7 @@ de	_	_	_	_	_	_	_	_	_
 sua	_	_	_	_	_	_	_	_	_
 tradição	_	_	_	_	_	_	_	_	_
 sem	_	_	_	_	_	_	_	_	_
+ela	_	_	_	_	_	_	_	_	_
 se	_	_	_	_	_	_	_	_	_
 escravizar	_	_	_	_	_	_	_	_	_
 a	_	_	_	_	_	_	_	_	_

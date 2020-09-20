@@ -1094,7 +1094,7 @@
 23	marcas	marca	NOUN	_	Gender=Fem|Number=Plur	21	obj	_	SpaceAfter=No
 24	:	:	PUNCT	_	_	14	punct	_	_
 
-# text = «As pessoas estão cansadas do hype que se cria em torno das roupas, dos estilistas e do luxo abusivo.
+# text = « As pessoas estão cansadas de o hype que <SUBJ> se cria em torno de as roupas , de os estilistas e de o luxo abusivo .
 # sent_id = CF903-2
 # source = CETENFolha n=903 cad=Ilustrada sec=nd sem=94a
 # id = 3802
@@ -1107,27 +1107,28 @@
 6	de	de	ADP	_	_	8	case	_	_
 7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	hype	hype	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
-9	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	11	obj	_	_
-10	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	_
-11	cria	criar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
-12	em	em	ADP	_	_	16	case	_	MWE=em_torno_de
-13	torno	torno	NOUN	_	Gender=Masc|Number=Sing	12	fixed	_	_
-14-15	das	_	_	_	_	_	_	_	_
-14	de	de	ADP	_	_	12	fixed	_	_
-15	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-16	roupas	roupa	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	20	punct	_	_
-18-19	dos	_	_	_	_	_	_	_	_
-18	de	de	ADP	_	_	20	case	_	_
-19	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
-20	estilistas	estilista	NOUN	_	Gender=Masc|Number=Plur	16	conj	_	_
-21	e	e	CCONJ	_	_	24	cc	_	_
-22-23	do	_	_	_	_	_	_	_	_
-22	de	de	ADP	_	_	24	case	_	_
-23	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	luxo	luxo	NOUN	_	Gender=Masc|Number=Sing	16	conj	_	_
-25	abusivo	abusivo	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	5	punct	_	_
+9	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	12	obj	_	_
+10	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	12	nsubj	_	<SUBJ>
+11	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+12	cria	criar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+13	em	em	ADP	_	_	17	case	_	MWE=em_torno_de
+14	torno	torno	NOUN	_	Gender=Masc|Number=Sing	13	fixed	_	_
+15-16	das	_	_	_	_	_	_	_	_
+15	de	de	ADP	_	_	13	fixed	_	_
+16	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	roupas	roupa	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19-20	dos	_	_	_	_	_	_	_	_
+19	de	de	ADP	_	_	21	case	_	_
+20	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	estilistas	estilista	NOUN	_	Gender=Masc|Number=Plur	17	conj	_	_
+22	e	e	CCONJ	_	_	25	cc	_	_
+23-24	do	_	_	_	_	_	_	_	_
+23	de	de	ADP	_	_	25	case	_	_
+24	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	luxo	luxo	NOUN	_	Gender=Masc|Number=Sing	17	conj	_	_
+26	abusivo	abusivo	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	5	punct	_	_
 
 # text = Conforto é fundamental.
 # sent_id = CF903-3
@@ -1955,7 +1956,7 @@
 30	Januário	Januário	PROPN	_	Number=Sing	29	flat:name	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	24	punct	_	_
 
-# text = O torcedor paulista sonhava com uma era futura, em que São Paulo chegaria à supremacia, se possível de forma arrasadora.
+# text = O torcedor paulista sonhava com uma era futura , em que São Paulo chegaria a a supremacia , se possível de <SUBJ> forma arrasadora .
 # sent_id = CF911-3
 # source = CETENFolha n=911 cad=Esporte sec=des sem=94b
 # id = 3836
@@ -1977,13 +1978,14 @@
 15	a	a	ADP	_	_	17	case	_	_
 16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	supremacia	supremacia	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	22	punct	_	_
-19	se	se	SCONJ	_	_	22	mark	_	_
-20	possível	possível	ADJ	_	Gender=Masc|Number=Sing	22	xcomp	_	_
-21	de	de	ADP	_	_	22	case	_	_
-22	forma	forma	NOUN	_	Gender=Fem|Number=Sing	14	advcl	_	_
-23	arrasadora	arrasador	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	4	punct	_	_
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	se	se	SCONJ	_	_	23	mark	_	_
+20	possível	possível	ADJ	_	Gender=Masc|Number=Sing	23	xcomp	_	_
+21	de	de	ADP	_	_	23	case	_	_
+22	<SUBJ>	<SUBJ>	NOUN	_	Gender=Fem|Number=Sing	23	nsubj	_	<SUBJ>
+23	forma	forma	NOUN	_	Gender=Fem|Number=Sing	14	advcl	_	_
+24	arrasadora	arrasador	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	_
 
 # text = Passaram se uns 50 anos e o sonho se realizou , <SUBJ> trazendo alegria e também , inesperadamente , frustração .
 # sent_id = CF911-4
@@ -4598,7 +4600,7 @@
 40	vigor	vigor	NOUN	_	Gender=Masc|Number=Sing	33	obl	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	14	punct	_	_
 
-# text = A Sinfonia toda é uma espécie de demonização da Nona de Beethoven, que é muito mais seu assunto do que o Fausto de Goethe.
+# text = A Sinfonia toda é uma espécie de demonização de a Nona de Beethoven , que é muito mais seu assunto de o que o <SUBJ> Fausto de Goethe .
 # sent_id = CF931-3
 # source = CETENFolha n=931 cad=Ilustrada sec=nd sem=94b
 # id = 3940
@@ -4624,14 +4626,15 @@
 19	seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	20	det	_	_
 20	assunto	assunto	NOUN	_	Gender=Masc|Number=Sing	11	acl:relcl	_	_
 21-22	do	_	_	_	_	_	_	_	_
-21	de	de	SCONJ	_	_	25	mark	_	MWE=do_que
+21	de	de	SCONJ	_	_	26	mark	_	MWE=do_que
 22	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	21	fixed	_	_
 23	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	21	fixed	_	_
-24	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-25	Fausto	Fausto	PROPN	_	Gender=Masc|Number=Sing	20	advcl	_	_
-26	de	de	ADP	_	_	27	case	_	_
-27	Goethe	Goethe	PROPN	_	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	6	punct	_	_
+24	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+25	<SUBJ>	<SUBJ>	NOUN	_	Gender=Masc|Number=Sing	26	nsubj	_	<SUBJ>
+26	Fausto	Fausto	PROPN	_	Gender=Masc|Number=Sing	20	advcl	_	_
+27	de	de	ADP	_	_	28	case	_	_
+28	Goethe	Goethe	PROPN	_	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	_
 
 # text = Nisto também na resistência e repetição de Beethoven Liszt é um foco importante, com reflexos na obra de Tchaikovsky, Scriabin e Strauss.
 # sent_id = CF931-4
@@ -6013,7 +6016,7 @@
 30	primeiros	primeiro	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	23	ccomp	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	23	punct	_	_
 
-# text = Eu vi , em um jogo quase inacreditável de a Copa , o Eire jogar futebol muito melhor de o que a Itália .
+# text = Eu vi , em um jogo quase inacreditável de a Copa , o Eire jogar futebol muito melhor de o que <SUBJ> a Itália .
 # sent_id = CF943-2
 # source = CETENFolha n=943 cad=Ilustrada sec=nd sem=94b
 # id = 3992
@@ -6038,12 +6041,13 @@
 17	muito	muito	ADV	_	_	18	advmod	_	_
 18	melhor	bom	ADV	_	_	15	advmod	_	_
 19-20	do	_	_	_	_	_	_	_	_
-19	de	de	ADP	_	_	23	case	_	MWE=do_que|MWEPOS=ADP
+19	de	de	ADP	_	_	24	case	_	MWE=do_que|MWEPOS=ADP
 20	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	19	fixed	_	_
 21	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	19	fixed	_	_
-22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-23	Itália	Itália	PROPN	_	Gender=Fem|Number=Sing	18	advcl	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	2	punct	_	_
+22	<SUBJ>	<SUBJ>	NOUN	_	Gender=Fem|Number=Sing	23	nsubj	_	<SUBJ>
+23	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	Itália	Itália	PROPN	_	Gender=Fem|Number=Sing	18	advcl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
 
 # text = <SUBJ> venceu por 1 a 0 .
 # sent_id = CF943-3
@@ -10141,37 +10145,38 @@
 19	Bósnia	Bósnia	PROPN	_	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	6	punct	_	_
 
-# text = a o se oferecer para <SUBJ> intermediar o conflito , a Rússia deu a os seus aliados sérvios a possibilidade de uma retirada honrosa .
+# text = a o <SUBJ> se oferecer para <SUBJ> intermediar o conflito , a Rússia deu a os seus aliados sérvios a possibilidade de uma retirada honrosa .
 # sent_id = CF828-5
 # source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
 # id = 3481
 1-2	Ao	_	_	_	_	_	_	_	_
-1	a	a	SCONJ	_	_	7	mark	_	_
-2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-3	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
-4	oferecer	oferecer	VERB	_	Number=Sing|Person=3|VerbForm=Inf	13	advcl	_	_
-5	para	para	SCONJ	_	_	7	mark	_	_
-6	<SUBJ>	<SUBJ>	NOUN	_	_	7	nsubj	_	<SUBJ>
-7	intermediar	intermediar	VERB	_	VerbForm=Inf	4	advcl	_	_
-8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	conflito	conflito	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	7	punct	_	_
-11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	Rússia	Rússia	PROPN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
-13	deu	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-14-15	aos	_	_	_	_	_	_	_	_
-14	a	a	ADP	_	_	17	case	_	_
-15	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
-16	seus	seu	DET	_	Gender=Masc|Number=Plur|PronType=Prs	17	det	_	_
-17	aliados	aliado	NOUN	_	Gender=Masc|Number=Plur	13	iobj	_	_
-18	sérvios	sérvio	ADJ	_	Gender=Masc|Number=Plur	17	amod	_	_
-19	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	possibilidade	possibilidade	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
-21	de	de	ADP	_	_	23	case	_	_
-22	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-23	retirada	retirada	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	_
-24	honrosa	honroso	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	13	punct	_	_
+1	a	a	SCONJ	_	_	8	mark	_	_
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+3	<SUBJ>	<SUBJ>	NOUN	_	Number=Sing|Person=3	5	nsubj	_	<SUBJ>
+4	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+5	oferecer	oferecer	VERB	_	Number=Sing|Person=3|VerbForm=Inf	14	advcl	_	_
+6	para	para	SCONJ	_	_	8	mark	_	_
+7	<SUBJ>	<SUBJ>	NOUN	_	_	8	nsubj	_	<SUBJ>
+8	intermediar	intermediar	VERB	_	VerbForm=Inf	5	advcl	_	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	conflito	conflito	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	8	punct	_	_
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Rússia	Rússia	PROPN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+14	deu	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15-16	aos	_	_	_	_	_	_	_	_
+15	a	a	ADP	_	_	18	case	_	_
+16	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+17	seus	seu	DET	_	Gender=Masc|Number=Plur|PronType=Prs	18	det	_	_
+18	aliados	aliado	NOUN	_	Gender=Masc|Number=Plur	14	iobj	_	_
+19	sérvios	sérvio	ADJ	_	Gender=Masc|Number=Plur	18	amod	_	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	possibilidade	possibilidade	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	retirada	retirada	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
+25	honrosa	honroso	ADJ	_	Gender=Fem|Number=Sing	24	amod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	14	punct	_	_
 
 # text = Isso praticamente eliminou a ameaça de ataques aéreos da Otan.
 # sent_id = CF828-6
@@ -11286,29 +11291,30 @@
 20	»	»	PUNCT	_	_	17	punct	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
-# text = E se encontram a a noite em o bar Cabral , embora <SUBJ> não se conheçam .
+# text = E <SUBJ> se encontram a a noite em o bar Cabral , embora não elas se conheçam .
 # sent_id = CF835-3
 # source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
 # id = 3520
-1	E	e	CCONJ	_	_	3	cc	_	_
-2	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	expl	_	_
-3	encontram	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4-5	à	_	_	_	_	_	_	_	_
-4	a	a	ADP	_	_	6	case	_	_
-5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	noite	noite	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-7-8	no	_	_	_	_	_	_	_	_
-7	em	em	ADP	_	_	9	case	_	_
-8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	bar	bar	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-10	Cabral	Cabral	PROPN	_	Gender=Masc|Number=Sing	9	appos	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	3	punct	_	_
-12	embora	embora	SCONJ	_	_	16	mark	_	_
-13	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	16	nsubj	_	<SUBJ>
-14	não	não	ADV	_	Polarity=Neg	16	advmod	_	_
-15	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	16	expl	_	_
-16	conheçam	conhecer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	3	punct	_	_
+1	E	e	CCONJ	_	_	4	cc	_	_
+2	<SUBJ>	<SUBJ>	NOUN	_	Number=Plur|Person=3	4	nsubj	_	<SUBJ>
+3	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	expl	_	_
+4	encontram	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	à	_	_	_	_	_	_	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	noite	noite	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8-9	no	_	_	_	_	_	_	_	_
+8	em	em	ADP	_	_	10	case	_	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	bar	bar	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+11	Cabral	Cabral	PROPN	_	Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	4	punct	_	_
+13	embora	embora	SCONJ	_	_	17	mark	_	_
+14	não	não	ADV	_	Polarity=Neg	17	advmod	_	_
+15	elas	elas	PRON	_	Gender=Fem|Number=Plur|Person=3	16	nsubj	_	<SUBJ>
+16	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	17	expl	_	_
+17	conheçam	conhecer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
 
 # text = <SUBJ> não é necessário .
 # sent_id = CF835-4
@@ -11934,7 +11940,7 @@
 6	questão	questão	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 7	salarial	salarial	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 
-# text = O ministro da Aeronáutica, Lélio Viana Lôbo, aproveitou a comemoração do Dia do Soldado ontem para queixar-se das dificuldades salariais dos militares.
+# text = O ministro de a Aeronáutica , Lélio Viana Lôbo , aproveitou a comemoração de o Dia de o Soldado ontem para <SUBJ> queixar se de as dificuldades salariais de os militares .
 # sent_id = CF839-3
 # source = CETENFolha n=839 cad=Brasil sec=pol sem=94a
 # id = 3543
@@ -11961,20 +11967,21 @@
 18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	Soldado	Soldado	PROPN	_	Number=Sing	16	nmod	_	_
 20	ontem	ontem	ADV	_	_	11	advmod	_	_
-21	para	para	SCONJ	_	_	22	mark	_	_
+21	para	para	SCONJ	_	_	23	mark	_	_
 22-23	queixar-se	_	_	_	_	_	_	_	_
-22	queixar	queixar	VERB	_	VerbForm=Inf	11	advcl	_	_
-23	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	expl	_	_
-24-25	das	_	_	_	_	_	_	_	_
-24	de	de	ADP	_	_	26	case	_	_
-25	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
-26	dificuldades	dificuldade	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	_
-27	salariais	salarial	ADJ	_	Gender=Fem|Number=Plur	26	amod	_	_
-28-29	dos	_	_	_	_	_	_	_	_
-28	de	de	ADP	_	_	30	case	_	_
-29	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
-30	militares	militar	NOUN	_	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	11	punct	_	_
+22	<SUBJ>	<SUBJ>	NOUN	_	_	23	nsubj	_	<SUBJ>
+23	queixar	queixar	VERB	_	VerbForm=Inf	11	advcl	_	_
+24	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	expl	_	_
+25-26	das	_	_	_	_	_	_	_	_
+25	de	de	ADP	_	_	27	case	_	_
+26	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
+27	dificuldades	dificuldade	NOUN	_	Gender=Fem|Number=Plur	23	obj	_	_
+28	salariais	salarial	ADJ	_	Gender=Fem|Number=Plur	27	amod	_	_
+29-30	dos	_	_	_	_	_	_	_	_
+29	de	de	ADP	_	_	31	case	_	_
+30	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
+31	militares	militar	NOUN	_	Gender=Masc|Number=Plur	27	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	11	punct	_	_
 
 # text = « Vivemos ainda dias difíceis , em um contexto econômico , social e político em que as necessidades básicas de nossas forças ( ... ) têm sofrido severamente as agruras que toda nação atravessa » , <SUBJ> disse , em saudação enviada a o Exército .
 # sent_id = CF839-4
