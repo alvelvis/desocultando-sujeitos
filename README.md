@@ -4,7 +4,7 @@ O experimento visa identificar e desocultar sujeitos ocultos em três corpora em
 
 Artigo sobre o experimento:
 
-FREITAS, Cláudia; DE SOUZA, Elvis. Sujeito oculto às claras: uma abordagem descritivo-computacional / Omitted subjects revealed: a quantitative-descriptive approach. REVISTA DE ESTUDOS DA LINGUAGEM, [S.l.], v. 29, n. 2, p. 1033-1058, mar. 2021. ISSN 2237-2083. Available at: [http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/17439]. Date accessed: 20 mar. 2021. DOI: [http://dx.doi.org/10.17851/2237-2083.29.2.1033-1058].
+FREITAS, Cláudia; DE SOUZA, Elvis. Sujeito oculto às claras: uma abordagem descritivo-computacional / Omitted subjects revealed: a quantitative-descriptive approach. REVISTA DE ESTUDOS DA LINGUAGEM, [S.l.], v. 29, n. 2, p. 1033-1058, mar. 2021. ISSN 2237-2083. Available at: http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/17439. Date accessed: 20 mar. 2021. DOI: http://dx.doi.org/10.17851/2237-2083.29.2.1033-1058.
 
 ```
 @article{freitas2021sujeito,
