@@ -2,7 +2,21 @@
 
 O experimento visa identificar e desocultar sujeitos ocultos em três corpora em língua portuguesa: o DHBB, o OBras e o Bosque-UD.
 
-Artigo sobre o experimento: (em breve).
+Artigo sobre o experimento:
+
+FREITAS, Cláudia; DE SOUZA, Elvis. Sujeito oculto às claras: uma abordagem descritivo-computacional / Omitted subjects revealed: a quantitative-descriptive approach. REVISTA DE ESTUDOS DA LINGUAGEM, [S.l.], v. 29, n. 2, p. 1033-1058, mar. 2021. ISSN 2237-2083. Available at: [http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/17439]. Date accessed: 20 mar. 2021. DOI: [http://dx.doi.org/10.17851/2237-2083.29.2.1033-1058].
+
+```
+@article{freitas2021sujeito,
+  title={Sujeito oculto {\`a}s claras: uma abordagem descritivo-computacional/Omitted subjects revealed: a quantitative-descriptive approach},
+  author={Freitas, Cl{\'a}udia and de{ }Souza, Elvis},
+  journal={Revista de Estudos da Linguagem},
+  volume={29},
+  number={2},
+  pages={1033--1058},
+  year={2021}
+}
+```
 
 ## Passo a passo
 
